@@ -1,0 +1,28 @@
+⭐ *2 KATA GANTI OBJEK DALAM 1 KALIMAT* ⭐
+_______________________
+
+📊 Dalam satu kalimat bisa berisi objek langsung dan tak langsung. Ketika keduanya bertemu *objek tak langsung didahulukan.*
+
+📈 *Contoh:*
+☆ _Marcos nos trajo la comida a nosotros._
+  = Marcos membawakan makanan untuk kami.
+                  ⬇️
+》 _Marcos *nos la* trajo._
+  = Marcos membawakan *nya [la]* untuk *kami [nos]*.
+
+☆ _Mi madre está comprándome una pizza._
+  = Ibu saya sedang membelikan saya pizza.
+                   ⬇️
+》 _Mi madre está *comprándomela*._
+  = Ibu saya sedang membelikan *itu [la]* untuk *saya [me].*
+
+📉 Kata ganti *le/les* berubah menjadi *se* jika bertemu dengan *lo/la/los/las*.
+
+☆ _Le digo el cuento a María._
+  = Aku menceritakan cerita itu kepada Maria.
+                     ⬇️
+☆ _*Se lo* digo._
+      [Bukan *le lo*]
+  = Aku menceritakan *itu [lo]* kepada *nya [se]*
+_______________________
+🇪🇸 *_Belajar Español_*

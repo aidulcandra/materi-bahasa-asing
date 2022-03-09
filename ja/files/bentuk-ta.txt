@@ -1,0 +1,54 @@
+⭐ 文法 • TATA BAHASA ⭐
+☆ た形 ☆
+◇ Bentuk -TA (Lampau) ◇
+
+🔍 PENGERTIAN _______________
+Bentuk TA adalah bentuk lampau atau yang terjadi sebelum sekarang.
+
+⚙️ POLA ______________________
+Untuk membentuk kata kerja TA, maka tergantung pada kelompok kata kerjanya:
+
+1️⃣ Kelompok Kata Kerja う (u)
+Ubah huruf akhir kata kerja dengan aturan berikut:
+うu / つtsu / るru     ==>  ったtta
+ぶbu / ぬnu / むmu  ==>  んだnda
+                        くku   ==> いた ita
+                        ぐgu   ==> いだ ida
+                        す su  ==> した shita
+
+Contoh:
+• 書く     kaku (menulis)
+   書いた kaita (telah menulis)
+
+• 話す      hanasu    (berbicara)
+   話した hanashita (telah bicara)
+
+Catatan:
+Khusus 行く      iku (pergi)
+          = 行った *itta* (telah pergi)
+
+2️⃣ Kelompok Kata Kerja る (ru)
+Ubah huruf るru nya langsung menjadi たta.
+
+Contoh:
+• 食べる taberu (makan)
+  食べた tabeta  (telah makan)
+
+• 見る miru  (melihat)
+   見た mita  (telah melihat)
+
+3️⃣ Kelompok Pengecualian
+1) する suru (melakukan)
+  = した shita (telah melakukan)
+
+2) 来る kuru (datang)
+  = 来た kita (telah datang)
+
+🌸 BENTUK SOPAN _____________
+Jika sudah belajar bentuk -MASU, maka untuk membentuk bentuk sopan pada kata kerja lampau yaitu cukup mengganti ~ます -MASU menjadi ~ました -MASHITA.
+
+Contoh:
+• 行きます ikimasu          (pergi)
+• 行きました ikimashita (telah pergi)
+______________________________
+30-10-20 | 🇯🇵 Belajar Nihon-go

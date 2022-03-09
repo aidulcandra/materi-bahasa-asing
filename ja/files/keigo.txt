@@ -1,0 +1,115 @@
+⭐ *文法 BUNPOU* • Tata Bahasa ⭐
+☆ 敬語 Keigo ☆
+◇ Bahasa Hormat ◇
+
+*敬語 Keigo* adalah jenis tingkatan bahasa dalam bahasa Jepang yang menunjukkan rasa hormat kepada lawan bicara. Mirip seperti bahasa Jawa yang memiliki tingkatan kasar dan halus, Jawa yang halus digunakan agar terdengar lebih sopan.
+
+Keigo digunakan umumnya oleh pegawai toko kepada pelanggannya, bawahan kepada atasannya, atau suatu kelompok misalnya perusahaan kepada kelompok perusahaan tamu.
+
+🈁 *Pembagian*
+Keigo dibagi menjadi tiga jenis secara umum:
+
+*☆ 丁寧語 Teineigo - Bahasa Sopan*
+Adalah bahasa sopan yang digunakan secara umum dalam kehidupan sehari-hari. Jenis bahasa ini sering diajarkan pertama kali pada pembelajar bahasa Jepang. Ciri-cirinya adalah adanya kata-kata seperti ですdesu dan akhiran kata ~ますmasu.
+
+*☆ 尊敬語 Sonkeigo - Bahasa Hormat*
+Adalah bahasa yang digunakan untuk meninggikan lawan bicara atau orang yang sedang kita tunjukkan rasa hormat padanya.
+
+*☆ 謙譲語 Kenjougo - Bahasa Merendah*
+Adalah bahasa yang digunakan untuk berbicara soal diri kita sendiri atau orang yang menjadi
+ kelompok kita yang sedang memberi hormat.
+
+Dalam materi ini kita akan fokus pada dua bahasa hormat: sonkeigo dan kenjougo.
+
+🔵 *Kata-Kata Sopan*
+Di dalam keigo, beberapa kata biasanya digantikan dengan versi yang lebih formal. Contoh:
+• besok: 明日 ashita ---> 明日 asu
+• hari ini: 今日 kyou ---> 本日 honjitsu
+• sebentar: ちょっと chotto ---> 少々 shoushou
+• di mana: どこ doko ---> どちら dochira
+• orang: 人 hito ---> 方 kata
+• tadi: さっき sakki ---> 先ほど sakihodo
+
+Beberapa kata hanya perlu tambahan 御 (o atau go). Aturan umumnya gunakan o jika kata itu dibaca secara kunyomi, dan gunakan go jika kata itu dibaca secara onyomi (kunyomi/onyomi adalah cara baca kanjinya, dibahas dalam materi kanji). Tetapi tidak semua kata mengikuti aturan ini. Oleh karena itu ikuti saja yang umum diucapkan orang.
+• sushi: 寿司 sushi ---> お寿司 osushi
+• pekerjaan: 仕事 shigoto ---> お仕事 oshigoto
+• asal: 出身 shusshin ---> ご出身 goshusshin
+• keluarga: 家族 kazoku ---> ご家族 gokazoku
+• nama: 名前 namae ---> お名前 onamae
+
+Selain itu akhiran pada nama orang (yang biasanya さんsan) menggunakan akhiran 様 -sama.
+
+🛂 *Kata Kerja Hormat*
+Di dalam keigo, kata-kata kerja tertentu memiliki bahasanya tersendiri baik itu untuk mengungkapkan sonkeigo maupun kenjougo.
+Contoh:
+
+Ket:
+T = teineigo
+S = sonkeigo
+K = kenjougo
+
+*いる iru (ada)*
+T: います imasu
+S: いらっしゃいます irasshaimasu / おいでになります oide ni narimasu
+K: おります orimasu
+
+*行く iku (pergi)*
+T: 行きます ikimasu
+S: いらっしゃいます irasshaimasu / おいでになります oide ni narimasu
+K: 参ります mairimasu
+
+*来る kuru (datang)*
+T: 来ます kimasu
+S: いらっしゃいます irasshaimasu / おいでになります oide ni narimasu / おこしになります okoshi ni narimasu / 見えます miemasu
+K: 参ります mairimasu
+
+*思う omou (berpikir)*
+T: 思います omoimasu
+S: 思いになります omoi ni narimasu
+K: 存じます zonjimasu
+
+*食べる taberu (makan) / 飲む nomu (minum)*
+T: 食べます tabemasu / 飲みます nomimasu
+S: 召し上がります meshiagarimasu
+K: いただきます itadakimasu
+
+*言う iu (berkata)*
+T: 言います iimasu
+S: おしゃいます oshaimasu
+K: 申し上げます moushiagemasu / 申します moshimasu (untuk menyebut nama)
+
+📶 *Pola Kata Kerja Keigo*
+Untuk kata-kata kerja lain yang tidak memiliki versi sonkeigo dan kenjougonya tersendiri maka bisa menggunakan suatu pola khusus.
+
+Sebenarnya ada pola yang lebih mudah, yaitu dengan menggunakan bentuk pasif, tetapi untuk menggunakannya harus hati-hati agar pendengar tidak salah paham.
+(Bentuk pasif di bahas dalam materi tersendiri)
+Contoh:
+☆ 日本では何を *食べられますか?*
+     _Nihon de wa nani o *taberaremasenka?*_
+= Anda *makan* apa di Jepang?
+
+Untuk sekarang mari kita fokus pada pola khusus sonkeigo/keigo.
+
+*Akar Kata Kerja*
+Keduanya menggunakan _akar kata kerja_ sebagai dasarnya. Akar kata kerja yaitu bentuk kata kerja yang disambungkan dengan akhiran ~ます -masu. Jadi akar kata kerja bisa didapatkan dengan menghapus -masu nya.
+Misalnya: 読みます yomimasu (membaca)
+--> 読み yomi
+
+*🌺 Pola Kata Kerja Sonkeigo*
+お o + Akar + になります ni narimasu
+Contoh:
+お読みになります
+Oyomi ni narimasu
+
+*🌼 Pola Kata Kerja Kenjougo*
+おo + Akar + します shimasu
+Contoh:
+お読みします
+Oyomi shimasu
+
+Contoh Kalimat:
+☆ 何時間 *お待ちになりましたか?*
+     _Nanjikan *omachi ni narimashita ka?*_
+= Berapa lama Anda *sudah menunggu?*
+_____________________________
+1-3-21 | 🇯🇵 Belajar Nihon-go

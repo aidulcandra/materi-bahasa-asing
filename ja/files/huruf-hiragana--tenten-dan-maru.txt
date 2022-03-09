@@ -1,0 +1,29 @@
+⭐ *Huruf Hiragana* ⭐
+Tanda Tenten (``) dan Maru (°)
+_______________________
+Kedua tanda ini digunakan untuk mengubah sedikit bunyi dari beberapa huruf:
+
+*✅ Tanda Tenten/Dakuten (``)*
+Untuk mengubah baris KA, SA, TA, dan HA
+Menjadi GA, ZA, DA, BA
+
+か き く け こ --> が ぎ ぐ げ ご
+ka ki ku ke ko --> ga gi gu ge go
+
+さ し す せ そ --> ざ じ ず ぜ ぞ
+sa shi su se so --> za ji zu ze zo
+
+た ち つ て と --> だ ぢ づ で ど
+ta chi tsu te to --> da ji dzu de do
+
+は ひ ふ へ ほ --> ば び ぶ べ ぼ
+ha hi fu he ho --> ba bi bu be bo
+
+*✅ Tanda Maru/Handakuten (°)*
+Untuk mengubah baris HA menjadi PA
+
+は ひ ふ へ ほ --> ぱ ぴぷぺ ぽ 
+ha hi fu he ho --> pa pi pu pe po
+_______________________
+🇯🇵 Belajar Nihon-go
+24-09-21

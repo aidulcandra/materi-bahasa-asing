@@ -1,0 +1,12 @@
+⭐ *Kosakata* ⭐
+_Nama Hari_
+_______________________
+🔴 *Montag*        _Senin_
+🟠 *Dienstag*      _Selasa_
+🟡 *Mittwoch*     _Rabu_
+🟢 *Donnerstag* _Kamis_
+🔵 *Freitag*         _Jumat_
+🟣 *Samstag*      _Sabtu_
+⚫ *Sonntag*      _Minggu_
+_______________________
+🇩🇪 Belajar Deutsch

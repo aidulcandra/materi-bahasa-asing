@@ -1,0 +1,115 @@
+⭐ *GRAMMATIK* • Tata Bahasa ⭐
+☆ Adjektivdeklination ☆
+◇ Deklinasi Kata Sifat ◇
+
+Kata sifat bahasa Jerman diletakkan sebelum kata benda seperti bahasa Inggris, untuk menerangkan langsung kata benda tersebut.
+
+Catatan: Semua contoh di materi ini menggunakan kata sifat *gut* (baik). Kata sifat lain juga mengikuti aturan ini.
+
+☆ *guter* Mann
+     pria *yang baik*
+
+Namun penggunaannya ada aturan deklinasi (perubahan akhiran) tergantung jumlah, kasus dan artikel yang digunakan.
+
+Aturan umumnya adalah, jika kata benda sudah mempunyai artikel yang menunjukkan gender, jumlah dan kasus, maka kata sifat tidak perlu menunjukkan itu lagi.
+
+📲 *Contoh:*
+A) *guter* Mann
+B) *der* gute Mann
+C) ein *guter* Mann
+
+Pada contoh dapat kita lihat informasi gender, jumlah, dan kasus diberikan oleh salah satu kata (jika bukan artikel, maka kata sifatnya), yaitu akhiran *-er* -nya. Namun ini hanya aturan umum, tentunya ada pengecualian yang perlu diingat.
+
+🚀 Deklinasinya ada 3 jenis:
+• Deklinasi kuat
+• Deklinasi lemah
+• Deklinasi campuran
+
+🔴 *DEKLINASI KUAT*
+Deklinasi kuat artinya kata sifat banyak mengalami perubahan akhiran yang menunjukkan gender, jumlah, kasus. Akhirannya mengikuti akhiran artikel (der/die/das/den/dem).
+Deklinasi kuat digunakan apabila tidak ada artikel yang menunjukkan gender, jumlah dan kasus.
+
+*Contoh untuk kata maskulin:*
+Nominativ:   *guter* Mann
+Akkusativ:    *guten* Mann
+Dati :           *gutem* Mann
+Genitiv: *guten* Mannes (bukan gutes)
+
+*Contoh kata feminin:*
+Nominativ:  *gute* Frau
+Akkusativ:   *gute* Frau
+Dativ:           *guter* Frau
+Genitiv:       *guter* Frau
+
+Contoh kata netral:
+Nominativ:   *gutes* Kind
+Akkusativ:    *gutes* Kind
+Dativ:           *gutem* Kind
+Genitiv:   *guten* Kindes (bukan gutes)
+
+Contoh kata jamak/Plural:
+Nominativ:  *gute* Menschen
+Akkusativ:    *gute* Menschen
+Dativ:           *guten* Menschen
+Genitiv:        *guter* Menschen
+
+🔵 *DEKLINASI LEMAH*
+Deklinasi lemah pada kata sifat berarti kata sifat tidak banyak berubah, cuma akhiran *-e* atau *-en* saja. Deklinasi lemah digunakan jika ada:
+• artikel *der/die/das* (dan bentuk-bentuk lainnya)
+• kata penunjuk yang mempunyai akhiran yang menunjukkan gender dan kasus: *dies-, jen-, jeglich-, jed-, derselb-, derjenig-, manch-, solch-, welch-*
+• kata *alle/beide*
+
+Maskulin
+• Nominativ: der *gute* Mann
+• Akkusativ:  den *guten* Mann
+• Dativ:         dem *guten* Mann
+• Genitiv:      des *guten* Mannes
+
+Feminin
+• Nominativ: die *gute* Frau
+• Akkusativ:  die *gute* Frau
+• Dativ:         der *guten* Frau
+• Genitiv:      der *guten* Frau
+
+Netral
+• Nominativ: das *gute* Kind
+• Akkusativ:  das *gute* Kind
+• Dativ:         dem *guten* Kind
+• Genitiv:      des *guten* Kindes
+
+Plural
+• Nominativ: die *guten* Menschen
+• Akkusativ:  die *guten* Menschen
+• Dativ:         den *guten* Menschen
+• Genitiv:      der *guten* Menschen
+
+🟣 *DEKLINASI CAMPURAN*
+Deklinasi campuran sebagian mengikuti deklinasi kuat dan sebagian deklinasi lemah. Deklinasi kuatnya yaitu untuk kasus Nominativ dan Akkusativ untuk jumlah tunggal. Sisanya terdeklinasi dengan akhiran *-en*. Deklinasi campuran digunakan jika ada:
+• artikel *ein/kein*
+• penunjuk kepunyaan *mein/dein/sein/ihr/dll...*
+
+Maskulin
+• Nominativ: ein *guter* Mann
+• Akkusativ:  einen *guten* Mann
+• Dativ:         einem *guten* Mann
+• Genitiv:      eines *guten* Mannes
+
+Feminin
+• Nominativ: eine *gute* Frau
+• Akkusativ:  eine *gute* Frau
+• Dativ:         einer *guten* Frau
+• Genitiv:      einer *guten* Frau
+
+Netral
+• Nominativ: ein *gutes* Kind
+• Akkusativ:  ein *gutes* Kind
+• Dativ:         einem *guten* Kind
+• Genitiv:      eines *guten* Kindes
+
+Plural
+• Nominativ: meine *guten* Freunde
+• Akkusativ:  meine *guten* Freunde
+• Dativ:      meiner *guten* Freunden
+• Genitiv:      meiner *guten* Freunde
+______________________________
+21-11-20 | 🇩🇪 Belajar Deutsch

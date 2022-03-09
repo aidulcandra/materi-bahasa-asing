@@ -1,0 +1,29 @@
+⭐ *PARTIKEL* ⭐
+_Kata Tugas_
+_______________________
+💽 *Partikel* adalah kata-kata pendek yang menandakan posisi atau peran kata di dalam kalimat.
+*Contoh:*
+• は wa : (penanda topik kalimat)
+• で de : di, dengan
+• に ni : di, ke, pada
+• を o : (penanda objek kalimat)
+• が ga : (penanda subjek)
+• へ e : ke, ke arah
+
+💾 Partikel diletakkan di belakang kata yang ditunjuk.
+☆ これは       kore wa
+☆ 学校に       gakkou ni
+☆ 家で           ie de
+☆ テレビを   terebi o
+
+*Contoh dalam Kalimat:*
+☆ 私は     学校へ    行く。
+     watashi wa  gakkou e  iku
+= _Saya pergi ke sekolah._
+• watashi = saya
+• gakkou = sekolah
+• iku = pergi
+
+💿 Ada banyak jumlah partikel dalam bahasa Jepang, contoh di atas merupakan partikel yang umum dijumpai. Dan satu partikel bisa saja punya fungsi yang berbeda-beda.
+_______________________
+🇯🇵 *Belajar Nihon-go*

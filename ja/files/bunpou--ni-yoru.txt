@@ -1,0 +1,62 @@
+⭐ *文法* • Tata Bahasa ⭐
+☆ ~による ☆
+◇ ... ni yoru ◇
+
+Pola *ni yoru* digunakan untuk menunjukkan suatu sebab, cara, ketergantungan, atau sumber.
+Dapat diartikan: akibat, disebabkan, dengan cara, oleh, menurut, tergantung ...
+
+⚙️ *Penggunaan*
+Untuk menggunakannya sebagai keterangan yang berdiri sendiri, maka bentuknya dijadikan *~によって* [ni yotte], atau lebih formalnya *~により* [ni yori]. Bisa juga ditambahkan はwa buat penekanan, (によっては ni yotte wa).
+
+1 - Menunjukkan Sebab/Cara
+• 彼は *火災によって* 怪我しました。
+_Kare wa *kasai ni yotte* kega shimashita._
+Dia terluka *akibat kebakaran.*
+
+• *インターネットによって*、あの人の情報をたくさん得られます。
+_*Intaanetto ni yotte*, ano hito no jouhou wo takusan eraremasu._
+*Dengan (menggunakan) internet*, saya bisa banyak mendapatkan informasi mengenai orang itu.
+
+2 - Menunjukkan Pelaku/Pembuat
+Biasanya dalam pekerjaan yang berkaitan dengan pembuatan.
+• この建物は *リドワン•カミルによって* 設計された。
+_Kono tatemono wa *ridowan kamiru ni yotte* sekkei sareta._
+Gedung ini dirancang *oleh Ridwan Kamil.*
+
+• 『坊ちゃん』は *夏目漱石によって* 書かれた。
+_"Botchan" wa *natsume soseki ni yotte* kakareta._
+"Botchan" (novel) ditulis *oleh Natsume Soseki.*
+
+3 - Menunjukkan Ketergantungan
+Biasanya untuk menunjukkan sesuatu yang berbeda tergantung sesuatu.
+• *場合によって*、答え方が違います。
+_*Baai ni yotte*, kotaekata ga chigaimasu._
+Cara menjawabnya berbeda *tergantung pada situasi.*
+
+• *お父さんのアドバイスによって*、犬を飼うかどうか決めます。
+_*Otousan no adobaisu ni yotte*, inu o kau ka dou ka kimemasu._
+Saya akan memutuskan untuk memelihara seekor anjing atau tidak *tergantung saran ayah saya.*
+
+4 - Menunjukkan Sumber
+Untuk ini gunakan bentuk *~によると* [ni yoru to], atau *~によれば* [ni yoreba.]
+• *私の発見によれば*、幸福は伝染するものです。
+_*Watashi no hakken ni yoreba*, koufuku wa densen suru mono desu._
+*Menurut pengamatanku*, kebahagiaan adalah sesuatu yang menular.
+
+• *医者の話によると*、あの女性に重い心臓障害があるのだそうです。
+_*Isha no hanashi ni yoru to*, ano josei ni omoi shinzou shougai ga aru no da sou desu._
+*Menurut kata dokter*, perempuan itu katanya mempunyai masalah jantung yang serius.
+
+⚙️ *Penggunaan 2*
+Untuk menerangkan suatu kata benda, tetap gunakan bentuk *~による* [ni yoru].
+
+Contoh:
+• ここは *津波による被害* が大きい。
+  _Koko wa *tsunami ni yoru higai* ga ookii._
+  Di sini *kerusakan akibat tsunaminya* itu besar.
+
+• 彼女は *火災による怪我* で入院しました。
+_Kanojo wa *kasai ni yoru kega* de nyuuin shimashita._
+Dia masuk rumah sakit karena *cidera akibat kebakaran.*
+_________________________
+18-1-21 | 🇯🇵 Belajar Nihon-go

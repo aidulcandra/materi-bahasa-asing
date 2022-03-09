@@ -1,0 +1,54 @@
+⭐ *KATA GANTI OBJEK LANGSUNG* ⭐
+_______________________
+🚔 Objek langsung dapat digantikan oleh berupa kata ganti khusus objek langsung:
+
+Subjek           Objek Langsung
+====================
+yo                   me
+tú                    te
+él                    lo
+ella                 la
+usted             lo/la*
+nosotros        nos
+vosotros         os
+ellos               los
+ellas               las
+ustedes         los/las*
+
+*tergantung gendernya
+
+🚍 Kata ganti tersebut diletakkan di depan kata kerja yang terkonjugasi.
+
+☆ _*Te* quiero._
+  = Aku cinta *kamu*
+[quiero = mau/ingin, tetapi di bahasa Spanyol kita dapat gunakan seperti ini]
+
+☆ _*La* llamaron._
+  = Mereka memanggil *nya* (perempuan)
+
+☆ _¿Tu hija *nos* conoce?_
+  = Anakmu mengenal *kami*?
+
+🚘 Untuk kata kerja infinitif (bentuk dasar) maka kata gantinya disambung di belakang kata kerja itu, atau di depan kata kerja pertama.
+
+☆ _Puedo *ayudarte.*_
+     (ayudar + te)
+  = Aku bisa *membantumu.*
+(atau)
+☆ _*Te* puedo *ayudar.*_
+  = Aku bisa *membantumu*.
+
+Begitu juga untuk gerundio:
+
+☆ _Estoy *comiéndolo.*_
+   = Aku sedang *memakannya.*
+(Atau...)
+☆ _*Lo* estoy *comiendo.*_
+   = Aku sedang *memakannya.*
+
+🚖 Kata kerja perintah juga disambungkan dengan objeknya.
+☆ _¡Ayúdame!_
+     (ayúda + me)
+  = Tolong aku!
+_______________________
+🇪🇸 *Belajar Español*

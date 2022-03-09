@@ -1,0 +1,88 @@
+⭐ *文法 Bunpou* • Tata Bahasa ⭐
+☆ 形容詞 ☆
+◇ Kata Sifat ◇
+
+Kata sifat yaitu kata yang memberi keterangan sifat dari suatu kata benda. Contoh:
+• 長い _nagai_ = panjang
+• 上手 _jouzu_ = pandai/mahir
+• 寒い _samui_ = dingin
+• ばか _baka_  = bodoh
+• いい _ii_         = baik/bagus
+• 静か _shizuka_ = sepi
+Dan lain-lain...
+
+Kata sifat ada 2 jenis: *kata sifat i* dan *kata sifat na*
+
+🔵 *Kata Sifat I*
+Yaitu yang berakhiran い (i). Contoh di atas adalah *長い nagai* (panjang), *寒い samui* (dingin) dan *いいii* (bagus).
+
+🔴 *Kata Sifat NA*
+Yaitu selain yang berakhiran I, contoh di atas *上手 jouzu* (mahir), *ばか baka* (bodoh), dan *静か shizuka* (sepi).
+
+⚠️ Catatan
+Pengecualian: Ada beberapa  kata sifat NA yang berakhiran い (i), tetapi tetap masuk dalam kata sifat NA. Misalnya: *きれい kirei* (cantik), *嫌い kirai* (dibenci).
+
+🧩 *Penggunaan*
+● Jika digunakan sebagai predikat kalimat, yaitu ketika menjelaskan sifat sesuatu, maka kata sifatnya hanya tinggal digunakan.
+
+Contoh:
+• この部屋は *静か*
+   _kono heya wa *shizuka*_
+   Ruangan ini *sepi.*
+• あの鞄は *白い*
+   _ano kaban wa *shiroi*_
+   Tas itu *(berwarna) putih.*
+
+● Kata sifat NA penggunaannya sama dengan kata benda. Contoh:
+• Positif: 
+   上手(だ) jouzu (da)
+   上手です jouzu desu
+• Negatif: 
+   上手ではない jouzu dewa nai
+   上手ではありません jouzu dewa arimasen
+• Lampau:
+   上手だった jouzu datta
+   上手でした jouzu deshita
+• Negatif Lampau:
+   上手ではなかった jouzu dewa nakatta
+   上手ではありませんでした jouzu dewa arimasen deshita
+
+● Untuk Kata Sifat I ada aturan bentuknya. Contoh:
+• Positif: 
+  寒い samui
+• Negatif: Ubah akhiran *-i* menjadi *-kunai*.
+  寒くない samukunai
+• Lampau: Ubah akhiran *-i* menjadi *-katta*.
+  寒かった samukatta
+• Negatif Lampau: Ubah akhiran *-i* menjadi *-kunakatta*.
+  寒くなかった samukunakatta
+
+_*Khusus* kata sifat いい ii (baik), untuk mengubah bentuknya harus gunakan bentuk aslinya yaitu 良い yoi. Sehingga jika diubah akan menjadi 良くない yokunai, 良かった yokatta, 良くなかった yokunakatta._
+
+Bentuk sopan kata sifat i hanya perlu menambahkan です desu.
+
+● Jika disambung ke kata benda, kata sifat i hanya perlu disambungkan sebelum kata benda.
+• 長い 鉛筆
+  _*nagai* enpitsu_
+   pensil yang *panjang*
+• 寒い 天気
+  _*samui* tenki_
+  cuaca yang *dingin*
+
+● Untuk kata sifat NA, perlu menambahkan な (na) setelah kata sifatnya, untuk yang bentuk positif saja.
+• 上手 な 人
+   *jouzu na* hito
+   orang yang *mahir*
+• ばか な 人
+   *baka na* hito
+   orang yang *bodoh*
+
+Ketika menghubungkan kata sifat dan kata benda seperti ini jangan gunakan bentuk sopan.
+❌ ~上手ではありません人~
+~jouzu dewa arimasen hito~
+
+✅ 上手ではない人
+jouzu dewa nai hito
+
+_____________________________
+11-4-21 | 🇯🇵 Belajar Nihon-go

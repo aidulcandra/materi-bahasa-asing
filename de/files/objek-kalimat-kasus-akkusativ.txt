@@ -1,0 +1,62 @@
+⭐ *GRAMMATIK* • Tata Bahasa ⭐
+☆ Objek Kalimat dan Kasus Akkusativ ☆
+
+Susunan kalimat yang normal dalam bahasa Jerman (yang berisi objek) adalah:
+
+Subjek + KataKerja + Objek
+
+Contohnya:
+• _Ich trinke Wasser._
+  Saya minum air.
+ich:         saya     [subjek]
+trinken:  minum [k. kerja]
+Wasser: air         [objek]
+
+• _Sie hat eine Katze._
+  Dia punya seekor kucing.
+sie: dia (perempuan) [subj.]
+haben: punya              [k.kerja]
+eine Katze: seekor kucing [obj.]
+
+Sampai di sini tidak ada masalah, tetapi jika objeknya berupa kata benda maskulin, maka ada sedikit perubahan pada kata tunjuk atau artikelnya.
+
+Misalnya "ein Mann" (seorang pria)
+
+• _Ich sehe *einen* Mann._
+= Saya melihat seorang pria.
+
+Mengapa *einen*, bukannya *ein* ? Ini karena posisi "einen Mann" adalah sebagai objek.
+
+Kata tunjuk dan artikel (der, ein, mein, sein, dieser, dll) akan berakhiran *en* jika letak kata bendanya adalah sebagai objek.
+
+der       --> den
+ein      --> einen
+mein   --> meinen
+kein    --> keinen
+dieser --> diesen
+
+• _Mein Vater isst *den* Apfel._
+= Ayah saya memakan apel *itu*.
+
+Untungnya ini hanya berlaku untuk kata benda maskulin. Feminin dan netral sebagai objek tidak mengalami perubahan pada kata tunjuknya (seperti contoh eine Katze di atas).
+
+Keadaan kata benda sebagai objek ini disebut dengan *kasus Akkusativ.* Sehingga kata den, einen, meinen tadi merupakan bentuk Akkusativ.
+
+Tapi apakah Akkusativ ada pada objek saja?
+Selain posisi objek, ada beberapa preposisi (kata depan) yang diikuti bentuk Akkusativ:
+
+• für (untuk)
+• um (sekitar/tentang)
+• durch (melalui)
+• gegen (terhadap, pada, melawan)
+• entlang (sepanjang)
+• bis (sampai)
+• ohne (tanpa)
+• wider (berlawanan dengan)
+
+Contoh:
+• _Dieses Geschenk ist für *meinen* Vater._
+= Hadiah ini untuk ayahku.
+
+_____________________________
+12-5-21 | 🇩🇪 Belajar Deutsch

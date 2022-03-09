@@ -1,0 +1,55 @@
+⭐ 文法 • TATA BAHASA ⭐
+☆ マスけい ☆
+◇ Bentuk -MASU ◇
+
+[ 🔍 PENGERTIAN ]______________
+Adalah bentuk kata kerja bahasa Jepang yang digunakan dalam bahasa sopan *(teineigo)*. Dapat digunakan ketika berbicara kepada yang bukan teman dekat kita.
+
+[ ⚙️ POLA ]____________________
+*akar kata kerja + ます (masu)*
+
+Apa itu akar kata kerja?
+Akar kata kerja bisa kita dapatkan dengan cara berikut sesuai kelompok kata kerja:
+
+1️⃣ Kelompok Kata Kerja う (u)
+Ubah huruf akhir menjadi bunyi い (i) -nya (sesuai dalam susunan huruf hiragana).
+
+う u    --> い i        む mu --> み mi
+つ tsu --> ち chi    く ku  --> き ki
+る ru   --> り ri       ぐ gu --> ぎ gi
+ぶ bu  --> び bi      す su --> し shi
+ぬ nu  --> に ni
+
+Contoh:        読む yomu (membaca)
+Akar katanya: 読み yomi
+Bentuk MASU: 読みます yomimasu
+
+2️⃣ Kelompok Kata Kerja る (ru)
+Untuk memperoleh akar kata kerjanya tinggal dihapus saja る ru di akhir katanya.
+
+Contoh:        食べる taberu (makan)
+Akar:             食べ     tabe
+Bentuk MASU: 食べます tabemasu
+
+3️⃣ Kelompok Pengecualian
+Hanya terdiri dari dua kata kerja:
+• する suru (melakukan)
+Akar:                 し shi
+Bentuk MASU:  します shimasu
+
+• 来る kuru (datang)
+Akar:                  き ki
+Bentuk MASU:   来ます kimasu
+
+[ 📺 CONTOH KALIMAT ]_________
+🇯🇵 学校へ *行く。*
+       _gakkou e *iku*_
+🇮🇩 Saya *pergi* ke sekolah.
+(Biasa)
+
+🇯🇵 学校へ *行きます。*
+       _gakkou e *ikimasu*_
+🇮🇩 Saya *pergi* ke sekolah.
+(Sopan)
+______________________________
+26-10-20 | 🇯🇵 Belajar Nihon-go

@@ -1,0 +1,35 @@
+⭐ *ANGKA-ANGKA* ⭐
+Satuan - Puluhan
+===================
+
+0 : zero     5 : five
+1 : one      6 : six
+2 : two      7 : seven
+3 : three   8 : eight
+4 : four     9 : nine
+
+Angka Belasan
+10: ten           15: fifteen
+11: eleven     16: sixteen
+12: twelve     17: seventeen
+13: thirteen   18: eighteen
+14: fourteen  19: nineteen
+
+Angka Puluhan
+20: twenty    60: sixty
+30: thirty       70: seventy
+40: forty        80: eighty
+50: fifty          90: ninety
+
+*Menggabungkan Puluhan dan Satuan*
+Yaitu cukup dengan menyebutkan satu per satu dimulai dari puluhan kemudian satuannya.
+
+56 = 50    + 6
+         fifty + six
+         fifty six
+
+83 = 80       + 3
+         eighty + three
+         eighty three
+_____________________________
+🇬🇧🇺🇸 Belajar English

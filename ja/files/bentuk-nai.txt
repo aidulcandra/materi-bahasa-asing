@@ -1,0 +1,54 @@
+⭐ 文法 • TATA BAHASA ⭐
+☆ ない形 ☆
+◇ Bentuk -NAI (Negatif) ◇
+
+🔍 *PENGERTIAN*______________
+Bentuk NAI adalah bentuk kata kerja negatif atau sangkalan (tidak dilakukan).
+
+⚙️ *POLA*____________________
+Untuk membentuk kata kerja NAI, tergantung pada kelompok kata kerjanya:
+
+1️⃣ Kelompok Kata Kerja う (u)
+Ubah huruf akhir kata kerjanya ke huruf bunyi -A nya seperti berikut:
+
+ぶbu --> ばba     くku --> かka
+ぬnu --> なna     ぐgu --> がga
+むmu --> まma   すsu --> さsa
+
+うu    --> *わwa* (khusus)
+つtsu -->  たta
+るru   -->  らra
+
+Kemudian tambahkan ない (nai).
+
+*Contoh:*
+読む          yomu     (membaca)
+読まない yomanai (tdk membaca)
+
+会う         au          (bertemu)
+会わない awanai (tdk bertemu)
+
+2️⃣ Kelompok Kata Kerja る (ru)
+Ubah akhiran るru nya langsung menjadi ないnai.
+Contoh:
+• 食べる     taberu   (makan)
+   食べない tabenai (tidak makan)
+
+• 見る     miru   (melihat)
+   見ない minai (tidak melihat)
+
+3️⃣ Kelompok Pengecualian
+1) する suru       (melakukan)
+    しない shinai (tidak melakukan)
+
+2) 来る kuru       (datang)
+    来ない *konai* (tidak datang)
+
+🌸 *BENTUK SOPAN*____________
+Bentuk sopan adalah kata kerja bentuk -MASU. Untuk bentuk negatifnya hanya dengan mengubah -MASU menjadi -MASEN.
+
+Contoh:
+• 分かります wakarimasu (mengerti)
+• 分かりません wakarimasen (tidak mengerti)
+______________________________
+3-11-20 | 🇯🇵 Belajar Nihon-go

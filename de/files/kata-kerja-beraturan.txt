@@ -1,0 +1,32 @@
+⭐ *REGELMÄSSIGE VERBEN* ⭐
+_Kata Kerja Beraturan_
+_______________________
+🔍 Kata kerja bahasa Jerman berubah bentuk tergantung pada subjek dan waktu. Ada 2 jenis perubahan kata kerja: beraturan dan tidak beraturan.
+
+Kata kerja beraturan ini mempunyai pola yang teratur dalam konjugasinya. Berikut ini pola konjugasi kata kerja beraturan untuk konteks waktu sekarang (Präsens).
+
+Pertama, kita hapus terlebih dahulu akhiran *-en*-nya (atau *-n*, jika kata kerjanya berakhiran *-ern/-eln*) sehingga kita mendapatkan akar katanya. Kemudian tambahkan akhiran berikut ini.
+
+*Subjek           Akhiran*
+ich                 -e
+du                  -st   / -est
+Sie                 -en
+er/sie/es        -t    / -et
+wir                  -en
+ihr                  -t    / -et
+sie                  -en
+
+📱 *Contoh:* kata kerja "machen" (mengerjakan)
+*Akar katanya:* _mach-_
+☆ Ich mache.
+☆ Du machst.
+☆ Er/sie/es macht.
+☆ Wir/sie machen.
+☆ Sie machen.
+☆ Ihr macht.
+
+*Catatan:* Jika akar katanya berakhiran *d* atau *t*, maka gunakan *-est/-et* untuk subjek du, er/sie/es, dan ihr agar pengucapan tidak sulit. *Contoh:*
+• arbeiten --> arbeit
+  --> ~arbeitst~ arbeitest
+_______________________
+🇩🇪 *Belajar Deutsch*

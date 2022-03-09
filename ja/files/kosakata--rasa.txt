@@ -1,0 +1,17 @@
+*KOSAKATA - RASA*
+*単語一覧：味 _(AJI)_*
+
+*美味しい* _(oishii)_ enak/lezat
+*うまい* _(umai)_ enak/lezat
+*旨味* _(umami)_ rasa lezat/gurih
+*甘い* _(amai)_ manis
+*苦い* _(nigai)_ pahit
+*塩辛い／しょっぱい* _(shio karai/shoppai)_ asin
+*酸っぱい* _(suppai)_ asam/masam
+*辛い* _(karai)_ pedas
+*渋い* _(shibui)_ sepet
+*濃い* _(koi)_ kuat/pekat/kental
+*薄い* _(usui)_ tidak kuat/tawar/encer
+*硬い* _(katai)_ keras
+*やわらかい* _(yawarakai)_ empuk
+*油っこい* _(aburakkoi)_ berminyak

@@ -1,0 +1,85 @@
+⭐ *GRAMMATIK* • Tata Bahasa ⭐
+☆ Partizip II ☆
+
+*Partizip II* adalah salah satu bentuk kata kerja yang digunakan pada pola kalimat tertentu.
+
+Ciri-ciri umumnya adalah berawalan *ge-*.
+
+• machen --> gemacht
+• sagen    --> gesagt
+• essen    --> gegessen
+• wissen  --> gewusst
+
+Penentuannya adalah sebagai berikut, tergantung jenis kata kerjanya.
+
+(*jenis kata kerja dibahas di materi tersendiri)
+
+1️⃣ *Kata Kerja Lemah*
+Kata kerja lemah yaitu yang tidak mengalami perubahan di dalam kata kerjanya.
+
+Bentuk Partizip II nya adalah dengan menambahkan awalan *ge-*, dan mengubah akhirannya menjadi *-t*.
+Contoh:
+• sagen     --> gesagt
+• kaufen    --> gekauft
+• wandern --> gewandert
+• brauchen --> gebraucht
+
+Untuk yang berakhiran *-ieren* tidak perlu menambahkan *ge-* diawal.
+• studieren --> studiert
+• telefonieren --> telefoniert
+
+2️⃣ *Kata Kerja Kuat*
+Kata kerja kuat adalah kata kerja yang bisa mengalami perubahan kata dasar dan biasanya pada waktu lampau (Präteritum) tidak memiliki akhiran untuk subjek ich dan er/sie/es -nya.
+
+Pada bentuk Partizip II ia juga punya perubahan kata dasarnya sendiri. Tetapi tetap memiliki awalan *ge-*, dan akhirannya tidak berubah.
+Contoh:
+• gehen --> gegangen
+• essen --> gegessen
+• schließen --> geschlossen
+• sehen --> gesehen
+• fahren --> gefahren
+• fliegen --> geflogen
+
+Khusus: tun --> getan
+
+3️⃣ *Kata Kerja Campuran*
+Kata kerja campuran memiliki pola akhiran teratur tetapi kadang mengalami perubahan kata dasar.
+
+Kata kerja campuran pada bentuk Partizip II nya memiliki ciri gabungan dari kata kerja lemah dan kuat, yaitu mengalami perubahan kata dasar + berakhiran *-t*.
+Contoh:
+• wissen --> gewusst
+• haben   --> gehabt
+• kennen --> gekannt
+• denken --> gedacht
+• bringen --> gebracht
+• rennen --> gerannt
+
+Itulah tadi pola pada tiap jenis kata kerja, walaupun banyak sekali ketidakberaturan, jika sudah terbiasa menggunakannya maka tidak akan masalah.
+=======================
+
+🔧 *Fungsi Partizip II*
+Partizip II dipakai pada pola kalimat berikut:
+
+*1) Perfekt* - yaitu konteks waktu dalam bahasa Jerman yang menunjukkan kejadian yang sudah berlalu.
+Rumus:
+》 haben/sein + Partizip II
+
+(*memilih haben atau sein akan dibahas di materi tersendiri)
+
+Contoh:
+》 _Ich *habe gegessen.*_
+     Saya *sudah makan.*
+
+*2) Passiv* - yaitu kalimat pasif, di mana subjek yang mendapatkan perlakuan dari kata kerja.
+Rumus:
+》 werden + Partizip II
+Contoh:
+》 _Das Brot *wird gegessen.*_
+     Roti itu *dimakan.*
+
+*3 - Kata Sifat* - Partizip II dapat menjadi kata sifat dan bertindak seperti kata sifat.
+Contoh:
+》 _das *gegessene* Brot_
+     roti *yang dimakan*
+_____________________________
+2-4-21 | 🇩🇪 Belajar Deutsch

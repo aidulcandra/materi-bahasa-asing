@@ -1,0 +1,38 @@
+⭐ *文法 Bunpou* • Tata Bahasa ⭐
+
+☆ Partikel とTO ☆
+◇ Penghubung Kata Benda (DAN) ◇
+
+Salah satu fungsi partikel とto adalah untuk mengungkapkan "dan".
+
+Tetapi ini hanya berlaku pada kata-kata benda. Partikel とto diletakkan di belakang setiap kata bendanya.
+
+[本と]     [紙と]
+[hon to] [kami to]
+= buku dan kertas
+
+猫と       犬と    鶏と
+neko to inu to niwatori to
+= kucing, anjing, dan ayam
+
+Partikel とto yang paling belakang bisa juga dihilangkan.
+
+本と紙
+_hon to kami_
+= buku dan kertas
+
+猫と犬と鶏
+_neko to inu to niwatori_
+kucing, anjing, dan ayam
+
+📺 *Contoh Kalimat:*
+• 彼女は *英語とフランス語* が話せる。
+  _kanojo wa *eigo to furansu-go* ga hanaseru_
+= Dia bisa berbicara dalam *bahasa Inggris dan bahasa Prancis.*
+
+• *犬と猫と鶏と* を飼っています。
+   _*inu to neko to niwatori to* o katte imasu_
+= Saya memelihara *anjing, kucing, dan ayam*
+
+_____________________________
+7-6-21 | 🇯🇵 Belajar Nihon-go

@@ -1,0 +1,61 @@
+⭐ *Angka-Angka* ⭐
+Ratusan
+=================
+
+*Angka Ratusan*
+100: one hundred
+200: two hundred
+300: three hundred
+400: four hundred
+500: five hundred
+600: six hundred
+700: seven hundred
+800: eight hundred
+900: nine hundred
+
+*Menggabungkan Satuan, Puluhan, dan Ratusan*
+Untuk menyebutkan angka ratusan kita menyebutkan satu per satu ratusan, puluhan, dan satuannya.
+
+534 = 500 five hundred
+             30 thirty
+               4 four
+*five hundred thirty four*
+
+281 = 200 two hundred
+             80 eighty
+               1 one
+*two hundred eighty one*
+
+Sesuaikan juga jika bagian puluhannya berupa belasan.
+
+412 = 400 four hundred
+             12 twelve
+*four hundred twelve*
+
+Jika puluhan atau satuannya tidak ada maka tentunya tidak disebutkan
+
+305 = 300 three hundred
+               5 five
+*three hundred five*
+
+960 = 900 nine hundred
+             60 sixty
+*nine hundred sixty*
+
+⭐ *Kata "And"*
+Pada dialek tertentu seperti British, maka kata "and" dipakai untuk memisahkan bagian ratusan dengan bagian puluhan-satuan.
+Contoh:
+
+888 =
+🇺🇸 eight hundred eighty eight
+🇬🇧 eight hundred *and* eighty eight
+
+450 =
+🇺🇸 four hundred fifty
+🇬🇧 four hundred *and* fifty
+
+701 =
+🇺🇸 seven hundred one
+🇬🇧 seven hundred *and* one
+_____________________________
+🇬🇧🇺🇸 Belajar English

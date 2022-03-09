@@ -1,0 +1,54 @@
+⭐ *文法 Bunpou* • Tata Bahasa ⭐
+☆ ~おきに ~oki ni ☆
+
+Pola kalimat *~おきに ~oki ni* digunakan untuk menunjukkan interval waktu/jarak yang berulang.
+
+Makna: setiap, tiap
+
+Rumus:
+• [selang waktu/interval jarak] + おきに
+
+📺 *Contoh Kalimat*
+電車は *５分おきに* 走っています。
+_Densha wa *go-fun oki ni* hashitte imasu._
+= Keretanya jalan *tiap 5 menit.*
+
+*１０メートルおきに* 木を植えました。
+_*Juu meetoru oki ni* ki o uemashita._
+= Kami menanam pohon *setiap 10 meter*.
+
+試験のとき *１５分おきに* 経ったと先生は報告します。
+_Shiken no toki *juugo-fun oki ni* tatta to sensei wa houkoku shimasu._
+= Ketika ujian, guru akan melapor *setiap 15 menit* berlalu.
+
+=======================
+Jika digunakan pada hitungan waktu yang dapat dihitung satu per satu misalnya jumlah hari, maka maknanya adalah menyisakan jumlah hari tersebut di antara setiap kejadian.
+Contoh: 
+*３日おきに*
+_mikka oki ni_
+
+Ini bukan berarti setiap 3 hari: Hari ke-3, 6, 9, dst...
+
+1,2,3️⃣,4,5,6️⃣,7,8,9️⃣,10,11
+
+Melainkan *setiap lewat 3 hari*: Hari ke-4, 8, 12
+Dengan kata lain, "setiap 4 hari"
+
+1,2,3,4️⃣,5,6,7,8️⃣,9,10,11,...
+(menyisakan 3 hari di antaranya)
+
+📺 *Contoh Kalimat:*
+この用紙には *１行おきに* 書いてください。
+_Kono youshi ni wa *ichi-gyou oki ni* kaite kudasai._
+= Tolong tulis *setiap 2 baris* di kertas ini.
+(Menyisakan 1 baris di antaranya)
+
+彼はうちで *一日おきに* お酒を飲みます。
+_Kare wa uchi de *ichinichi oki ni* osake o nomimasu._
+= Dia minum sake *tiap dua hari* di rumah.
+
+そね会議は *二年おきに* 開かれます。
+_Sono kaigi wa *ni-nen oki ni* akaremasu._
+= Rapat itu dibuka *setiap tiga tahun*.
+_____________________________
+7-3-21 | 🇯🇵 Belajar Nihon-go

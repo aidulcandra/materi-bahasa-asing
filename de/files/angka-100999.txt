@@ -1,0 +1,45 @@
+⭐ *WORTSCHATZ* • Kosakata ⭐
+☆ Angka 100-999 ☆
+
+📶 *Susunan*
+100 - hundert
+200 - zweihundert
+300 - dreihundert
+400 - vierhundert
+500 - fünfhundert
+600 - sechshundert
+700 - siebenhundert
+800 - achthundert
+900 - neunhundert
+
+🔢 *Puluhan Dan Satuan*
+Untuk menambahkan puluhan dan satuan, cukup tambahkan puluhan dan satuannya (susunannya masih seperti biasa: _satuan + und + puluhan_).
+Semuanya disambungkan menjadi satu kata.
+
+202
+--> 200 : zweihundert
+-->      2 : zwei
+= *zweihundertzwei*
+
+650
+--> 600 : sechshundert
+-->   50 : fünfzig
+= *sechshundertfünfzig*
+
+481
+--> 400 : vierhundert
+-->   81 : einundachtzig
+= *vierhunderteinundachtzig*
+
+715
+--> 700 : siebenhundert
+-->   15 : fünfzehn
+= *siebenhundertfünfzehn*
+
+999
+--> 900 : neunhundert
+-->   99 : neunundneunzig
+= *neunhundertneunundneunzig*
+
+_____________________________
+4-6-21 | 🇩🇪 Belajar Deutsch

@@ -1,0 +1,106 @@
+⭐ *文法* • Tata Bahasa ⭐
+☆ Transitif dan Intransitif ☆
+
+Kata kerja memiliki pembagian jenis transitif dan intransitif.
+
+🔨 *Transitif (Memerlukan Objek)*
+Kata kerja ini berupa aksi yang dilakukan terhadap benda lain. Contoh:
+• 手紙を書く
+  _tegami o kaku_
+  menulis surat
+
+Di sini kata kerja 書く kaku (menulis) termasuk *transitif* karena ia memerlukan objek 手紙 tegami (surat). Objek ditandai dengan partikel をo/wo setelah objek itu.
+
+⚙️ *Intransitif (Tidak Perlu Objek)*
+Kata kerja intransitif berarti berupa aksi yang dilakukan sendiri bukan kepada benda lain, karena memang tidak mempunyai objek. Contoh:
+• 起きる
+  _okiru_
+  bangun
+
+Kata kerja 起きる okiru (bangun) termasuk intransitif karena ia tidak perlu objek apapun, karena pelakunya sendiri bangun tanpa mempengaruhi benda lain.
+
+❇️ *Transitif + Intransitif (Bisa Perlu Objek, Bisa Tidak)*
+Terdapat juga kata kerja yang bisa menjadi transitif maupun intransitif tergantung kondisi. Misalnya kata kerja 歌う utau (menyanyi) berikut ini:
+• 歌を歌う
+  _uta o utau_
+  menyanyikan lagu
+(Transitif)
+
+• 歌う
+  _utau_
+  menyanyi/bernyanyi
+(Intransitif)
+
+🈁 *Pasangan Transitif-Intransitif*
+Di dalam bahasa Jepang ada juga pasangan kata kerja transitif-intransitif dari akar kata yang sama, dan kanjinya pun sama, namun pemaknaannya cukup berbeda. Oleh karena itu ini perlu diperhatikan.
+Biasanya yang transitif berakhiran *-eru* atau *-su*.
+
+Ingat, transitif berarti aksi itu dilakukan terhadap benda lain, sedangkan intransitif bisa berarti aksi itu dilakukan sendiri.
+
+Contoh:
+
+*Trans. ............ Intrans.*
+==================
+開ける ............ 開く
+_akeru ............. aku_
+membuka ...... terbuka
+
+閉める ............ 閉まる
+_shimeru ......... shimaru_
+menutup ....... tertutup
+
+出す ................ 出る
+_dasu .............. deru_
+mengeluarkan ... keluar
+
+動かす ................ 動く
+_ugokasu ............ ugoku_
+menggerakkan ... bergerak
+
+止める ............... 止まる
+_tomeru ............. tomaru_
+menghentikan ... berhenti
+
+つける ............... つく
+_tsukeru ............ tsuku_
+menyalakan ..... menyala
+
+消す ................... 消える
+_kesu .................. kieru_
+memadamkan ... padam
+
+変える ................ 変わる
+_kaeru ................. kawaru_
+mengubah ......... berubah
+
+治す ................... 治る
+_naosu ............... naoru_
+menyembuhkan ... sembuh
+
+始める ................. 始まる
+_hajimeru ............. hajimaru_
+memulai ............. dimulai
+
+集める .................. 集まる
+_atsumeru ............ atsumaru_
+mengumpulkan ... berkumpul
+
+並べる ................. 並ぶ
+_naraberu ............ narabu_
+menyusun .......... tersusun
+/membariskan ... berbaris
+
+こぼれる .............. こぼす
+_koboreru ............. kobosu_
+menumpahkan ... tumpah
+
+割れる .................. 割る
+_wareru ................ waru_
+memecahkan ...... pecah
+
+切る .................. 切れる
+_kiru ...................... kireru_
+memotong .......... terpotong
+/memutus ........... putus
+_____________________________
+25-2-21 | 🇯🇵 Belajar Nihon-go

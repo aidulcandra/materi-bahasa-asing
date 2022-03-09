@@ -1,0 +1,75 @@
+⭐ *GRAMMATIK* • Tata Bahasa ⭐
+☆ Objek Tak Langsung dan Kasus Dativ ☆
+
+Susunan kalimat yang normal dalam bahasa Jerman yang berisi objek adalah seperti ini:
+
+Subjek + KataKerja + Objek
+
+Tetapi kadang terdapat 2 objek di dalam kalimat. Misalnya:
+
+_Saya memberikan [adik saya] [sebuah buku]._
+
+Ada 2 objek di sini: "adik saya" dan "sebuah buku". Salah satunya merupakan *objek langsung* dan satunya merupakan *objek tak langsung*.
+
+Objek langsung yaitu yang dikenai perlakuan, dalam hal ini yang dikenai perlakuan "memberi" adalah "sebuah buku". Karena buku itu yang diberikan.
+Dan objek tak langsung yaitu yang menerima hasil dari perlakuan ini. Karena buku tersebut diberikan kepada "adik saya", maka adik yang menerima hasil pemberian ini. Sehingga adik adalah objek tak langsung.
+
+Obj. Langsung: sebuah buku
+Obj. Tak Langsung: adik saya
+
+Jika kita ubah ke bahasa Jerman...
+
+sebuah buku = ein Buch
+adik = mein Bruder
+
+Di dalam bahasa Jerman, jika kata benda berada dalam posisi tertentu seperti objek tak langsung, maka artikelnya (ein, der, ..) akan mengalami perubahan.
+
+*Perubahan Artikel Untuk Objek Tak Langsung:*
+Maskulin:
+   der, ein    -->   dem, einem
+Feminin:
+   die, eine  -->   der, einer
+Netral:
+   das, ein   -->   dem, einem
+Jamak:
+   die, kein  -->   den, keinen
+
+*Untuk kata benda jamak, akan mendapatkan akhiran n (kecuali sudah berakhiran n atau s).
+• die Männer --> den Männern
+• die Kinder --> den Kindern
+
+Karena *mein Bruder* yang menjadi penerima hasil pekerjaan memberi tersebut, maka dia berubah menjadi *meinem Bruder* (mengikuti  artikel ein pada tabel di atas).
+
+☆ Ich gebe *meinem Bruder* ein Buch.
+= _Saya memberikan *adik saya* sebuah buku._
+
+Posisi kata benda sebagai objek tak langsung ini disebut dengan kasus *Dativ*.
+
+🔵 *Kata Kerja Dativ*
+Untuk kata-kata kerja tertentu, ada yang memang memerlukan objek tak langsung, walaupun tanpa objek langsung. Contohnya:
+• helfen (membantu)
+• gehören (mendengarkan)
+• antworten (menjawab)
+• glauben (percaya)
+
+Contoh Kalimat (dengan "helfen"):
+☆ _Ich helfe *meinem Bruder.*_
+= Saya membantu *adik saya*.
+
+🟢 *Selain Objek Tak Langsung?*
+Kasus Dativ tidak hanya ada pada objek tak langsung, tetapi juga setelah preposisi (kata depan) tertentu:
+• aus (dari, keluar dari)
+• außer (kecuali)
+• bei (dengan, di dekat)
+• mit (dengan)
+• nach (setelah, ke)
+• seit (sejak, selama)
+• von (dari, oleh)
+• zu (ke)
+
+Contoh Kalimat (dengan "mit"):
+☆ _Sie sprichst mit *der Frau.*_
+= Dia berbicara dengan *wanita itu.*
+
+_____________________________
+25-5-21 | 🇩🇪 Belajar Deutsch

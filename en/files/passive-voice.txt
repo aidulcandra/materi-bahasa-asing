@@ -1,0 +1,125 @@
+*⭐ Passive Voice ⭐*
+_Kalimat Pasif_
+
+Daftar isi:
+A) Active voice
+B) Passive voice
+C) Penggunaan
+D) Kapan digunakan?
+E) Batasan
+
+🚗 *A) KALIMAT AKTIF*
+☆ Kalimat bahasa Inggris pada umumnya berbentuk *kalimat aktif (active voice)* di mana subjek (S) sebagai pelaku, melakukan sesuatu terhadap objeknya (O). Susunannya
+
+   [S + verb + O]
+   Andy kicks the ball.
+   (Andy menendang bola itu.)
+
+☆ *Andy* adalah subjek yang menjadi pelaku, sebab dia yang menendang *(kicks)*, dan *the ball* yang menjadi objeknya yang dikenai perlakuan yaitu ditendang.
+======○□□○======
+
+🚕 *B) PASSIVE VOICE*
+☆ _Passive voice_ adalah kebalikan dari _active voice_, bentuk kalimat di mana subjeknya (S) adalah yang menjadi penerima perlakuan, dan tidak ada objek lagi di kalimat itu. Susunan utamanya yaitu:
+
+   [S + be + verb3]
+   The ball is kicked.
+   Bola itu ditendang.
+
+☆ *The ball* yang kalau di kalimat aktif adalah sebagai objek, maka di kalimat pasif ia menjadi subjek.
+☆ Kita gunakan kata kerja *be* dan disesuaikan dengan subjeknya, sehingga menjadi *is*.
+☆ Dan setelah itu kata kerja pada kalimat aktif *(kicks)* (menendang) kita ubah ke bentuk ke-3 yaitu *kicked* (ditendang).
+
+☆ Kita juga bisa menambahkan keterangan pelakunya dengan didahului preposisi *by* (oleh).
+   
+   [S + be + verb3 + *by + pelaku*]
+   The ball is kicked *by Andy.*
+   Bola itu ditendang *oleh Andy.*
+======○□□○======
+
+🚙 *C) PENGGUNAAN*
+Pada kalimat aktif, ada beberapa jenis tense (konteks waktu) yang mungkin digunakan dalam kalimat itu. Dan untuk mengubahnya ke bentuk pasif, kita sesuaikan tense-nya juga.
+☆ Kuncinya terletak pada kata kerjanya (verb) di kalimat aktif, dan kata *be* di kalimat pasif. Misalnya untuk kalimat Simple Present Tense:
+
+》 Kalimat Aktif:
+   [S + *verb1* + O]
+   Andy *kicks* the ball.
+
+☆ Pada kalimat di atas, bentuk verb-nya adalah bentuk pertama, maka untuk kalimat pasifnya, kata *be*-nya harus mengikutinya yaitu bentuk pertama juga.
+
+》 Kalimat Pasif:
+   [S + *am/is/are* + verb3]
+   The ball *is* kicked.
+
+☆ Contoh untuk kalimat Simple Past Tense:
+》 Kalimat Aktif:
+   [S + *verb2* + O]
+   Andy *kicked* the ball.
+》 Kalimat Pasif:
+   [S + *was/were* + verb3]
+   The ball *was* kicked.
+
+☆ Contoh untuk Future Tense:
+》 Aktif:
+   [S + *will + verb* + O]
+   Andy *will kick* the ball.
+》 Pasif:
+   [S + *will + be* + verb3]
+   The ball *will be* kicked.
+
+☆ Contoh untuk Perfect Tense
+》 Aktif:
+   [S + *have/has + verb3* + O]
+   Andy *has kicked* the ball.
+》 Pasif:
+   [S + *have/has + been* + verb3]
+   The ball *has been* kicked.
+
+☆ Contoh untuk Continuous Tense.
+》 Aktif:
+   [S + *be + verb-ing* + O]
+   Andy *is kicking* the ball.
+》 Pasif:
+   [S + *be + being* + verb3]
+   The ball *is being* kicked.
+
+🚦 *Modal Verb* 🚦
+Untuk kalimat aktif yang menggunakan _modal verb_ maka pada bentuk pasif kita tetap gunakan modal verb-nya.
+》 Aktif:
+   [S + *can + verb* + O]
+   Andy *can kick* the ball.
+》 Pasif:
+   [S + *can be* + verb3.]
+   The ball *can be* kicked.
+
+======○□□○======
+
+🏎 *D) KAPAN DIGUNAKAN?*
+☆ Kalimat pasif ini dapat digunakan untuk memberi penekanan / fokus pada objeknya, atau ketika pelakunya tidak diketahui.
+
+• *My laptop [was stolen]!*
+   Laptopku [dicuri]!
+
+• *Japan [is known] for its traditional arts.*
+   Jepang [dikenal] karena seni-seni tradisionalnya.
+
+• *Twenty civilians [were killed] in the bomb explosion.*
+   Dua puluh penduduk [terbunuh] (tewas) dalam ledakan bom tersebut.
+
+• *The Mona Lisa [was painted] by Leonardo Da Vinci.*
+   Lukisan Mona Lisa [dilukis] oleh Leonardo Da Vinci.
+
+• *The contract [will be signed] tomorrow.*
+   Kontrak itu [akan ditandatangani] besok.
+
+• *Criminals [must be stopped] before they commit crimes.*
+   Kriminal [harus dihentikan] sebelum mereka bertindak kejahatan.
+
+======○□□○======
+
+🚓 *E) BATASAN*
+Tidak semua kalimat dapat diubah ke pasif. Kalimat aktif yang tanpa objek tidak dapat diubah ke bentuk pasif karena tidak ada yang akan jadi subjeknya. Misalnya:
+
+   *The baby is sleeping.*
+   Bayi itu sedang tidur.
+
+Tidak ada objek untuk kata kerja "sleep" sehingga tidak dapat diubah ke pasif.

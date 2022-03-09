@@ -1,0 +1,36 @@
+⭐ *KALIMAT* ⭐
+_______________________
+🚗 Kalimat dalam bahasa Jepang terdiri dari dua bagian besar:
+ ```Topik + Predikat```
+
+🚥 *Topik* yaitu apa yang sedang dibicarakan, bisa orang, hewan, benda, tempat, waktu dll. Topik biasanya diikuti dengan partikel は wa (tulisannya menggunakan huruf HA, tetapi dibaca WA jika sebagai partikel). *Contoh:*
+• これは ... (kore wa ...)
+   _Ini ..._
+• 私は ...     (watashi wa ...)
+   _Saya ..._
+• この本は (kono hon wa ...)
+   _Buku ini ..._
+
+🚥 *Predikat* yaitu yang menjadi isi utama kalimat, bisa berupa kata kerja, kata benda maupun kata sifat. Yang berhubungan dengan topik tadi. *Contoh:*
+
+*Topik                Predikat*
+*==================*
+私は                元気。
+_watashi wa     genki_
+Saya                sehat
+
+それは            いい。
+_sore wa           ii_
+Itu                     bagus.
+
+これは           本。
+_kore wa           hon_
+Ini                    buku.
+
+お母さんは  料理した。
+_okaasan wa ryouri shita_
+Ibu                  memasak.
+
+🚙 *Topik* tidak wajib disebutkan jika sudah jelas apa yang dibicarakan. Jadi kita tidak perlu mengulangi lagi menyebut topik.
+_______________________
+🇯🇵 *Belajar Nihon-go*

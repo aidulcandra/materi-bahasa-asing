@@ -1,0 +1,94 @@
+⭐ *文法* • Tata Bahasa ⭐
+☆ Bentuk Kata Kerja -BA ☆
+
+Bentuk kata kerja ばBA adalah bentuk yang dipakai untuk membuat pengandaian selain dengan bentuk たらTARA atau partikel とTO dan ならNARA.
+
+⚙️ *Rumus*
+Cukup ubah huruf terakhir kata kerja menjadi bunyi E lalu tambahkan ばBA.
+
+📟 *Contoh:*
+• 読む yomu --> 読めば yomeba
+   membaca         jika membaca
+
+• 行く iku     --> 行けば ikeba
+   pergi                 jika pergi
+
+• 勝つ katsu --> 勝てば kateba
+   menang            jika menang
+
+• 食べる taberu --> 食べれば tabereba
+   makan                     jika makan
+
+• する suru --> すれば sureba
+   melakukan      jika melakukan
+
+Untuk kata kerja negatif (bentuk ないNAI) maka ubah akhiran I-nya menjadi ければKEREBA.
+
+• 知らない --> 知らなければ
+   shiranai           shiranakereba
+   tidak tahu       jika tidak tahu
+
+• 頑張らない --> 頑張らなければ
+   ganbaranai        ganbaranakereba
+ tidak berusaha   jika tidak berusaha
+
+Kata sifat I juga berlaku aturan yang sama dengan di atas.
+• 寒い --> 寒ければ
+   samui      samukereba
+   dingin      jika dingin
+
+• 悪い --> 悪ければ
+   warui       warukereba
+   buruk       jika buruk
+
+Begitu juga dengan bentuk negatifnya (くないKUNAI)
+• 寒くない --> 寒くなければ
+   samukunai      samukunakereba
+
+Untuk kata benda dan kata sifat NA, tambahkan であればDE AREBA, atau なら(ば) NARA(BA).
+• 先生 --> 先生であれば
+   sensei      sensei de areba
+   guru        jika ... adalah guru
+(atau 先生なら sensei nara/naraba)
+
+• きれい --> きれいであれば
+   kirei              kirei de areba
+   indah           jika indah
+(atau きれいなら kirei nara/naraba)
+
+Untuk bentuk negatifnya gunakan でなければ DE NAKEREBA, atau じゃなければ JANAKEREBA (bahasa sehari2).
+• きれいでなければ
+    kirei de nakereba
+    jika tidak indah
+
+💡 *Fungsi:*
+Bentuk BA digunakan untuk menyatakan syarat, yang harus terpenuhi dulu baru pernyataannya bisa benar atau terjadi. 
+• *タクシーで行けば*、6時の電車に乗れるでしょう。
+   _*takushii de ikeba*, rokuji no densha ni noreru deshou_
+   *Jika kamu pergi naik taksi*, mungkin kamu bisa naik kereta jam 6.
+
+• *雨が降れば*、散歩に行きません。
+   _*ame ga fureba*, sanpo ni ikimasen_
+   *Jika hujan turun*, saya tidak akan pergi jalan-jalan.
+
+• *春になれば*、もっと暖かくなる。
+   _*haru ni nareba*, motto atatakaku naru_
+   *Jika musim semi tiba*, akan menjadi lebih hangat.
+
+• *時間があれば*、ケーキを作るよ。
+   _*jikan ga areba*, keeki o tsukuru yo_
+   *Jika saya punya waktu*, saya akan buat kue.
+
+⏱️ *Batasan:*
+Jika menggunakan kalimat syarat dengan BA dengan permintaan atau perintah, kalimat syaratnya harus berupa keadaan (bukan berupa selesainya suatu aksi atau kejadian).
+• *時間があれば*、来てください。
+   _*jikan ga areba*, kite kudasai_
+   *Jika kamu ada waktu*, tolong datang.
+(Selama dia ada waktu: berupa keadaan)
+
+• *空港に着けば*、電話しなさい。❌
+   _*kuukou ni tsukeba*, denwa shinasai_
+   *Jika kamu tiba di bandara*, telpon saya
+(Tiba ke bandara bukan berupa keadaan tapi suatu aksi yang telah selesai dilakukan. Untuk kalimat ini lebih cocok menggunakan bentuk たらTARA: 空港に着いたらkuukou ni tsuitara). 
+______________________________
+14-12-20 | 🇯🇵 Belajar Nihon-go

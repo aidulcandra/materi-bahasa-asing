@@ -1,0 +1,49 @@
+⭐ *KATA GANTI OBJEK TAK LANGSUNG* ⭐
+_______________________
+🚝 Kata ganti objek tak langsung sama seperti objek langsung kecuali untuk subjek tertentu:
+
+Ket:
+S = subjek
+OL = objek langsung
+OTL = objek tak langsung
+
+S                  OL            OTL
+====================
+yo                me            me
+tú                 te              te
+él                 lo               *le*
+ella              la               *le*
+usted           lo/la          *le*
+nosotros      nos            nos
+vosotros      os               os
+ellos            los              *les*
+ellas            las              *les*
+ustedes       los/las        *les*
+
+🚅 Peletakannya di dalam kalimat sama seperti objek langsung. Yaitu di depan kata kerja pertama, atau disambungkan pada _infinitivo_ atau _gerundio._
+
+🚄 *Contoh:*
+☆ _Juan *me compra* un regalo._
+  = Juan *membelikanku* hadiah.
+
+☆ _Quiero *decirte* algo._
+  = Aku mau *memberitahumu* sesuatu.
+
+☆ _*Le* estoy *escribiendo.*_
+  = Aku sedang *menuliskannya* surat.
+
+🚈 Kata ganti *le* dan *les* bisa ambigu karena bisa berarti _él/ella/usted_ dan _ellos/ellas/ustedes_, maka kita bisa menambahkan siapa yang dimaksud di dalam kalimat, dengan preposisi *a* (kepada/untuk).
+
+☆ _Ella *les* escribe a *sus padres* una carta._
+  = Dia menuliskan surat *untuk orang tuanya.*
+
+[Kata ganti (le/les) diperlukan di sini, jangan dihilangkan]
+
+🚂 Selain _le/les_ kata ganti lain bisa dituliskan lagi orangnya untuk memberi penekanan.
+
+☆ _Juan *me* da *a mí* el dinero._
+  = Juan memberikan *saya* uang.
+
+["a mí" (ke saya) menekankan bahwa bukan org lain yang diberi uang]
+_______________________
+🇪🇸 *Belajar Español*

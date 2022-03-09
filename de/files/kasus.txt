@@ -1,0 +1,28 @@
+⭐ *KASUS* ⭐
+_Keadaan/Posisi Kata_
+_______________________
+🎚️ Bahasa Jerman mempunyai sistem kasus. Kasus adalah keadaan, posisi, atau peran sebuah kata/kumpulan kata di dalam suatu kalimat.
+
+🎛️ Ada 4 kasus dalam bahasa Jerman:
+• Nominativ (normal)
+• Akkusativ (objek langsung)
+• Dativ (objek tak langsung)
+• Genitiv (hubungan/kepemilikan)
+
+Semuanya biasanya ditentukan berdasarkan kata kerja maupun preposisi (kata depan)
+
+📡 *Contoh:*
+- der Mann   : pria
+- der Junge   : anak laki-laki
+- der Hut       : topi
+Ketiga kata benda maskulin ini masih berada dalam kasus Nominativ (normal). Ketika kita gunakan di dalam kalimat, maka masing-masing akan punya peran.
+
+☆ _*Der* Mann gibt *dem* Junge *den* Hut._ 
+  = Pria itu memberikan topi itu kepada anak itu.
+
+*Keterangan:*
+• _der Mann_ sebagai pelaku (subjek) berada dalam kasus Nominativ.
+• _den Hut_ sebagai objek berada dalam kasus Akkusativ. Dan mengalami perubahan pada artikelnya (der --> den)
+• _dem Junge_ sebagai objek tak langsung (penerima hasil), berada dalam kasus Dativ, dan artikelnya berubah (der -> dem)
+_______________________
+🇩🇪 *Belajar Deutsch*

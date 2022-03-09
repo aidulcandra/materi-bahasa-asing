@@ -1,0 +1,104 @@
+*⭐ Materi tentang Kanji ⭐*
+
+📋 *Daftar Isi:*
+A) Apa itu Kanji? 
+B) Mengapa menggunakan Kanji?
+C) Cara membaca Kanji
+D) Cara mempelajari Kanji
+
+🈷 A) *APA ITU KANJI?*
+☆ Kanji [漢字] adalah huruf-huruf Jepang yang diadaptasi dari huruf Cina _hanzi_. Kanji sering dijumpai dalam tulisan baik formal maupun informal. Kanji digunakan sebagai pengganti hiragana (sebagian).
+
+🅰️ *Contoh tulisan dengan hiragana saja:*
+きょうわたしはははとちちといっしょにうみにいきます。
+
+🅱️ *Tulisan yang sama menggunakan kanji:*
+今日私は母と父と一緒に海に行きます。
+=======================
+
+💡 B) *MENGAPA MENGGUNAKAN KANJI?*
+☆ Belajar kanji memang sulit bagi pemula, tetapi jika kita mulai memahami bahasa Jepang, maka kita akan tahu pentingnya kanji itu.
+
+*1⃣ Kanji membuat kita membaca lebih cepat.*
+Jika kita lihat contoh di atas, pada kalimat 🅰️ kita masih harus mengeja satu persatu hiragana yang ada dan kita harus berpikir untuk membedakan yang mana huruf pertama suatu kata dan yang mana huruf terakhirnya, bahkan kita harus membedakan mana partikel (kata tugas dan penghubung) dan mana yang bukan partikel. Sedangkan pada kalimat 🅱️ hanya dengan melihat bentuknya kita bisa membedakan kata-kata itu.
+
+*2⃣ Kanji membuat kita lebih mudah memahami isi kalimat.*
+Bahasa Jepang adalah bahasa yang *homonim*, artinya banyak kata-kata yang sama pengucapannya, bahasa Jepang hanya mempunyai sedikit suku kata karena huruf hiragana tidak berubah cara bacanya jika digabung dengan huruf lain. Jadi karena kakunya bahasa Jepang ini maka memahami makna tulisan dengan full hiragana akan sulit.
+*Contoh kata-kata yang sama bunyinya, dengan kanji kita bisa membedakan maknanya:*
+• 恋 koi (cinta)
+• 濃い koi (gelap warna)
+• 故意 koi (niat)
+• 鯉 koi (nama ikan)
+• 来い koi (datanglah)
+========================
+
+📖 C) *CARA MEMBACA KANJI*
+☆ Biasanya satu kanji mempunyai lebih dari satu cara baca, itu karena memahami maknanya lebih penting daripada tulisannya. Satu kanji bisa dipakai untuk beberapa kata yang masih terkait maknanya. Misalnya kanji 上 (atas).
+*Contohnya:*
+• *上* ue = atas
+• *上げる* ageru = menaikkan
+• *上手* jouzu = mahir (keterampilan yang tinggi)
+• *上る* noboru = mendaki
+• *上着* uwagi = pakaian atas
+
+Dari kosakata tersebut kita bisa simpulkan bahwa kanji 上 (yang berarti "atas") bisa dibaca _ue, a, jou, nobo, uwa_ tergantung di dalam kata apa kanji itu. Tetapi jangan khawatir karena kanji umumnya punya dua atau tiga cara baca saja.
+
+💬 *Kanji ada 2 jenis bacaan:*
+1. *Bacaan Kunyomi* : yaitu bacaan dari bahasa Jepangnya.
+2  *Bacaan Onyomi* : yaitu bacaan dari bahasa Mandarinnya.
+
+Misalnya kanji 月 (bulan)
+• *Kunyomi* : tsuki
+• *Onyomi* : getsu, gatsu
+
+Kanji 日 (hari / matahari)
+• *Kunyomi:* hi
+• *Onyomi:* nichi, jitsu
+
+Kanji 今 (sekarang)
+• *Kunyomi:* ima
+• *Onyomi* : kon, kin
+
+🤔 *Kapankah kanji dibaca dengan cara kunyomi atau onyomi?*
+☆ Biasanya jika kosakata yang terdiri dari 1 kanji saja dibaca menggunakan bacaan *kunyomi*-nya.
+• Misalnya :
+   月 tsuki   (bulan)
+   日 hi        (hari)
+   今 ima     (sekarang)
+
+☆ Dan jika kosakatanya terdiri dari gabungan kanji maka dibaca dengan cara *onyomi*-nya.
+• Misalnya :
+   来月 rai-getsu  (bulan depan)
+   四月 shi-gatsu (April)
+   休日 kyuu-jitsu (hari libur)
+   今月 kon-getsu (bulan ini)
+
+☆ Ada beberapa kanji yang tidak menggunakan bacaan kunyomi maupun onyomi, dan sudah menjadi satu makna.
+• Misalnya : *今日 kyou (hari ini)*
+   Terdiri dari kanji 今 (sekarang) dan 日 (hari). Tetapi jika diperhatikan tidak dibaca secara kunyomi maupun onyomi. Untungnya kanji yang seperti ini tidak banyak jumlahnya.
+
+☆ Untuk kata kerja dan kata sifat -i semuanya dibaca secara *kunyomi*:
+• 食べる : *ta*-beru (makan)
+• 寒い : *samu*-i (dingin)
+• 新しい : *atara*-shii (baru)
+• 走る : *hashi*-ru (berlari)
+====================
+
+📝 D) *CARA MEMPELAJARI KANJI*
+☆ Beberapa orang yang baru memulai mempelajari biasanya kebingungan karena terlalu memikirkan banyaknya kanji dan banyaknya cara baca kanji itu. Namun di situlah yang memperlambat seseorang belajar kanji, mempelajari kunyomi dan onyomi saja tidak akan mempercepat mempelajari kanji.
+
+☆ Cara mempelajari kanji yang benar (menurut penulis) adalah yaitu dengan mempelajari kosakatanya langsung dan juga makna masing-masing kanji, tidak perlu memikirkan kunyomi maupun onyomi. 
+
+Sederhananya, kanji adalah simbol, setiap simbol punya makna, maka pelajari makna tiap kanji. Caranya bisa dengan membayangkan gambar yang terbentuk dari kanji itu. Misalnya
+山 = gunung. Kita bisa membayangkan segitiga yang terbentuk di bagian atasnya (berbentuk gunung). Jika sulit membayangkan, maka belajarlah lewat *flashcard* (kartu-kartu belajar) bisa berupa flashcard asli (dibuat sendiri atau dibeli) atau flashcard digital (lewat aplikasi-aplikasi belajar kanji).
+
+Selain itu, kata adalah suatu bagian bahasa, dan kata itu menggunakan simbol-simbol yaitu kanji. Maka pelajari kata-kata itu dan lihatlah simbol apa yang digunakan untuk kata itu.
+Misalnya: kata 音楽 (ongaku) yang berarti "musik"
+Tersusun dari kanji 音 (bunyi) dan kanji 楽 (nyaman). Maka kita bisa kaitkan kedua kanji ini sehingga membentuk kata "musik". Misalnya
+
+音 bunyi yang membuat 楽 nyaman 
+*= 音楽 musik (ongaku)*
+
+Sekali lagi untuk melatih mengingat kosakata juga bisa gunakan flashcard.
+_______________________________
+3 Mar 2020 🇯🇵 Belajar Nihon-go

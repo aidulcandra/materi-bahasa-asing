@@ -1,0 +1,42 @@
+*KOSAKATA - FENOMENA ALAM*
+_*TANGO ICHIRAN : SHIZEN GENSHOU*_
+*単語一覧：自然現象*
+
+*虹* _(niji)_ = pelangi
+*オーロラ* _(oorora)_ = aurora
+*蜃気楼* _(shinkirou)_ = fatamorgana
+*雲海* _(unkai)_ = lautan awan
+*樹氷* _(juhyou)_ = pohon berbalut es
+*干潮* _(kanchou)_ = pasang surut
+*満潮* _(manchou)_ = pasang naik
+*日食* _(nisshoku)_= gerhana matahari
+*月食* _(gesshoku)_= gerhana bulan
+*自然災害* _(shizen saigai)_ = bencana alam
+*天災* _(tensai)_ = bencana alam
+*渇水* _(kassui)_ = kekeringan
+*洪水* _(kouzui)_ = banjir
+*大洪水* _(daikouzui)_ = banjir besar
+*鉄砲水* _(teppoumizu)_ = banjir yang datang tiba-tiba 
+*波* _(nami)_ = ombak
+*大波* _(oonami)_ = ombak besar
+*津波* _(tsunami)_ = tsunami
+*地震* _(jishin)_ = gempa bumi
+*震源* _(shin’gen)_ = pusat gempa
+*侵食* _(shinshoku)_ = erosi
+*海岸侵食* _(kaigan shinshoku)_ = abrasi/erosi pantai
+*地滑り* _(jisuberi)_ = tanah longsor
+*土砂崩れ* _(doshakuzure)_ = tanah longsor
+*崖崩れ* _(gakekuzure)_ = tebing longsor
+*山崩れ* _(yamakuzure)_ = gunung longsor
+*雪崩* _(nadare)_ = salju longsor
+*吹雪* _(fubuki)_ = badai salju
+*砂嵐* _(suna arashi)_ = badai pasir
+*台風* _(taifuu)_ = angin topan
+*竜巻* _(tatsumaki)_ = tornado, puting beliung
+*噴火* _(funka)_ = erupsi, letusan (gunung berapi)
+*噴火口* _(funkakou)_ = kawah (gunung berapi)
+*溶岩* _(yougan)_ = lava, lahar
+*噴煙* _(fun’en)_ = asap vulkanik
+*火山灰* _(kazanbai)_ = debu vulkanik
+*火災* _(kasai)_ = kebakaran
+*火事* _(kaji)_ = kebakaran

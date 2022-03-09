@@ -1,0 +1,106 @@
+*KOSAKATA MATEMATIKA*
+*単語一覧：数学*
+
+*算数* _(sansuu)_ aritmetika
+*数字* _(suuji)_ angka
+*数* _(kazu)_ angka/jumlah
+*～桁* _(~keta)_ ~digit
+*整数* _(seisuu)_ bilangan bulat
+*奇数* _(kisuu)_ bilangan ganjil
+*偶数* _(guusuu)_ bilangan genap
+*素数* _(sosuu)_ bilangan prima
+*少数* _(shousuu)_ bilangan desimal
+*指数* _(shisuu)_ eksponen/perpangkatan
+*複素数* _(fukusosuu)_ bilangan kompleks
+*分数* _(bunsuu)_ bilangan pecahan
+*半分* _(hanbun)_ setengah (1/2)
+*４分の１* _(yon bun no ichi)_ satu per empat (1/4)
+*分母* _(bunbo)_ penyebut
+*分子* _(bunshi)_ pembilang
+*関数* _(kansuu)_ fungsi
+*変数* _(hensuu)_ variabel
+*パーセント* _(paasento)_ persen
+*平方根* _(heihoukon)_ akar kuadrat
+*方程式* _(houteishiki)_ persamaan
+*不等式* _(futoushiki)_ pertidaksamaan
+*象限* _(shougen)_ kwadran
+*計算する* _(keisan suru)_ menghitung
+*筆算* _(hissan)_ menghitung manual (di kertas)
+*足し算* _(tashizan)_ penjumlahan
+*引き算* _(hikizan)_ pengurangan
+*かけ算* _(kakezan)_ perkalian
+*割り算* _(warizan)_ pembagian
+*足す* _(tasu)_ tambah
+*引く* _(hiku)_ kurang
+*かける* _(kakeru)_ kali
+*割る* _(waru)_ bagi
+*等しい* _(hitoshii)_ sama dengan
+*あまり* _(amari)_ sisa
+*線* _(sen)_ garis
+*平面図形* _(heimen zukei)_ bangun datar
+*正方形* _(seihoukei)_ persegi
+*長方形* _(chouhoukei)_ persegi panjang
+*三角形* _(sankakukei)_ segitiga
+*正三角形* _(sei sankakukei)_ segitiga sama sisi
+*二等辺三角形* _(nitouhen sankakukei)_ segitiga sama kaki
+*直角三角形* _(chokkaku sankakukei)_ segitiga siku-siku
+*円* _(en)_ lingkaran
+*半円* _(han’en)_ setengah lingkaran
+*楕円* _(daen)_ oval/elips
+*四角形* _(shikakukei)_ segi empat
+*五角形* _(gokakukei)_ segi lima/pentagon
+*六角形* _(rokkakukei)_ segi enam/heksagon
+*八角形* _(hakkakukei)_ segi delapan/oktagon
+*菱形* _(hishigata)_ belah ketupat
+*凧形* _(takogata)_ layang-layang
+*平行四辺形* _(heikou shihenkei)_ jajar genjang
+*台形* _(daikei)_ trapesium
+*立体* _(rittai)_ bangun ruang
+*立方体* _(rippoutai)_ kubus
+*直方体* _(chokuhoutai)_ balok
+*三角柱* _(sankakuchuu)_ prisma segitiga
+*円柱* _(enchuu)_ tabung
+*四角錐* _(shikakusui)_ limas segi empat
+*円錐* _(ensui)_ kerucut
+*球* _(kyuu)_ bola
+*公式* _(koushiki)_ rumus
+*辺* _(hen)_ sisi
+*角* _(kado)_ sudut
+*直径* _(chokkei)_ diameter
+*半径* _(hankei)_ jari-jari/radius
+*周りの長さ* _(mawari no nagasa)_ keliling
+*面積* _(menseki)_ luas
+*体積* _(taiseki)_ volume
+*高さ* _(takasa)_ tinggi
+*長さ* _(nagasa)_ panjang
+*対角線* _(taikakusen)_ diagonal
+*グラフ* _(gurafu)_ grafik
+*統計* _(toukei)_ statistika
+*平均* _(heikin)_ rata-rata
+*集合* _(shuugou)_ himpunan
+*数列* _(suuretsu)_ deret bilangan
+*アルゴリズム* _(arugorizumu)_ algoritma
+*代数* _(daisuu)_ aljabar
+*行列* _(gyouretsu)_ matriks
+*対数* _(taisuu)_ logaritma
+*三角法* _(sankakuhou)_ trigonometri
+*接線* _(sessen)_ tangent/garis singgung
+*三角関数* _(sankaku kansuu)_ fungsi trigonometri
+*導関数* _(doukansuu)_ fungsi turunan
+*無理関数* _(muri kansuu)_ fungsi irasional
+*合成関数* _(gousei kansuu)_ fungsi komposisi
+*逆関数* _(gyaku kansuu)_ fungsi invers
+*定数関数* _(teisuu kansuu)_ fungsi konstan
+*微分* _(bibun)_ diferensial
+*積分* _(sekibun)_ integral
+*不定積分* _(futei sekibun)_ integral tak tentu
+*極限* _(kyokugen)_ limit
+*曲線* _(kyokusen)_ kurva
+*放物線* _(houbutsusen)_ parabola
+*確立* _(kakuritsu)_ peluang
+*確立分布* _(kakuritsu bunpu)_ distribusi peluang
+*和事象の確立* _(wajishou no kakuritsu)_ peluang gabungan kejadian
+*条件付き確立* _(joukentsuki kakuritsu)_ peluang bersyarat
+*微分積分学* _(bibun sekibun-gaku)_ kalkulus
+
+2021年7月18日(日)・亜間留

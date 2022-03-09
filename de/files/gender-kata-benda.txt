@@ -1,0 +1,27 @@
+⭐ *Gender Kata Benda* ⭐
+_____________________________
+Di bahasa Jerman, semua kata benda punya gender. Gender kata dalam bahasa Jerman ada 3:
+● maskulin / laki-laki
+● feminin / perempuan
+● netral
+
+Contoh:
+*Maskulin*
+• der Tisch (meja)
+• der Apfel (apel)
+*Feminin*
+• die Milch (susu)
+• die Prüfung (ujian)
+*Netral*
+• das Wetter (cuaca)
+• das Fleisch (daging)
+
+Perhatikan kata-kata di awalnya: der, die, das.  Kata-kata ini bisa diartikan "itu" / "tersebut". Jadi misalnya *der Apfel* dapat diterjemahkan menjadi *apel itu/tersebut*.
+Tetapi yang perlu diperhatikan adalah masing-masing menunjukkan gender kata.
+• der -> maskulin
+• die -> feminin
+• das -> netral
+Bagaimana mengetahui gender kata? Hmm, sebenarnya orang Jerman sendiripun hanya terbiasa dalam percakapan sehari-harinya. Namun bagi pelajar seperti kita, salah satu tips yang dapat diterapkan yaitu mempelajari kosakata tersebut beserta der/die/das nya. Dengan begitu kita akan bisa ingat apa gender kata itu.
+_____________________________
+🇩🇪 Belajar Deutsch
+4-12-21

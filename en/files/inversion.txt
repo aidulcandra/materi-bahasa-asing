@@ -1,0 +1,97 @@
+⭐ *GRAMMAR* • Tata Bahasa ⭐
+☆ Inversion ☆
+◇ Pertukaran Subjek dan Verb ◇
+
+Dalam bahasa Inggris subject dan auxiliary verb bisa bertukar. Ini terjadi pada beberapa bentuk kalimat, salah satunya kalimat tanya.
+
+🚗 *Aturan Inversion*
+Pertukaran Biasa (Subj-Aux)
+• You will      --> Will you
+• He can      --> Can he
+• We should --> Should we
+• The man has --> Has the man
+
+Jika kalimatnya tidak memiliki auxiliary, maka ketika bertukar, gunakan auxiliary *do/does/did* tergantung jenis subjeknya dan tense. Perhatikan bahwa jika auxiliary-nya sudah ada maka kata kerja kembali ke bentuk dasar (misalnya "see").
+Present Tense:
+• *I* see        --> *Do I* see
+• *You* see   --> *Do you* see
+• *We* see    --> *Do we* see
+• *They* see  --> *Do they* see
+• *He* sees   --> *Does he* see
+• *She* sees  --> *Does she* see
+• *It* sees     --> *Does it* see
+• *The person* sees --> *Does the person* see
+• *The people* see --> *Do the people* see
+
+Past Tense:
+• *I* saw       -->  *Did I* see
+• *You* saw  --> *Did you* see
+• *He* saw   -->  *Did he* see
+• *The person* saw --> *Did the person* see
+• *The people* saw --> *Did the people* see
+(Sama semua menggunakan did)
+
+Jika menggunakan *to be* tanpa auxiliary maka subjek bertukar dengan to be itu.
+• I am         -->    Am I
+• You are   -->    Are you
+• We are     -->   Are we
+• They are  -->   Are they
+• He is        -->   Is he
+• She is      -->    Is she
+• It is          -->    Is it
+• The man is     -->  Is the man
+• The men are  -->  Are the men
+
+Jika ada lebih dari satu auxiliary maka yang pertama saja yang bertukar dengan subjek.
+• She would have --> Would she have
+
+🚕 *Kalimat-Kalimat Yang  Menggunakan Inversion*
+
+1) Kalimat Tanya (kecuali yang menanyakan subjek)
+• _You collect stamps._
+》 _What *do you* collect?_
+• _He will come at night._
+》 _When *will he* come?_
+
+Kecuali yang menanyakan subjek. Tidak ada inversion:
+• _He is her father._
+》 _Who is her father?_
+
+2) Kalimat Dengan Keterangan Negatif/Pembatas di Awal
+(Bahasa formal)
+• _I have never seen such a beautiful scenery._
+》 _Never *have I* seen such a beautiful scenery._
+
+• _I understood why the tragedy had happened only then._
+》 _Only then *did I* understand why the tragedy had happened._
+
+3) Kalimat Pengandaian yang Menggunakan Had:
+(Bahasa formal)
+• _If we had gotten there in time, we could have prevented the accident from happening._
+》 _*Had we* gotten there in time..._
+
+4) Kalimat dengan Keterangan Tempat di Awal.
+(Bahasa formal/sastra)
+
+Inversion pada kalimat ini terjadi langsung pada subjek dengan semua verbnya yang ada.
+• _Two farmers lived in the village._
+》 _In the village *lived two farmers.*_
+
+• _A magic tree is on the other side of the river._
+》 _On the other side of the river *is a magic tree.*_
+
+• _A bottle will be in the box._
+》 _In the box *will be a bottle.*_
+
+5) Kalimat dengan So+adjective...that di Bagian Awal
+• _The girl was so beautiful that nobody could talk of anything else._
+》 _So beautiful *was the girl* that nobody could ...._
+
+6) Kalimat dengan kata So (Begitu Juga)
+• _I do, too._
+》 _So *do I.*_
+
+• _That guy has, too._
+》 _So *has that guy.*_
+______________________________
+6-12-20 | 🇬🇧🇺🇸 Belajar English

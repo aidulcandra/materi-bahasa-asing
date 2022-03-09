@@ -1,0 +1,169 @@
+⭐ *GRAMMAR* • Tata Bahasa ⭐
+☆ Conditional Sentence ☆
+◇ Kalimat Pengandaian ◇
+
+Kalimat conditional adalah kalimat yang menunjukkan apa yang terjadi/berlaku jika suatu syarat terpenuhi. Di bahasa Indonesia yaitu kalimat yang menggunakan kata seperti *jika, kalau, bila, ketika*, dll. Dalam bahasa Inggris menggunakan kata seperti *if/when/unless/as long as*.
+
+🗂️ *Susunan*
+Kalimat Pengandaian mempunyai bagian *syarat* dan *hasil*. Keduanya bisa bertukar posisi. Bagian *syarat* yaitu yang jika terpenuhi maka *hasil* akan berlaku.
+
+• _If the rain stops, I will go._
+Jika hujan berhenti, saya akan pergi.
+            - atau -
+• _I will go if the rain stops._
+Saya akan pergi jika hujan berhenti.
+
+~ if the rain stops : *syarat*
+(jika hujan berhenti)
+~ I will go              : *hasil*
+(saya akan pergi)
+
+Bagian hasil tidak hanya pernyataan, bisa juga pertanyaan atau perintah.
+
+• _If I see him, *I will tell him.*_
+Kalau aku lihat dia, *aku akan beritahu dia.* (Pernyataan)
+
+• _If you see him, *will you tell him?*_
+Kalau kamu lihat dia, *apa kamu akan beritahu dia?* (Pertanyaan)
+
+• _If you see him, *tell him.*_
+Kalau kamu lihat dia, *beritahu dia.* (Perintah)
+
+📡 *Perkiraan VS Perumpamaan*
+Perkiraan berarti sesuatu yang masih ada kemungkinan akan terjadi. Perumpamaan berarti tidak ada kemungkinan untuk terjadi. (Menurut si pembicara.)
+
+☆ Perkiraan:
+• _If I live in Canada, we can meet._
+Kalau aku tinggal di Canada, kita bisa ketemu.
+(Ada kemungkinan dia akan pergi dan tinggal di Canada.)
+
+☆ Perumpamaan:
+• _If I *lived* in Canada, we *could* meet._
+Kalau saja aku tinggal Canada, kita bisa ketemu.
+(Kemungkinan dia tidak akan tinggal di Canada.)
+Kalimat perumpamaan biasanya menggunakan bentuk lampau.
+
+🎏 *Jenis Kalimat Pengandaian*
+Umumnya kalimat pengandaian ini dibagi menjadi 5 tipe menurut kemungkinan dan waktunya.
+
+0️⃣ - Tipe 0
+Yaitu berupa sesuatu yang pasti atau harus. Jadi tidak begitu menunjukkan adanya perkiraan atau perumpamaan. Biasanya bagian syarat dan hasil berupa kalimat yang menunjukkan waktu sekarang (Present Tense).
+
+Syarat: if (present tense),
+Hasil:    (present tense)
+
+[If A happens, B happens.]
+
+Contoh:
+• _If you heat ice, it melts._
+Kalau kamu panaskan es, ia meleleh.
+
+• _If the alarm goes off, there is a fire somewhere in the building._
+Jika alarm berbunyi, ada kebakaran di suatu tempat dalam gedung ini.
+
+• _If you have any questions, just ask me._
+Kalau kamu punya pertanyaan, tanyakan saja.
+
+1️⃣ - Tipe 1
+Yaitu yang berupa perkiraan di masa depan. Biasanya bagian syarat berupa Present Tense (tetapi tetap bermakna perkiraan di masa depan) dan bagian hasil berupa Future Tense (menggunakan will/should atau kalimat yang bermakna di masa depan)
+
+Syarat:   if (present tense)
+Hasil:      (future tense)
+
+[if A happens, B will happen]
+
+Contoh:
+• _If the kid falls over, he will cry._
+Kalau anak itu terjatuh, dia akan menangis.
+
+• _If she's sleeping when you get there, you should not wake her up._
+Kalau dia sedang tidur pas kamu sudah di sana, kamu sebaiknya tidak bangunkan dia.
+
+2️⃣ - Tipe 2
+Yaitu berupa *perumpamaan* (tidak nyata) untuk masa sekarang atau depan. Walaupun perumpamaannya untuk masa sekarang/depan, biasanya bagian syarat menggunakan *past tense* (tetapi tidak bermakna masa lampau, melainkan bermakna perumpamaan.) Dan bagian hasilnya juga berupa perumpamaan (menggunakan kata would/should/might)
+
+Syarat: if (past tense)
+Hasil:    (past future)
+
+[If A happened, B would happen]
+
+Contoh:
+• _If I liked playing videogames, I would play with you._
+Kalau saja aku suka main game, aku mungkin akan main dengan kamu.
+
+• _If I was rich, I could buy you a big house._
+Jika saja aku kaya, aku bisa saja belikan kamu rumah besar.
+
+(Dalam kalimat yang formal, *was* harus diganti jadi *were*, walaupun subjeknya I/he/she/it) --> _If I *were* rich_
+
+• _If you were sleeping right now, I wouldn't be singing this loud._
+Kalau misalnya kamu sedang tidur sekarang, aku tidak akan menyanyi sekeras ini.
+
+• _If you left now, you would still catch your train._
+Kalau saja kamu pergi sekarang, kamu masih bisa kejar kereta.
+
+3️⃣ - Tipe 3
+Yaitu berupa perumpamaan (tidak nyata) di masa lalu. Bagian syarat menggunakan Past Perfect Tense (had), dan hasil menggunakan kata would have/should have/could have. Bentuknya Past untuk menunjukkan perumpamaan, dan Perfect untuk menunjukkan masa lampau.
+
+Syarat: if (past perfect)
+Hasil   : (past future perfect)
+
+[If A had happened, B would have happened]
+
+Contoh:
+• _If you had called me, I would have come._
+Kalau saja kamu menelpon sebelumnya, aku mungkin sudah datang.
+
+• _If you had studied harder, you might have passed the test._
+Kalau saja kamu belajar lebih giat sebelumnya, kamu mungkin saja sudah lulus ujiannya.
+
+🔀 Mixed Conditional (Campuran)
+Mixed conditional berarti waktunya tidak sama antara bagian syarat dan hasil. Salah satunya menunjuk ke waktu lampau, dan satunya menunjuk ke masa sekarang/depan. Untuk bagian yang menunjuk ke waktu sekarang/depan, akan mengikuti Conditional Tipe 2, dan yang menunjuk ke waktu lampau mengikuti Conditional Tipe 3.
+
+1) Syarat-Sekarang/Depan, Hasil-Lampau
+Syarat: if (past tense)
+Hasil   : (past future perfect)
+
+[If A happened, B would have happened]
+
+Contoh:
+• _If you were a man, I would have punched you in the face._
+Kalau saja kamu laki-laki, aku pasti sudah memukul wajahmu.
+
+2) Syarat-Lampau, Hasil-Sekarang/Depan
+Syarat: if (past perfect tense)
+Hasil   : (past tense)
+
+[If A had happened, B would happen]
+
+Contoh:
+• _If you had done your job properly, we wouldn't be in this situation._
+Kalau saja kamu melakukan pekerjaanmu dengan benar, kita pasti tidak akan berada dalam situasi ini.
+
+⏰ *Tense*
+Kalimat conditional pada kenyataannya cukup fleksibel, tidak harus berpaku persis pada rumus yang biasanya diajarkan di sekolah. Tetapi yang penting adalah apakah kalimatnya menunjuk ke masa sekarang/lampau/depan (waktunya) ataukah berupa perkiraan/perumpamaan (kemungkinannya). Karena kedua hal ini yang akan menentukan makna yang dapat dipahami oleh orang lain.
+
+📠 *Rangkuman*
+Tipe 0:
+If (present), then (present)
+If A happens, B happens
+
+Tipe 1:
+If (present), then (future)
+If A happens, B will happen
+
+Tipe 2:
+If (past), then (past future)
+If A happened, B would happen
+
+Tipe 3:
+If (past perfect), then (past future perfect)
+If A had happened, B would have happened
+
+Mixed:
+• if (past), then (past future perfect)
+If A happened, B would have happened
+• if (past perfect), then (past future)
+If A had happened, B would happen
+______________________________
+1-12-20 | 🇬🇧🇺🇸 Belajar English

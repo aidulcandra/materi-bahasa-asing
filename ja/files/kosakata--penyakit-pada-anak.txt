@@ -1,0 +1,21 @@
+*KOSAKATA - PENYAKIT PADA ANAK*
+_*TANGO ICHIRAN : KODOMO NO BYOUKI*_
+*単語一覧：子供の病気*
+
+*あせも* _(asemo)_ biang keringat
+*とびひ* _(tobihi)_ impetigo
+*いぼ* _(ibo)_ kutil
+*てんかん* _(tenkan)_ epilepsi/ayan
+*水ぼうそう* _(mizubousou)_ cacar air
+*おたふく風邪* _(otafuku kaze)_ gondokan
+*はしか* _(hashika)_ campak
+*風疹* _(fuushin)_ rubella/campak Jerman
+*アトピー性皮膚炎* _(atopii-sei hifuen)_ dermatitis atopik
+*じんましん* _(jinmashin)_ urtikaria
+*嘔吐下痢症* _(outo gerishou)_ muntaber
+*プール熱* _(puuru-netsu)_ infeksi adenovirus
+*百日咳* _(hyakunichi zeki)_ pertusis/batuk rejan
+*溶連菌感染症* _(yourenkin kansenshou)_ infeksi streptokokus
+*ヘルペス性口内炎* _(herupesu-sei kounaien)_ stomatitis herpes
+*りんご病* _(rin’go-byou)_ penyakit kelima
+*川崎病* _(kawasakibyou)_ penyakit Kawasaki

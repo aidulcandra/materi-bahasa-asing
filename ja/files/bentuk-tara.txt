@@ -1,0 +1,76 @@
+⭐ *文法* • Tata Bahasa ⭐
+☆ Bentuk Kata Kerja -TARA ☆
+
+Bentuk kata kerja たらTARA adalah bentuk kata kerja yang dipakai untuk membuat kalimat syarat selain dengan bentuk ばBA, dan partikel とTO dan ならNARA.
+
+⚙️ *Rumus*
+Pertama ubahlah kata kerja ke bentuk たTA (bentuk lampau) lalu tambahkan らRA. Ini juga berlaku untuk kata sifat dan kata benda.
+
+📟 *Contoh:*
+• 帰る kaeru --> 帰ったら kaettara
+   pulang              kalau pulang
+
+• 来る kuru --> 来たら kitara
+   datang            kalau datang
+
+• 書く kaku --> 書いたら kaitara
+   menulis            kalau menulis
+
+• する suru --> したら shitara
+   melakukan      kalau melakukan
+
+• 呼ぶ yobu --> 呼んだら yondara
+   memanggil      kalau memanggil
+
+Kata sifat I:
+• 寒い --> 寒かったら
+   samui      samukattara
+   dingin      kalau dingin
+
+Kata sifat NA dan kata benda:
+• 上手 --> 上手だったら
+   jouzu       jouzu dattara
+   mahir       kalau mahir
+
+• 学生 --> 学生だったら
+   gakusei   gakusei dattara
+   siswa       kalau siswa
+
+Untuk bentuk negatif juga diubah ke bentuk negatif lampau terlebih dahulu lalu tambahkan らRA.
+
+• 買わない --> 買わなかったら 
+   kawanai          kawanakattara
+   tidak beli         kalau tidak beli
+
+• 安くない --> 安くなかったら
+   yasukunai       yasukunakattara
+   tidak murah    kalau tidak murah
+
+Untuk kata sifat NA dan kata benda gunakan で(は)なかったら DE(WA)NAKATTARA. Atau yang lebih biasa diucapkan sehari-hari じゃなかったら JANAKATTARA
+• 元気で(は)なかったら
+   genki de(wa)nakattara
+   kalau tidak sehat
+
+• 私で(は)なかったら
+   watashi de(wa)nakattara
+   kalau bukan saya
+
+💡 *Fungsi*
+Untuk membuat kalimat syarat yang berupa perkiraan umum. Syarat yang diberikan punya kemungkinan akan terjadi sehingga bisa berarti "kalau", "kalau sudah", "ketika"...
+• もし明日晴れたら、ゴルフに行きます。
+   _moshi ashita haretara, gorufu ni ikimasu_
+   Kalau besok cerah, saya akan pergi main golf.
+
+• それ美味しかったら私も食べたい。
+   _sore oishikattara watashi mo tabetai_
+   Kalau itu enak aku juga mau makan
+
+• 日本に来たら連絡してね。
+   _nihon ni kitara renraku shite ne_
+   Kalau sudah datang ke Jepang hubungi saya ya.
+
+• お酒を飲んだら、運転してはいけません。
+   _osake o nondara, unten shite wa ikemasen_
+   Kalau sudah minum sake jangan berkendara
+______________________________
+18-12-20 | 🇯🇵 Belajar Nihon-go

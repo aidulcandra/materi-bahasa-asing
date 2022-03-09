@@ -1,0 +1,69 @@
+⭐ 語彙 • Kosakata ⭐
+☆ 数 • Angka ☆
+
+🔵 *ANGKA SATUAN*
+零      rei/zero           nol
+一      ichi                  satu
+二      ni                     ni
+三      san                  tiga
+四      yon/shi            empat
+五      go                    lima
+六      roku                 enam
+七      shichi/nana     tujuh
+八      hachi               delapan
+九      kyuu                 sembilan
+十      juu                   sepuluh
+
+🔴 *ANGKA PULUHAN*
+十          juu             sepuluh
+二十      ni juu         dua puluh
+三十      san juu      tiga puluh
+四十      yon juu      empat puluh
+五十      go juu        lima puluh
+Dst...
+
+🟢 *ANGKA RATUSAN*
+百        hyaku           seratus
+二百    ni hyaku       dua ratus
+三百    *sanbyaku*     tiga ratus
+四百    yon hyaku    empat ratus
+五百    go hyaku      lima ratus
+六百    *roppyaku*      enam ratus
+七百    nana hyaku  tujuh ratus
+八百    *happyaku*     delapan ratus
+九百    kyuu hyaku   sembilan ratus
+
+🟠 *ANGKA RIBUAN*
+千        sen           seribu
+二千    ni sen       dua ribu
+三千    *sanzen*    tiga ribu
+四千    yon sen    empat ribu
+五千    go sen      lima ribu
+六千    roku sen   enam ribu
+七千    nana sen  tujuh ribu
+八千    *hassen*  delapan ribu
+九千    kyuu sen   sembilan ribu
+
+🌀 *MENYUSUN ANGKA*
+Menyusun angka caranya disusun dari angka yang paling besar (ribuan>ratusan>puluhan>satuan)
+Contoh:
+
+☆ *12*   》 十二
+                    (10 + 2)
+_juu ni_
+
+☆ *67*  》 六十七
+                    六十      七
+                    (60    +   7)
+_rokujuu nana_
+
+☆ *428* 》 四百二十八
+                     四百     二十    八
+                     (400  +   20   +  8)
+_yonhyaku nijuu hachi_
+
+☆ *8253* 》 八千二百五十三
+                  (8000 + 200 + 50 + 3)
+_hassen nihyaku gojuu san_
+______________________________
+7-11-20 | 🇯🇵 Belajar Nihon-go

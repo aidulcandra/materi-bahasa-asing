@@ -1,0 +1,84 @@
+⭐ *文法 Bunpou* • Tata Bahasa ⭐
+☆ Bentuk てte ☆
+◇ Bentuk Sambung ◇
+
+Bentuk てte adalah bentuk kata kerja yang berakhiran huruf てte (atau でde) yang fungsinya umumnya adalah untuk menyambungkannya ke kalimat berikutnya.
+
+Bentuk てte sama cara membentuknya dengan bentuk たta.
+
+⚙️ *Pembentukan*
+Untuk membentuknya tergantung pada kelompok kata kerja:
+
+*1) Kata Kerja うu*
+==============
+Ubahlah akhiran-akhiran kata kerjanya sesuai dengan di bawah ini:
+• うu/つtsu/るru --> *ってtte*
+• ぶbu/ぬnu/むmu --> *んでnde*
+• くku --> *いてite*
+• ぐgu --> *いでide*
+• すsu --> *してshite*
+
+Contoh:
+• 書く kaku (menulis)
+--> 書いて kaite
+• 読む yomu (membaca)
+--> 読んで yonde
+• 待つ matsu (menunggu)
+--> 待って matte
+
+Khusus: 行く iku (pergi)
+--> 行って itte
+
+*2) Kata Kerja るru*
+===============
+Ubahlah akhiran るru pada kata kerja langsung menjadi てte.
+
+Contoh:
+• 食べる taberu (makan)
+--> 食べて tabete
+• 見る miru (melihat)
+--> 見て mite
+
+*3) Kata Kerja Khusus*
+=================
+Dua kata kerja ini punya bentuk てte khusus:
+• する suru (melakukan)
+--> して shite
+• 来る kuru (datang)
+--> 来て kite
+
+🔧 *Fungsi*
+Fungsi yang pertama dari bentuk てte ini adalah untuk menyambungkan kalimat ke kalimat lain.
+
+*漫画を読んで* 音楽を聴く
+_*manga o yonde* ongaku o kiku_
+= *membaca komik dan* mendengarkan musik
+
+*帰って* 休む
+_*kaette* yasumu_
+= *pulang dan* beristirahat
+
+💡 *Info*
+Mungkin Anda kenal dengan ungkapan いってきます _ittekimasu_ yang berarti "aku pergi dulu ya", ungkapan ini juga menggunakan bentuk てte dari いくiku (pergi). Jika diartikan per kata maka akan menjadi "saya akan pergi lalu datang (kembali)"
+
+Selain itu bentuk てte digunakan pada berbagai pola kalimat. Beberapa contohnya yaitu:
+
+☆ Menunjukkan kegiatan yang sementara berlangsung dengan pola ~ている ~te iru:
+• 遊ぶ asobu (bermain)
+--> 遊んでいる asonde iru (sedang bermain)
+
+☆ Membuat kalimat permintaan dengan pola ~てください ~te kudasai:
+• 説明する setsumei suru (menjelaskan)
+--> 説明してください setsumei shite kudasai (tolong jelaskan)
+
+☆ Meminta izin dengan pola ~てもいいですか ~te mo ii desu ka:
+• 聞く kiku (bertanya)
+--> 聞いてもいいですか kiite mo ii desu ka (bolehkah saya bertanya)
+
+☆ Membuat kalimat larangan dengan pola ~ては行けません ~te wa ikemasen
+• タバコを吸う tabako o suu (merokok)
+--> タバコを吸っては行けません tabako o sutte wa ikemasen (tidak boleh merokok)
+☆ Dan lain-lain
+
+_____________________________
+23-5-21 | 🇯🇵 Belajar Nihon-go

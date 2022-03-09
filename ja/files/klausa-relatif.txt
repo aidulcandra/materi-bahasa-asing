@@ -1,0 +1,95 @@
+⭐ 文法 • TATA BAHASA ⭐
+☆ 関係節 ☆
+◇ Klausa Relatif ◇
+
+*Memberi Keterangan Lebih Lanjut pada Kata Benda*
+Di bahasa Indonesia kita bisa gunakan kata "yang" untuk menjelaskan sesuatu lebih rinci agar pendengar tahu maksud kita.
+Contoh:
+• Saya membaca *buku*.
+
+Misalnya di kalimat ini kita ingin menjelaskan tentang buku itu, kita bisa tambahkan kata-kata seperti ini, diawali dengan kata "yang".
+
+• Saya membaca *buku yang saya beli kemarin*.
+
+Di dalam bahasa Jepang tidak ada terjemahan kata "yang" secara langsung, tapi kita bisa mengungkapkan menjelaskan suatu kata seperti ini dengan cara tersendiri di bahasa Jepang.
+
+• *本* を読んでいます。
+   *Hon* o yonde imasu.
+   Saya sedang membaca *buku.*
+
+Bagaimana cara kita beri penjelasan seperti contoh kalimat bahasa Indonesia di contoh sebelumnya? Caranya pikirkan kalimat yang menjadi penjelasnya
+
+_"yang *saya beli kemarin*"_
+
+"Saya beli kemarin" adalah kalimat penjelasnya, jika diterjemahkan:
+
+私は昨日買いました
+watashi wa kinou kaimashita
+
+Tetapi ada aturan dalam membuat kalimat penjelas:
+1) Ganti は wa dengan が ga atau の no
+    私が / 私の
+    watashi ga / watashi no 
+(がga lebih umum digunakan)
+
+2) Gunakan kata kerja bentuk biasa. (Tetapi tetap ikuti lampau/tidaknya)
+     買いました --> 買った
+     kaimashita    --> katta
+
+Sehingga kalimat penjelas kita menjadi:
+私が昨日買った
+watashi ga kinou katta
+
+Sekarang, di manakah kita letakkan kalimat penjelas ini?
+Cukup letakkan *sebelum* kata benda yang dijelaskan.
+
+*私が昨日買った* 本
+*watashi ga kinou katta* hon
+buku *yang saya beli kemarin*
+
+Sekarang seluruh kalimat kita menjadi:
+*私が昨日買った本* を読んでいます。
+_*watashi ga kinou katta hon* o yonde imasu_
+Saya sedang membaca *buku yang saya beli kemarin*.
+
+❓ *が ga atau の no ?*
+Walaupun kita bisa mengganti がga menjadi のno di kalimat itu, ini tidak selamanya berlaku, apabila maknanya berubah tidak seperti yang kita inginkan.
+
+Di kalimat penjelas tersebut:
+私が昨日買った本
+_watashi ga kinou katta hon_
+Buku yang saya beli kemarin
+
+Jika menggunakan のno:
+私の昨日買った本
+_watashi no kinou katta hon_
+Buku saya yang dibeli kemarin
+
+Perbedaan maknanya tidak jauh. Jadi tidak apa-apa menggunakan のno. Tetapi jika ada kalimat penjelas seperti ini:
+
+_Kue yang Tanaka buat di rumah_
+
+Maka dalam bahasa Jepang:
+
+田中さんが家で作ったケーキ
+tanakasan ga ie de tsukutta keeki
+kue yang Tanaka buat di rumah
+
+Jika menggunakan のno maka:
+田中さんの家で作ったケーキ
+tanakasan no ie de tsukutta keeki
+kue yang dibuat di rumah tanaka
+
+Karena のno sekarang menyambungkan 田中さんtanakasan dengan 家ie (rumah) maka maknanya menjadi *"rumah Tanaka"*. 
+Ini maknanya sedikit melenceng karena bisa bermakna orang lain yang yang membuat kue itu di rumah Tanaka.
+
+📺 *CONTOH KALIMAT LAIN*
+• お父さんが乗る自転車は壊れた。
+   Otousan ga noru jitensha wa kowareta.
+   Sepeda yang ayah naiki sudah rusak.
+
+• 猫が飛んでいる鳥を追いかけています。
+   Neko ga tonde iru tori o oikakete imasu.
+   Kucing sedang mengejar burung yang sedang terbang.
+______________________________
+11-11-20 | 🇯🇵 Belajar Nihon-go

@@ -1,0 +1,47 @@
+KOSAKATA - MENCUCI
+単語一覧：洗濯
+
+*物干し竿* _(monohoshi zao)_ tiang jemuran
+*ハンガー* _(han’gaa)_ gantungan
+*洗濯ばさみ* _(sentaku-basami)_ jepitan baju
+*洗濯機* _(sentakuki)_ mesin cuci
+*洗濯物* _(sentakumono)_ cucian
+*洗濯板* _(sentaku ita)_ papan penggilasan
+*白いもの* _(shiroi mono)_ pakaian putih
+*色もの* _(iro mono)_ pakaian berwarna
+*生地* _(kiji)_ kain
+*素材* _(sozai)_ bahan (pakaian)
+*しわ* _(shiwa)_ kerutan/lecek (pada pakaian)
+*襟* _(eri)_ kerah (pada pakaian)
+*色落ち* _(iro-ochi)_ warnanya luntur
+*縮んだ* _(chijinda)_ kusut
+*洗濯カゴ* _(sentaku kago)_ keranjang cucian
+*しみ* _(shimi)_ noda
+*洗剤* _(senzai)_ deterjen
+*液体洗剤* _(ekitai senzai)_ deterjen cair
+*粉末洗剤* _(funmatsu senzai)_ deterjen bubuk
+*柔軟剤* _(juunanzai)_ pelembut/softener
+*加香剤／芳香剤* _(kakouzai/houkouzai)_ pewangi/pengharum
+*消臭剤* _(shoushuuzai)_ penghilang bau
+*漂白剤* _(hyouhakuzai)_ pemutih
+*クレンザー* _(kurenzaa)_ pembersih/cleanser
+*洗濯する* _(sentaku suru)_ mencuci
+*洗う* _(arau)_ mencuci
+*濡れる／湿る* _(nureru/shimeru)_ basah
+*濯ぐ* _(susugu)_ membilas (pakaian)
+*絞る* _(shiboru)_ memeras (pakaian)
+*干す* _(hosu)_ menjemur
+*つるす* _(tsurusu)_ menggantungkan (pakaian)
+*乾かす* _(kawakasu)_ mengeringkan
+*乾く* _(kawaku)_ kering/mengering
+*取り込む* _(torikomu)_ mengambil (pakaian yang dijemur)
+*畳む* _(tatamu)_ melipat
+*片付ける* _(katadzukeru)_ merapikan
+*ドライクリーニング* _(dorai kuriinin’gu)_ cuci kering tanpa air (dry cleaning)
+*洗濯代* _(sentaku dai)_ biaya laundry
+*乾燥機* _(kansouki)_ mesin pengering
+*二槽式洗濯機* _(nisoushiki sentakuki)_ mesin cuci dua tabung
+*ドラム式洗濯機* _(doramu shiki sentakuki)_ mesin cuci bukaan depan (front loading)
+*コイン式洗濯機* _(koin shiki sentakuki)_ mesin cuci koin
+
+2021年7月18日(日)・亜間留

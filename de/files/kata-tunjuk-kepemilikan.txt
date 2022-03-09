@@ -1,0 +1,36 @@
+⭐ *KATA TUNJUK KEPEMILIKAN* ⭐
+_______________________
+⚾ Kata tunjuk pemilik dalam bahasa Jerman, untuk tiap subjek:
+
+*Subjek            Kepemilikan*
+==================
+ich                  mein
+du                   dein
+Sie (Anda)      Ihr
+er/es               sein
+sie (dia)          ihr
+wir                  unser
+ihr                   euer
+sie (mereka)  ihr
+
+🥎 Kata-kata tersebut mengikuti akhiran dari *ein* tergantung pada gender dan kasus pada kata benda yang mengikutinya.
+
+🎾 *Contoh:*
+☆ ayahku
+     = mein Vater (Nom.)
+     = meinen Vater (Akk.)
+     = meinem Vater (Dat.)
+     = meines Vaters (Gen.)
+(Vater bergender maskulin)
+
+☆ ibumu
+     = deine Mutter (Nom.)
+     = deine Mutter (Akk.)
+     = deiner Mutter (Dat.)
+     = deiner Mutter (Gen.)
+(Mutter bergeder feminin)
+
+*Untuk kata "euer":*
+Biasanya jika mempunyai akhiran tambahan, maka huruf e kedua hilang menjadi "eur-" (eure, euren, eurem, eures)
+_______________________
+🇩🇪 *Belajar Deutsch*

@@ -1,0 +1,72 @@
+⭐ *GRAMMATIK* • Tata Bahasa ⭐
+☆ Kalimat Pasif ☆
+
+*Kalimat Pasif* adalah kalimat yang subjeknya adalah sebagai yang dikenai suatu aksi. Di bahasa Indonesia misalnya pada kalimat:
+"Bola itu *ditendang*."
+
+Pada kalimat di atas bentuk kata kerja yang dipakai berimbuhan *di-* (contoh lain: dimakan, ditulis, dipanggil, dll...)
+
+Di dalam bahasa Jerman susunan ini juga dapat kita buat, menggunakan kata kerja *werden*.
+
+*Werden* dapat diartikan "menjadi", tetapi ia dapat digunakan untuk membuat kalimat pasif. 
+
+⚙️ *Perubahan Kata Werden*
+Sebelum itu, mari kita lihat perubahan kata werden untuk setiap subjek, untuk waktu sekarang:
+
+• ich ............. werde
+• du .............. wirst
+• Sie ............. werden
+• er/sie/es ... wird
+• wir ............. werden
+• ihr .............. werdet
+• sie ............. werden
+
+⚙️ *Susunan Bentuk Pasif*
+[ werden + Partizip II ]
+
+Apa itu Partizip II? Yaitu salah bentuk dari kata kerja. Tiap kata kerja memiliki bentuk Partizip II. Bentuk ini ditandai dengan awalan *ge-*.
+• machen --> gemacht
+• sagen     --> gesagt
+• essen     --> gegessen
+• schwimmen --> geschwommen
+• wissen   --> gewusst
+
+Namun ada juga yang tidak berawalan *ge-*.
+• verkaufen --> verkauft
+• studieren  --> studiert
+
+Ada yang tambahan *-ge-* nya di tengah.
+• einkaufen --> eingekauft
+
+(Akan dibahas lebih rinci di materi tersendiri.)
+
+Partizip II ini diletakkan di akhir kalimat, sehingga jika ada keterangan, maka keterangannya akan berada di antara werden dan Partizip II -nya.
+
+👤 *Pelaku Kata Kerja*
+Untuk menambahkan keterangan pelaku, gunakan:
+• von (jika pelakunya orang)
+  Gunakan kasus Dativ.
+  Contoh:
+  - _von mir_ = olehku
+  - _von ihm_ = olehnya
+  - _von meinem Vater_ = oleh ayahku
+
+• durch (jika pelakunya selain orang)
+  Gunakan kasus Akkusativ.
+  Contoh:
+  - _durch den Sturm_ = oleh angin
+  - _durch eine Explosion_ = oleh sebuah ledakan
+
+Namun dalam percakapan sehari-hari kadang orang menggunakan *von* untuk orang maupun bukan orang.
+
+📺 *Contoh Kalimat:*
+• _Der Brief *wird* von mir *geschreiben.*_
+= Surat itu *ditulis* oleh saya.
+
+• _Du *wirst gesehen.*_
+= Kamu *dilihat.*
+
+• _Der Mann *wird* ins Krankenhaus *gebracht.*_
+= Pria itu *dibawa* ke rumah sakit.
+_____________________________
+29-3-21 | 🇩🇪 Belajar Deutsch

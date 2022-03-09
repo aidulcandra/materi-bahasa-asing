@@ -1,0 +1,50 @@
+⭐ 文法 • Tata Bahasa ⭐
+☆ Partikel がga ☆
+(Penunjuk Subjek)
+
+🔨 *Fungsi*
+Partikel が (ga) adalah partikel yang menunjukkan subjek dari kalimat, lebih tepatnya apa/siapa persisnya yang menjadi pelaku kata kerja, atau siapa/apa yang keadaannya/sifatnya sedang dijelaskan.
+
+Subjek bisa sama dengan topik (yang biasanya ditandai dengan partikel はwa) dan kadang juga tidak sama.
+
+🟢 *Ketika Topik = Subjek*
+Contoh kalimat ketika topiknya sama dengan subjek:
+
+*ディマスさんは* ミルクを飲みました。
+_*Dimasu san wa* miruku o nomimashita._
+*Dimas* meminum susu.
+
+Di sini topik kalimat adalah "Dimas" (karena diikuti はwa) dan kebetulan menjadi subjek atau pelaku dari kata kerja "meminum".
+
+🔴 *Ketika Topik ≠ Subjek*
+ぞうは *鼻が* 長いです。
+_Zou wa *hana ga* nagai desu._
+Gajah *hidungnya* panjang.
+
+Topik kalimatnya adalah "gajah". Sedangkan subjeknya adalah "hidung" karena yang panjang hidungnya, bukan gajahnya.
+
+🔵 *Ketika Topik tidak disebutkan*
+Terkadang kita akan jumpai kalimat yang menggunakan penunjuk subjek (がga) tanpa adanya penunjuk topik (はwa). Biasanya jika topik belum ada, kalimat ini menunjukkan informasi baru.
+
+*猫が* 飛びました。
+_*Neko ga* tobimashita._
+*Seekor kucing* telah melompat.
+
+Berarti "kucing" di sini baru dikenalkan dalam percakapan/cerita karena tidak diketahui kucing yang mana. Misalnya jika percakapan/ceritanya dilanjutkan, maka partikel はwa sudah dapat digunakan pada kata 猫neko, karena kita sudah 'diperkenalkan' dengan si kucing.
+
+あの *猫は* 高く飛びました。
+_Ano *neko wa* takaku tobimashita._
+*Kucing* itu melompat dengan tinggi.
+
+Selain itu, menggunakan がga juga dapat memberi penekanan siapa/apa yang dimaksudkan melakukan sesuatu/sedang dijelaskan keadaannya.
+
+*何が* 落ちた?
+_*Nani ga* ochita?_
+*Apa* yang jatuh?
+(Dengan kata tanya seperti 何nani [apa] / 誰dare [siapa] partikel がga yang digunakan.)
+
+*お皿が* 落ちた。
+_*Osara ga* ochita._
+*Piring lah* yang jatuh.
+_____________________________
+15-2-21 | 🇯🇵 Belajar Nihongo

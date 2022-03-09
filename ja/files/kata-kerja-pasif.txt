@@ -1,0 +1,75 @@
+⭐ *文法 Bunpou* • Tata Bahasa ⭐
+☆ Kata Kerja Pasif ☆
+
+*Bentuk pasif* adalah bentuk kata kerja yang menunjukkan suatu aksi dilakukan terhadap subjekya.
+Contohnya di bahasa Indonesia adalah kata kerja yang berawalan di-.
+(dimakan, ditutup, dilempar, dll...)
+
+Di dalam bahasa Jepang, untuk membuat bentuk kata kerja pasif kita mengikuti pola, yang tergantung pada tiap kelompok kata kerja.
+
+1️⃣ *Kata Kerja U*
+Ubah huruf terakhir kata kerja ke bunyi A. Lalu tambahkan れるreru.
+
+• 読む yomu (membaca)
+[ 読ま yoma + れるreru ]
+*= 読まれる yomareru (dibaca)*
+
+• 書く kaku (menulis)
+*= 書かれる kakareru (ditulis)*
+
+• 待つ matsu (menunggu)
+*= 待たれる matareru (ditunggu)*
+
+Khusus kata kerja yang berakhiran うu diubah menjadi わwa.
+• 買う kau (membeli)
+*= 買われる kawareru (dibeli)*
+
+2️⃣ *Kata Kerja RU*
+Ubah akhiran るru menjadi られるrareru.
+
+• 食べる taberu (memakan)
+*= 食べられる taberareru (dimakan)*
+
+• 教える oshieru (mengajar)
+*= 教えられる oshierareru (diajar)*
+
+3️⃣ *Kata Kerja Pengecualian*
+• する suru (melakukan)
+*= される sareru (dilakukan)*
+
+• 来る kuru (datang)
+*= 来られる korareru*
+
+❇️ Bentuk pasif sendiri termasuk kelompok kata kerja RU, jadi adapun perubahan bentuk selanjutnya mengikuti kata kerja RU.
+• 飲まれる nomareru (diminum)
+》飲まれた nomareta (bentuk lampaunya)
+
+📺 *Contoh Kalimat*
+Untuk kata kerja pasif, dapat menggunakan partikel にni  untuk menunjuk ke pelakunya (dapat diterjemahkan jadi "oleh")
+
+• 私は彼女に見られた。
+  _Watashi wa kanojo ni mirareta._
+= Aku dilihat oleh dia.
+
+• 弟は蜂に刺された。
+  _Otouto wa hachi ni sasareta._
+= Adik saya disengat lebah.
+
+• ウサギはトラに食べられる。
+   _Usagi wa tora ni taberareru._
+= Kelinci akan dimakan oleh harimau.
+
+*Pasif Tak Langsung*
+Kata kerja pasif masih bisa mempunyai objek langsung yang ditandai dengan partikel をo/wo. Ini menunjukkan bahwa si subjek bukan mendapat perlakuan langsung, tetapi tetap kena dampaknya.
+
+• 外国人に質問を聞かれました。
+  _Gaikokujin ni shitsumon o kikaremashita._
+= Saya ditanyakan sebuah pertanyaan oleh orang asing.
+[Yang ditanyakan adalah "pertanyaan", tetapi "saya" di sini tetap ikut menerima perlakuan tersebut, karena kepada "saya" pertanyaan tersebut ditanyakan]
+
+• 私は誰かに足を踏まれた。
+   _Watashi wa dareka ni ashi o fumareta._
+= Kaki saya diinjak seseorang.
+("Saya" mendapat perlakuan "diinjak di kaki")
+_____________________________
+27-3-21 | 🇯🇵 Belajar Nihon-go
