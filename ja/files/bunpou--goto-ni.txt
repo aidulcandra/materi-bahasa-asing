@@ -11,7 +11,7 @@ Rumus:
 • [kata kerja] + ごとに
 
 📺 *Contoh Kalimat*
-オリムピックは *4年ごとに* 開催される。
+オリンピックは *4年ごとに* 開催される。
 _Orimpikku wa *4-nen goto ni* kaisai sareru._
 = Olimpiade diadakan *tiap 4 tahun.*
 
@@ -25,7 +25,7 @@ _Kare wa kanojo ni *doyoubi goto ni* atte iru._
 
 彼は会う *人ごとに* 話しかけた。
 _Kare wa au *hito goto ni* hanashikaketa._
-= Dia berbincang dengan *setiap orang* yang ia temui.
+= Dia berbincang dengan/menyapa *setiap orang* yang ia temui.
 
 *列車が到着するごとに* ホームは人で溢れている。
 _*Ressha ga touchaku suru goto ni* hoomu wa hito de afurete iru._
