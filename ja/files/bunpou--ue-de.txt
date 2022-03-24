@@ -36,28 +36,28 @@ Makna ini kelihatannya berkebalikan dengan makna 1, karena sesuatu itu dilakukan
 Tetapi dalam konteks ini, ada kesan seperti "persyaratan", atau sesuatu yang perlu dilakukan lebih dulu, untuk menentukan sesuatu setelahnya bisa dilakukan atau tidak.
 
 Rumus:
-• kata kerja たta + 上で ue de
-• kata benda + の上で no ue de
+• kata kerja たta + うえで ue de
+• kata benda + のうえで no ue de
 
 Catatan:
-Partikel でde nya kadang-kadang tidak disebutkan. (Hanya 上 ue)
+Makna yang ini tidak dituliskan dengan kanji, hanya hiragana (うえで)
+Partikel でde nya kadang-kadang tidak disebutkan. (Hanya うえ ue)
 
 Contoh:
-• この薬は *説明書を読んだ上で*、ご使用ください。
+• この薬は *説明書を読んだうえで*、ご使用ください。
 _Kono kusuri wa *setsumeisho o yonda ue de*, goshiyou kudasai._
 = Silakan gunakan obat ini *setelah membaca petunjuk pemakaiannya.*
 
-☆ アパートは *部屋の中をみた上で* 買うかどうかを決めたい。
+☆ アパートは *部屋の中をみたうえで* 買うかどうかを決めたい。
 _Apaato wa *heya no naka o mita ue de* kau ka dou ka o kimetai._
 = Saya ingin memutuskan membeli atau tidak apartemen ini *setelah saya melihat isi ruangannya.*
 
-• *家族と相談の上で*、決めます。
+• *家族と相談のうえで*、決めます。
 _*Kazoku to soudan no ue de*, kimemasu._
 = Saya akan memutuskan itu *setelah berdiskusi dengan keluarga.*
 
-• *この書類に署名の上*、窓口に提出してください。
+• *この書類に署名のうえ*、窓口に提出してください。
 _*Kono shorui ni shomei no ue,* madoguchi ni teishutsu shite kudasai._
 = *Jika sudah menandatangani dokumen ini,* silakan bawa ke konter.
-
 _____________________________
-22-4-21 | 🇯🇵 Belajar Nihon-go
+🇯🇵 Belajar Nihon-go
