@@ -1,0 +1,32 @@
+⭐ *Countable and Uncountable Noun* ⭐
+_Kata Benda Terhitung dan Tak Terhitung_
+_____________________________
+
+*Noun* (kata benda) ada yang *countable* (dapat dihitung) dan *uncountable* (tidak dapat dihitung)
+
+🍎 *Countable Noun* yaitu kata benda yang dapat dihitung per buahnya jika jumlahnya banyak. Misalnya _"apple"_ (apel), karena dapat dihitung per buah: 1 apple, 2 apples, 3 apples, dst...
+
+💧 *Uncountable Noun* adalah kata benda yang tidak dapat dihitung per buah. Misalnya _"water"_ (air). Kita tidak bisa menyebut ~1 water, 2 water, 3 water~
+
+✏️ *Perbedaannya*
+☆ Countable noun mempunyai 2 bentuk: *singular* (tunggal) dan *plural* (jamak) sedangkan uncountable noun hanya bentuk singular saja.
+☆ Karena tidak terhitung, uncountable noun tidak memerlukan kata *a / an* sebelumnya, atau angka.
+• _This is *a water.*_ ❌
+• _This is *water.*_ ✔️
+
+*Kelompok kata benda tak terhitung*
+• *cairan:* _water, milk, tea, coffee..._
+• *material halus:* _sugar, sand, powder..._
+• *zat makanan:* _butter, food, chocolate, bread..._
+• *zat material:* _wood, gold, iron..._
+• *elemen* : _electricity, gas, power..._
+• *yang mempunyai satuan tersendiri:* _money, speed, cost, time..._
+• *kumpulan informasi:* _advice, information, vocabulary..._
+• *kumpulan hal yang berbeda-beda yang membentuk kesatuan* _furniture, luggage, music, art, work, transportation..._
+• *tindakan atau perasaan abstrak yang dimiliki yang nilainya tidak terukur:* _love, happiness, sadness..._
+
+⚠️ *Catatan:*
+Beberapa kata benda masuk ke dalam countable, dan juga uncountable. Tetapi biasanya maknanya akan berbeda. Contohnya kata *"iron"*, sebagai countable noun maka artinya "setrika", dan sebagai uncountable noun artinya "besi"
+_____________________________
+🇬🇧🇺🇸 Belajar English
+1-1-22
