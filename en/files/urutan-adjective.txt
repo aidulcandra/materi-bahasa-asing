@@ -1,0 +1,37 @@
+Urutan Adjective (word order)
+
+Kadang dalam 1 kalimat bisa muncul lebih dari 1 adjective. Bagaimana urutannya yang benar?
+Untuk mempermudah cara mengingatnya, kita bisa berpatokan pada:
+
+**DOSSACOMTP**
+
+Determiner: A/an, the, my, your, his, this, etc.
+
+Opinion: kata sifat yang brupa opini (nice, luxurious, beautiful, dll)
+
+Size: kata sifat yang menyatakan ukuran atau panjang (big, small, huge, dll)
+
+Shape: kata sifat yang menyatakan bentuk dari suatu benda (round, square, cylindrical, dll.)
+
+Age: menyatakan seberapa tua suatu benda (old, young, ancient)
+
+Color: menyatakan warna suatu benda (green, pink, red)
+
+Origin: menyatakan darimana benda itu berasal (Russian, American, Korean)
+
+Material: terbuat dari apa benda itu (wooden, iron, steel)
+
+Type: jenis benda dan cara pengoperasian benda (electrical pump, political issue)
+
+Purpose: untuk apa benda tersebut (washing machine, racing car)
+
+Contoh:
+
+It is a luxurious wooden chair (DOM)
+
+Lina is wearing a nice black night gown (DOCT)
+
+My dad has just bought an ancient Chinese watch (DAO)
+
+NB: Kalau ada lebih dari 1 color dalam 1kalimat, bisa menambahkan and
+They are beautiful pink and black bag.
