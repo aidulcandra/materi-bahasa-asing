@@ -1,0 +1,68 @@
+**TOEFL TIP #7**
+
+WASPADAI KETERANGAN TEMPAT DAN KATA BERMAKNA NEGATIVE DI AWAL KALIMAT
+
+Jika kamu menjumpai ada keterangan tempat terutama yang diawali oleh in, on, at di awal kalimat dan tanpa ada koma, awas terkecoh dengan subject dan verbnya karena urutannya sudah berubah.
+
+Normalnya, suatu kalimat akan diawali dengan subject + verb.
+Tapi dalam kasus ini dimana keterangan tempat mengawali suatu kalimat, urutannya menjadi verb + subject.
+
+Contoh:
+
+On the table are my books
+
+Kamu mungkin akan berpikir kenapa pake are? Kan subjecnya on the table. Ingat! Tidak ada subject yang didahului oleh preposition (in, on, at, dll). Jadi, subject yang sebenarnya adalah my books. Karena book lebih dari 1, jadinya are yang digunakan. 
+
+Paham kan? Urutannya bukan S + V lagi. Tapi menjadi V + S. 
+Tipe kalimat V + S ini juga ditemukan pada kalimat yang diawali oleh kata bermakna negative yang antara lain adalah:
+📍Never
+📍Rarely
+📍Seldom
+📍Little 
+📍Hardly
+📍Barely
+📍No sooner
+📍Scarcely
+📍Only
+📍Not only.... but also
+📍Not once
+📍Not since
+📍Not
+📍Under no circumstances 
+📍In no way
+📍Nowhere
+📍No way
+Selain itu struktur kalimat yang terbalik seperti ini juga bisa ditemui dalam kalimat perbandingan. 
+
+Contoh:
+She works harder than _do I_
+Struktur ini juga ada pada kalimat pengandaian. 
+
+Contoh:
+_Should you_ need any help, you can call me. 
+_Were I_ you, I wouldn't do that. 
+_Had I_ known the truth, I would have done that. 
+
+Contoh soal:
+1. Located behind _______ the two lacrimal glands.
+A. Each eyelid
+B. Is each eyelid
+C. Each eyelid are
+D. Each eyelid which is
+Kalimat ini diawali dengan keterangan tempat (Located behind), jadi ini kemungkinan pake struktur V+S. Subjectnya sudah ada yaitu (the two lacrimal glands), jadi yang harus dicari adalah verbnya. 
+Opsi A salah karena tidak mengandung verb. 
+Opsi D salah karena kalimat ini hanya punya 1 subject dan 1 verb, jadi gak perlu ada connector (which).
+,Opsi B salah karena verb is. Padahal ada kata two, glands di subject yang menandakan itu lebih dari 1.
+Jadi, jawabannya adalah C. each eyelid are. 
+Jika dibalik menggunakan struktur kalimat yang umum akan menjadi 
+.
+.
+_Two lacrimal glands are located behind each eyelid_
+
+
+2. Rarely _______ located near city lights or at lower elevations.
+A. Observatories are
+B. Are
+C. In the observatories
+D. Are observatories
+Kalimat ini diawaly oleh *Rarely* yang berarti kita harus membalik struktur kalimat
