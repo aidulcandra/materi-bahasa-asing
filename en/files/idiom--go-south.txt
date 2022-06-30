@@ -1,0 +1,5 @@
+Go south = tidak berjalan/bekerja dengan baik.
+
+Contoh: 
+If this plan _goes south_, I will lose him for good.
+(Jika rencana ini tidak berjalan baik/tidak berjalan semestinya, aku akan kehilangan dia untuk selamanya)
