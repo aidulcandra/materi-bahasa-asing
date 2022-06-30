@@ -1,0 +1,25 @@
+**TOEFL TIP #8**
+
+BERSAMA TAPI SENDIRI
+
+Mulai dari materi ini, kita udah mulai membahas error analysis ya. 
+Judul materi ini mungkin agak bikin baper. Tapi ini memang biasa muncul di tes TOEFL. Kamu akan mungkin akan menemukan subject yang seolah-olah bersama, padahal subject tersebut sendirian (singular). 
+Lho! Kok bisa?!
+
+Ciri-ciri subject yang seperti ini adalah jika ada kata:
+📍together with
+📍along with
+📍as well as
+📍accompanied by
+Kalo menemukan kata ini, anggap saja gak ada. 
+
+Contoh:
+Mrs. Stevens, along (A) with (B)her cousins from New Mexico, (C)are planning (D)to attend the festivities. 
+
+Jadi, ini soal error recognition dimana kamu harus memilih salah satu diantara kata yang digaris bawahi. Yang dipilih adalah kata yang mengandung kesalahan (error). Nah, karena di WA gak ada fasilitas _underline_ , jadi kata yang digaris bawahi saya ganti jadi cetak tebal (bold). 
+
+Kembali ke materi... 
+Pada kalimat tersebut, kata yang salah adalah (C)are. Kenapa? Karena subjectnya cuma 1 yaitu Mrs. Stevens. 
+Lha tapi kan ada _along with her cousins_?
+Iya. Tapi, anggap saja along with dan seterusnya itu gak ada. 
+Begitulah memang. Bersama tapi sendiri.
