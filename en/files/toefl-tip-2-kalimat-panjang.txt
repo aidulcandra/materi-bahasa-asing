@@ -1,29 +1,31 @@
-TOEFL TIP #1
+TOEFL TIP #2
 
-CEK KALIMATNYA UDAH LENGKAP APA BELUM
+WASPADAI KALIMAT YANG PANJANG
 
-soal-soal TOEFL yang ada di section 2 (structure and written expression) kebanyakan tentang identifikasi kalimat yang lengkap. Ini ada di soal nomor 1-15.
-Yang perlu diperhatikan adalah sudah lengkap belum sih kalimatnya? 
-Kalimat yang lengkap mempunyai paling tidak 1 Subject dan 1 Verb. Harus banget dalam 1 kalimat ada subject dan verb. Dan biasanya dalam soal TOEFL, salah satunya pasti dihilangkan. 
+Seringkali dalam tes TOEFL, kamu akan menemui kalimat yang panjang sehingga akan susah untuk menentukan verbnya. 
 
-_Cek apa yang hilang_ 
-🌸 Subject bisa berupa pronoun atau noun (I, you, they, we, he, she, it, Lisa, Budi, Ali, dll).
-🌸 Verb adalah kata kerja, juga bisa berupa is, am, are, was, were, be, been, will, would, may, might, can, could, shall, should, must. 
+Pake singular atau plural verb? 🤔🤷🏻‍♀️
+
+Untuk menentukan verbnya, lihat kata yang muncul sebelum preposition.
+ 
+Nah, preposition itu apa sih? 
+Preposition itu kata depan, yaitu _in, on, at, by, with, of, dan lain-lain._ (yang ini yang paling sering muncul). 
 
 Contoh:
-1. By far the most noticeable blemishes on the surface of the Sun _____ sunspots.
-A. the
-B. are
-C. that are
-D. in the
-Jawaban: B
 
-Kalau diperhatikan, kalimat ini sudah ada subject yaitu _the most noticeable blemishes on the surface of the Sun_ , tapi gak ada verbnya. Jadi, cari opsi yang mengandung verb SAJA . Jadi, jawabannya B. 
+1. The problems _of_ squaring a pan-European agenda with the national interests of 25 separate countries _____ the process of integration a slow, complex and at times divisive one.
+A. causes
+B. often affect
+C. resulting in
+D. have made
+Kalimatnya panjang kan? Jadi bingung menentukan jawabannya. Bahkan kadang artinya juga gak ngerti. Tapi, kamu bisa lihat dimana prepositionnya. 
+Dalam kalimat ini, kamu bisa menemukan preposition of. Nah, itu kuncinya. Sebelum preposition of, ada *The problems*. Dari situ kita bisa tahu bahwa problems itu plural, jadi verbnya juga harus sesuai. Maka dari itu, kita bisa mulai mengeliminasi jawaban. Cara ini cocok untuk yang tidak paham dengan maksud dari kalimat.
+Karena subject plural, eliminasi opsi yang ada _is, was, has, atau kata kerja yang ada tambahan s/es._ Jadi, kita eliminasi opsi A. 
 
-2. In the past, lions _______ common in many parts of the world.
-A. were
-B. once
-C. when
-D. only
-Jawaban: A
-Kalimat ini juga punya subject, yaitu _lions_ , tapi verbnya gak ada. Jadi, jawabannya A.
+
+Opsi C juga salah. Kenapa? Karena kalimat ini butuh verb. Coba lihat (dan ingat TOEFL TIP #1 yang kemarin) kalimat ini ada verbnya gak? Gak ada kan? 
+Opsi C langsung ada -ing tanpa ada is, am, are, was, were, be, been yang berarti itu bukan verb. Jadi, eliminasi saja. 
+
+Sisa opsi B dan D.
+Opsi B (often affect) kurang tepat karena affect artinya mempengaruhi. Akan jadi benar kalau ada tambahan kata become sebelum kata a slow. 
+Jadi, jawaban yang benar adalah D. have made. Kenapa? Pertama, the problems adalah plural, jadi pake verb have. Kedua, made (bentuk ketiga dari make) dapat diartikan sebagai _membuat....menjadi...._ . Ini penjelasan sederhananya. Jika mau penjelasan yang lebih detail, silahkan google penjelasan dari causative.
