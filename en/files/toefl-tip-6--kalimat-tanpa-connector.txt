@@ -1,0 +1,34 @@
+TOEFL TIP #6
+
+KALIMAT TANPA CONNECTOR
+
+Seperti yang telah kita ketahui bersama bahwa kalo ada 2 subjects dan 2 verbs  maka harus ada 1 connector. Bagaimana jika ternyata connectornya hilang?? 
+
+Model kalimat kayak gini memang bisa bikin pusing ketika ngerjakan soal TOEFL karena seringkali kalimatnya panjang sekali. 
+Sebenarnya connector tersebut tidak hilang, hanya digantikan oleh verb+ing atau verb 3.
+
+Contoh:
+1. .......... behind government secrecy for nearly half a century, the Hanford plant in central Washington produced plutonium for the nuclear weapons of the Cold War.
+A. It is hidden
+B. Hidden
+C. Which is hidden
+D. The plan is hiding
+Pada kalimat ini, kita bisa menemukan sebuah koma di tengah-tengah. Tanda koma ini punya peran penting dalam menentukan jawaban. Jika ada koma di tengah, berarti kalimat tersebut diawali dengan sebuah connector. 
+Maka dari itu, opsi A dan D salah karena tidak ada connectornya. 
+Opsi C memang ada connector which sih ya. Tapi, connectors which dan who gak boleh ada di awal kalimat tuh. 
+
+Jadi, jawabannya adalah B. Hidden. 
+Kenapa B? Kan gak ada connectornya? 
+Sebenarnya ada. Hanya saja, subject, connector, dan verb dilebur jadi satu dan berubah jadi verb 3, yaitu Hidden. 
+
+
+2.  _______on several different television programs, the witness gave conflicting accounts of 
+       what had happened. 
+(A)    He appeared 
+(B)    Who appeared 
+(C)    Appearing 
+(D)    Appears 
+Lagi-lagi kita menemukan koma di tengah kalimat. Jadi, jelas kalimat ini harus diawali dengan connector. 
+Opsi A dan D salah karena gak ada connectornya. Malah yang D cuma ada verb saja. 
+Opsi B salah karena connector who gak boleh ada di awal kalimat. 
+Jadi, jawaban yang benar adalah C karena subject, connector, dan verb dilebur jadi satu dan berubah jadi verb+ing, yaitu Appearing.
