@@ -580,4 +580,4 @@ worst – best
 wrong – correct
 yes – – no
 yesterday – tomorrow
-young – ol
+young – old
