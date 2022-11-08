@@ -1,0 +1,9 @@
+Family (Keluarga)
+father=ayah
+mother=ibu
+son=anak laki2/putra
+daughter=anak perempuan/putri
+brother=saudara laki2
+sister=saudara perempuan
+grandfather=kakek
+grandmother=nenek
