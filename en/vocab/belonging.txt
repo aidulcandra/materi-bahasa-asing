@@ -1,0 +1,10 @@
+Belongings (Barang Kepunyaan)
+money=uang
+bag=tas
+pen=pulpen
+glasses;plural=kacamata
+cellphone=ponsel
+hat=topi
+jacket=jaket
+wallet=dompet
+watch=jam tangan
