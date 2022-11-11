@@ -1,4 +1,3 @@
-Belongings (Barang Kepunyaan)
 money=uang
 bag=tas
 pen=pulpen
