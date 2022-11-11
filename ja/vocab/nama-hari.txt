@@ -1,0 +1,7 @@
+月曜日=getsuyoubi=Senin
+火曜日=kayoubi=Selasa
+水曜日=suiyoubi=Rabu
+木曜日=mokuyoubi=Kamis
+金曜日=kinyoubi=Jumat
+土曜日=doyoubi=Sabtu
+日曜日=nichiyoubi=Minggu
