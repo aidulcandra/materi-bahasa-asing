@@ -1,0 +1,12 @@
+a
+return "aiueo".includes(w[0])?"an "+w:"a "+w
+
+plural
+if (w.endsWith("us")) return w.replace(/us$/,"i")
+if (w.endsWith("is")) return w.replace(/is$/,"es")
+if (w.endsWith("o")||w.endsWith("s")||w.endsWith("sh")||w.endsWith("ch")||w.endsWith("x")||w.endsWith("z")) return w+"es"
+if (w.endsWith("f")||w.endsWith("fe")) return w.replace(/(f|fe)$/,"ves")
+if (w.endsWith("y")) {
+  if ("aueo".includes(w.at(-2))) return w+"s"
+  return w.replace(/y$/,"ies")
+} return w+"s"
