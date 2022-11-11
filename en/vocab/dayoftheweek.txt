@@ -1,4 +1,3 @@
-Days of The Week (Hari-hari)
 Monday=Senin
 Tuesday=Selasa
 Wednesday=Rabu
