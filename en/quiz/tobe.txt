@@ -1,6 +1,3 @@
-To Be (Am/Is/Are)
-Aidul Candra
-
 ... you <profession-a>?
 ... they <profession-plural>?
 [They/We] ... (not) <profession-plural>.
