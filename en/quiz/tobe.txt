@@ -1,35 +1,35 @@
-... you <profession-a>?
-... they <profession-plural>?
-[They/We] ... (not) <profession-plural>.
+... you <profession;a>?
+... they <profession;plural>?
+[They/We] ... (not) <profession;plural>.
 Where ... [you/we/they]?
 Where ... <name> and <name>?
-... <adjective-possessive> friends from <country>?
-<adjective-possessive> friends ... (not) from <country>.
+... <possessive-adjective> friends from <country>?
+<possessive-adjective> friends ... (not) from <country>.
 ... <name> and <name> [here/there]?
 ... <name> and <name> at [home/school/work]?
 <name> and <name> ... (not) [here/there].
 <name> and <name> ... (not) at [home/school/work]?
 are,am,is
 
-I ... (not) <profession-a>.
+I ... (not) <profession;a>.
 am,is,are
 
-... he <profession-male,a>?
-... she <profession-female,a>?
-He ... (not) <profession-male,a>.
-She ... (not) <profession-female,a>.
-... [your/his] name <name-male>?
-... [your/her] name <name-female>?
-His name ... (not) <name-male>.
-Her name ... (not) <name-female>.
-... <adjective-possessive> <family> [here/there]?
-... <adjective-possessive> <family> at home?
-<adjective-possessive> <family> ... (not) [here/there].
-<adjective-possessive> <family> ... (not) at home.
-... [this/that] <adjective-possessive> <belonging-!plural>?
-[This/That] ... (not) <adjective-possessive> <belonging-!plural>.
+... he <profession;male,a>?
+... she <profession;female,a>?
+He ... (not) <profession;male,a>.
+She ... (not) <profession;female,a>.
+... [your/his] name <name;male>?
+... [your/her] name <name;female>?
+His name ... (not) <name;male>.
+Her name ... (not) <name;female>.
+... <possessive-adjective> <family> [here/there]?
+... <possessive-adjective> <family> at home?
+<possessive-adjective> <family> ... (not) [here/there].
+<possessive-adjective> <family> ... (not) at home.
+... [this/that] <possessive-adjective> <belonging;!plural>?
+[This/That] ... (not) <possessive-adjective> <belonging;!plural>.
 ... it <dayoftheweek> today?
 Today ... (not) <dayoftheweek>.
 How old ... <name>?
-[He/She] ... (not) #2-100# years old.
+[He/She] ... (not) {2-100} years old.
 is,are,am
