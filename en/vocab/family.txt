@@ -1,4 +1,3 @@
-Family (Keluarga)
 father=ayah
 mother=ibu
 son=anak laki2/putra
