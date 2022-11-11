@@ -6,4 +6,5 @@ if (w.endsWith("us")) return w.replace(/us$/,"i")
 if (w.endsWith("is")) return w.replace(/is$/,"es")
 if (w.endsWith("o")||w.endsWith("s")||w.endsWith("sh")||w.endsWith("ch")||w.endsWith("x")||w.endsWith("z")) return w+"es"
 if (w.endsWith("f")||w.endsWith("fe")) return w.replace(/(f|fe)$/,"ves")
-if (w.endsWith("y")&&!"aiueo".includes(w.at(-2))) return w+"s"
+if (w.endsWith("y")&&!"aiueo".includes(w.at(-2))) return w.replace(/y$/,"ies")
+return w+"s"
