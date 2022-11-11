@@ -1,7 +1,7 @@
-月曜日=getsuyoubi=Senin
-火曜日=kayoubi=Selasa
-水曜日=suiyoubi=Rabu
-木曜日=mokuyoubi=Kamis
-金曜日=kinyoubi=Jumat
-土曜日=doyoubi=Sabtu
-日曜日=nichiyoubi=Minggu
+月曜日=Senin=getsuyoubi
+火曜日=Selasa=kayoubi
+水曜日=Rabu=suiyoubi
+木曜日=Kamis=mokuyoubi
+金曜日=Jumat=kin'youbi
+土曜日=Sabtu=doyoubi
+日曜日=Minggu=nichiyoubi
