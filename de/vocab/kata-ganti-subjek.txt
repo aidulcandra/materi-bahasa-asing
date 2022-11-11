@@ -1,0 +1,10 @@
+ich;1st-person=saya, aku
+du;2nd-person=kamu
+er;3rd-person;male=dia (lk2)
+sie;3rd-person;female=dia (pr)
+es;3rd-person;neutral=ia, itu
+wir;1st-person;plural=kami, kita
+ihr;2nd-person;plural=kalian
+sie;3rd-person;plural=mereka
+Sie;2nd-person;polite=Anda
+Sie;2nd-person;polite;plural=Anda semua
