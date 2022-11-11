@@ -1,4 +1,4 @@
-money=uang
+money;noncount=uang
 bag=tas
 pen=pulpen
 glasses;plural=kacamata
