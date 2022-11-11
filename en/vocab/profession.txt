@@ -6,7 +6,7 @@ businesswoman;female,plural:businesswomen=pebisnis
 secretary=sekertaris
 painter=pelukis
 detective=detektif
-chef=juru masak
+chef;plural=chefs=juru masak
 waiter;male=pelayan
 waitress;female=pelayan
 bartender=bartender
