@@ -1,6 +1,6 @@
-... you <profession;a>?
-... they <profession;plural>?
-[They/We] ... (not) <profession;plural>.
+... you <profession;;a>?
+... they <profession;;plural>?
+[They/We] ... (not) <profession;;plural>.
 Where ... [you/we/they]?
 Where ... <name> and <name>?
 ... <possessive-adjective> friends from <country>?
@@ -11,13 +11,13 @@ Where ... <name> and <name>?
 <name> and <name> ... (not) at [home/school/work]?
 are,am,is
 
-I ... (not) <profession;a>.
+I ... (not) <profession;;a>.
 am,is,are
 
-... he <profession;male,a>?
-... she <profession;female,a>?
-He ... (not) <profession;male,a>.
-She ... (not) <profession;female,a>.
+... he <profession;male;a>?
+... she <profession;female;a>?
+He ... (not) <profession;male;a>.
+She ... (not) <profession;female;a>.
 ... [your/his] name <name;male>?
 ... [your/her] name <name;female>?
 His name ... (not) <name;male>.
@@ -26,8 +26,8 @@ Her name ... (not) <name;female>.
 ... <possessive-adjective> <family> at home?
 <possessive-adjective> <family> ... (not) [here/there].
 <possessive-adjective> <family> ... (not) at home.
-... [this/that] <possessive-adjective> <belonging;!plural>?
-[This/That] ... (not) <possessive-adjective> <belonging;!plural>.
+... [this/that] <possessive-adjective> <belonging;!plural-only>?
+[This/That] ... (not) <possessive-adjective> <belonging;!plural-only>.
 ... it <dayoftheweek> today?
 Today ... (not) <dayoftheweek>.
 How old ... <name>?
