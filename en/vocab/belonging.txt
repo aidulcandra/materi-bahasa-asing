@@ -1,7 +1,7 @@
 money;noncount=uang
 bag=tas
 pen=pulpen
-glasses;plural=kacamata
+glasses;plural-only=kacamata
 cellphone=ponsel
 hat=topi
 jacket=jaket
