@@ -6,3 +6,5 @@ brother;male=saudara laki2
 sister;female=saudara perempuan
 grandfather;male=kakek
 grandmother;female=nenek
+husband;male=suami
+wife;female=istri
