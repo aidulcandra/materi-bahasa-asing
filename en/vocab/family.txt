@@ -1,8 +1,8 @@
-father=ayah
-mother=ibu
-son=anak laki2/putra
-daughter=anak perempuan/putri
-brother=saudara laki2
-sister=saudara perempuan
-grandfather=kakek
-grandmother=nenek
+father;male=ayah
+mother;female=ibu
+son;male=anak laki2/putra
+daughter;female=anak perempuan/putri
+brother;male=saudara laki2
+sister;female=saudara perempuan
+grandfather;male=kakek
+grandmother;female=nenek
