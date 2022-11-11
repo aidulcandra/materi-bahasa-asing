@@ -1,0 +1,12 @@
+yo;1st-person=saya, aku
+tú;2nd-person=kamu
+él;3rd-person;male=dia (lk2)
+ella;3rd-person;female=dia (pr)
+nosotros;1st-person;plural=kami, kita
+nosotras;1st-person;plural;female=kami (pr)
+vosotros;2nd-person;plural=kalian
+vosotras;2nd-person;plural;female=kalian (pr)
+ellos;3rd-person;plural=mereka
+ellas;3rd-person;plural;female=mereka (pr)
+ustéd;2nd-person;polite=Anda
+ustedes;2nd-person;plural;polite=Anda semua
