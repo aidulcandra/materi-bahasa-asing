@@ -1,0 +1,5 @@
+belonging.txt;Belongings (Barang Kepemilikan)
+country.txt;Countries (Negara)
+dayoftheweek.txt;Days Of The Week (Hari Dalam Seminggu)
+family.txt;Family (Keluarga)
+possessive-adjective.txt;Possessive Adjectives (Kata Sifat Kepunyaan)
