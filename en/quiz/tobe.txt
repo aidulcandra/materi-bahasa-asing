@@ -20,10 +20,10 @@ Where ... <female-name> and <female-name>?
 <male-name> and <female-name> ... (not) [here/there].
 <female-name> and <male-name> ... (not) [here/there].
 <female-name> and <female-name> ... (not) [here/there].
-<male-name> and <male-name> ... (not) at [home/school/work]?
-<male-name> and <female-name> ... (not) at [home/school/work]?
-<female-name> and <male-name> ... (not) at [home/school/work]?
-<female-name> and <female-name> ... (not) at [home/school/work]?
+<male-name> and <male-name> ... (not) at [home/school/work].
+<male-name> and <female-name> ... (not) at [home/school/work].
+<female-name> and <male-name> ... (not) at [home/school/work].
+<female-name> and <female-name> ... (not) at [home/school/work].
 are,am,is
 
 I ... (not) <profession;;a>.
