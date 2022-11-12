@@ -8,18 +8,22 @@ Where ... <female-name> and <male-name>?
 Where ... <female-name> and <female-name>?
 ... <possessive-adjective> friends from <country>?
 <possessive-adjective> friends ... (not) from <country>.
+... they [here/there]?
 ... <male-name> and <male-name> [here/there]?
 ... <male-name> and <female-name> [here/there]?
 ... <female-name> and <male-name> [here/there]?
 ... <female-name> and <female-name> [here/there]?
+... they at [home/school/work]?
 ... <male-name> and <male-name> at [home/school/work]?
 ... <male-name> and <female-name> at [home/school/work]?
 ... <female-name> and <male-name> at [home/school/work]?
 ... <female-name> and <female-name> at [home/school/work]?
+They ... (not) [here/there].
 <male-name> and <male-name> ... (not) [here/there].
 <male-name> and <female-name> ... (not) [here/there].
 <female-name> and <male-name> ... (not) [here/there].
 <female-name> and <female-name> ... (not) [here/there].
+They ... (not) at [home/school/work].
 <male-name> and <male-name> ... (not) at [home/school/work].
 <male-name> and <female-name> ... (not) at [home/school/work].
 <female-name> and <male-name> ... (not) at [home/school/work].
@@ -37,10 +41,10 @@ She ... (not) <profession;female;a>.
 ... [your/her] name <female-name>?
 His name ... (not) <male-name>.
 Her name ... (not) <female-name>.
-... <possessive-adjective> <family> [here/there]?
-... <possessive-adjective> <family> at home?
-<possessive-adjective> <family> ... (not) [here/there].
-<possessive-adjective> <family> ... (not) at home.
+... <possessive-adjective;!nonhuman> <family> [here/there]?
+... <possessive-adjective;!nonhuman> <family> at home?
+<possessive-adjective;!nonhuman> <family> ... (not) [here/there].
+<possessive-adjective;!nonhuman> <family> ... (not) at home.
 ... [this/that] <possessive-adjective> <belonging;!plural-only>?
 [This/That] ... (not) <possessive-adjective> <belonging;!plural-only>.
 ... it <dayoftheweek> today?
@@ -48,4 +52,7 @@ Today ... (not) <dayoftheweek>.
 How old ... <male-name>?
 How old ... <female-name>?
 [He/She] ... (not) {2-100} years old.
+[He/She] ... (not) [my/your/our/their] teacher.
+He ... (not) [my/your/our/their] <family;male>.
+She ... (not) [my/your/our/their] <family;female>.
 is,are,am
