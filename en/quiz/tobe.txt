@@ -1,7 +1,10 @@
 ... you <profession;;a>?
+... you from <country>?
 ... they <profession;;plural>?
 [They/We] ... (not) <profession;;plural>.
 Where ... [you/we/they]?
+Where ... the <profession;;plural>?
+Where ... the <person;;plural>?
 Where ... <male-name> and <male-name>?
 Where ... <male-name> and <female-name>?
 Where ... <female-name> and <male-name>?
@@ -9,28 +12,40 @@ Where ... <female-name> and <female-name>?
 ... <possessive-adjective> friends from <country>?
 <possessive-adjective> friends ... (not) from <country>.
 ... they [here/there]?
+... the <profession;;plural> [here/there]?
+... the <person;;plural> [here/there]?
 ... <male-name> and <male-name> [here/there]?
 ... <male-name> and <female-name> [here/there]?
 ... <female-name> and <male-name> [here/there]?
 ... <female-name> and <female-name> [here/there]?
 ... they at [home/school/work]?
+... the <profession;;plural> at work?
+... the <person;;plural> at home?
 ... <male-name> and <male-name> at [home/school/work]?
 ... <male-name> and <female-name> at [home/school/work]?
 ... <female-name> and <male-name> at [home/school/work]?
 ... <female-name> and <female-name> at [home/school/work]?
 They ... (not) [here/there].
+The <profession;;plural> ... (not) [here/there].
+The <person;;plural> ... (not) [here/there].
 <male-name> and <male-name> ... (not) [here/there].
 <male-name> and <female-name> ... (not) [here/there].
 <female-name> and <male-name> ... (not) [here/there].
 <female-name> and <female-name> ... (not) [here/there].
 They ... (not) at [home/school/work].
+The <profession;;plural> ... (not) at work.
+The <person;;plural> ... (not) at home.
 <male-name> and <male-name> ... (not) at [home/school/work].
 <male-name> and <female-name> ... (not) at [home/school/work].
 <female-name> and <male-name> ... (not) at [home/school/work].
 <female-name> and <female-name> ... (not) at [home/school/work].
+The <person;;plural> ... (not) in the [garden/park/building].
 are,am,is
 
 I ... (not) <profession;;a>.
+I ... (not) at [home/school/work].
+I ... (not) in the [bathroom/living room/office/kitchen].
+Where ... I?
 am,is,are
 
 ... he <profession;male;a>?
@@ -41,18 +56,31 @@ She ... (not) <profession;female;a>.
 ... [your/her] name <female-name>?
 His name ... (not) <male-name>.
 Her name ... (not) <female-name>.
+... the <profession> [here/there]?
+... the <person> [here/there]?
+The <profession> ... [here/there].
+The <person> ... [here/there].
 ... <possessive-adjective;!nonhuman> <family> [here/there]?
 ... <possessive-adjective;!nonhuman> <family> at home?
 <possessive-adjective;!nonhuman> <family> ... (not) [here/there].
 <possessive-adjective;!nonhuman> <family> ... (not) at home.
-... [this/that] <possessive-adjective> <belonging;!plural-only>?
-[This/That] ... (not) <possessive-adjective> <belonging;!plural-only>.
+... [this/that] <possessive-adjective;!nonhuman> <belonging;!plural-only>?
+[This/That] ... (not) <possessive-adjective;!nonhuman> <belonging;!plural-only>.
+The <person> ... (not) in the [garden/park/building].
 ... it <dayoftheweek> today?
 Today ... (not) <dayoftheweek>.
 How old ... <male-name>?
 How old ... <female-name>?
+How old ... the <profession>?
+How old ... the <person>?
 [He/She] ... (not) {2-100} years old.
 [He/She] ... (not) [my/your/our/their] teacher.
 He ... (not) [my/your/our/their] <family;male>.
 She ... (not) [my/your/our/their] <family;female>.
+<possessive-adjective;!nonhuman> <family;male> ... (not) <profession;male;a>.
+<possessive-adjective;!nonhuman> <family;female> ... (not) <profession;female;a>.
+The <belonging;!plural-only> ... (not) on the [table/sofa/desk/chair].
+<possessive-adjective;!nonhuman> <belonging;!plural-only> ... (not) on the [table/sofa/desk/chair].
+<male-name> ... (not) in the [bathroom/office/kitchen/living room].
+<female-name> ... (not) in the [bathroom/office/kitchen/living room].
 is,are,am
