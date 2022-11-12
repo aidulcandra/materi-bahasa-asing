@@ -1,0 +1,9 @@
+child;plural:children=anak
+man;plural:men=pria
+woman;plural:women=wanita
+person;plural:people=orang
+kid=anak
+boy;male=anak laki-laki
+girl;female=anak perempuan
+guy;male=orang, pria
+baby=bayi
