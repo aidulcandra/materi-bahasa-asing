@@ -2,3 +2,5 @@
 お母さん;hiragana:おかあさん=ibu=okaasan
 お兄さん;hiragana:おにいさん=kakak laki-laki=oniisan
 お姉さん;hiragana:おねえさん=kakak perempuan=oneesan
+弟;hiragana:おとうと=adik laki-laki=otouto
+妹;hiragana:いもうと=adik perempuan=imouto
