@@ -1,7 +1,7 @@
-月曜日=Senin=getsuyoubi
-火曜日=Selasa=kayoubi
-水曜日=Rabu=suiyoubi
-木曜日=Kamis=mokuyoubi
-金曜日=Jumat=kin'youbi
-土曜日=Sabtu=doyoubi
-日曜日=Minggu=nichiyoubi
+月曜日;hiragana:げつようび=Senin=getsuyoubi
+火曜日;hiragana:かようび=Selasa=kayoubi
+水曜日;hiragana:すいようび=Rabu=suiyoubi
+木曜日;hiragana:もくようび=Kamis=mokuyoubi
+金曜日;hiragana:きんようび=Jumat=kin'youbi
+土曜日;hiragana:どようび=Sabtu=doyoubi
+日曜日;hiragana:にちようび=Minggu=nichiyoubi
