@@ -1,1 +1,2 @@
 nama-hari.txt;Nama Hari
+keluarga.txt;家族 _Kazoku_ (Keluarga)
