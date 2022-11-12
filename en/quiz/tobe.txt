@@ -2,13 +2,28 @@
 ... they <profession;;plural>?
 [They/We] ... (not) <profession;;plural>.
 Where ... [you/we/they]?
-Where ... <name> and <name>?
+Where ... <male-name> and <male-name>?
+Where ... <male-name> and <female-name>?
+Where ... <female-name> and <male-name>?
+Where ... <female-name> and <female-name>?
 ... <possessive-adjective> friends from <country>?
 <possessive-adjective> friends ... (not) from <country>.
-... <name> and <name> [here/there]?
-... <name> and <name> at [home/school/work]?
-<name> and <name> ... (not) [here/there].
-<name> and <name> ... (not) at [home/school/work]?
+... <male-name> and <male-name> [here/there]?
+... <male-name> and <female-name> [here/there]?
+... <female-name> and <male-name> [here/there]?
+... <female-name> and <female-name> [here/there]?
+... <male-name> and <male-name> at [home/school/work]?
+... <male-name> and <female-name> at [home/school/work]?
+... <female-name> and <male-name> at [home/school/work]?
+... <female-name> and <female-name> at [home/school/work]?
+<male-name> and <male-name> ... (not) [here/there].
+<male-name> and <female-name> ... (not) [here/there].
+<female-name> and <male-name> ... (not) [here/there].
+<female-name> and <female-name> ... (not) [here/there].
+<male-name> and <male-name> ... (not) at [home/school/work]?
+<male-name> and <female-name> ... (not) at [home/school/work]?
+<female-name> and <male-name> ... (not) at [home/school/work]?
+<female-name> and <female-name> ... (not) at [home/school/work]?
 are,am,is
 
 I ... (not) <profession;;a>.
@@ -18,10 +33,10 @@ am,is,are
 ... she <profession;female;a>?
 He ... (not) <profession;male;a>.
 She ... (not) <profession;female;a>.
-... [your/his] name <name;male>?
-... [your/her] name <name;female>?
-His name ... (not) <name;male>.
-Her name ... (not) <name;female>.
+... [your/his] name <male-name>?
+... [your/her] name <female-name>?
+His name ... (not) <male-name>.
+Her name ... (not) <female-name>.
 ... <possessive-adjective> <family> [here/there]?
 ... <possessive-adjective> <family> at home?
 <possessive-adjective> <family> ... (not) [here/there].
@@ -30,6 +45,7 @@ Her name ... (not) <name;female>.
 [This/That] ... (not) <possessive-adjective> <belonging;!plural-only>.
 ... it <dayoftheweek> today?
 Today ... (not) <dayoftheweek>.
-How old ... <name>?
+How old ... <male-name>?
+How old ... <female-name>?
 [He/She] ... (not) {2-100} years old.
 is,are,am
