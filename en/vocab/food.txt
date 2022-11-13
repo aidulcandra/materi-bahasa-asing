@@ -1,0 +1,5 @@
+bread;noncount=roti
+apple=apel
+banana=pisang
+meat;noncount=daging
+fish;noncount=ikan
