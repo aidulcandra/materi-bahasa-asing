@@ -10,4 +10,4 @@ if (w.endsWith("y")&&!"aiueo".includes(w.at(-2))) return w.replace(/y$/,"ies")
 return w+"s"
 
 possessive
-return w+"'"+(/[sz]/.test(w.at(-1)?""+"s")
+return w+"'"+(/[sz]/.test(w.at(-1)?"":"s")
