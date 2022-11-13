@@ -2,10 +2,78 @@
 broke,broken,breaks,break
 
 There are ____ [fish in the sea/animals in the zoo/stars in the sky/people in town].
-many,much,lot
+many,much,lot,a lot
 
-[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] they _____ to the football game.
+[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] [I/he/she/they/we/<(fe)male-name>] _____ to the football game.
 went,go,gone,going
 
 _____ is your house? It's the [small/big] <color> one.
 Which,What,How,Where
+
+_____ [<belonging;!plural-only;plural>/<belonging;plural-only>] are <possessive-noun;!nonhuman>
+These,This,That,Whose
+
+________? I like <sport>.
+What is your favorite sport?,What are your favorite sport?,What your favorite sport?
+
+Are this <animal> [bigg/small]er than that <animal>?
+Yes, it is|No, it is|Yes, it does|No, it doesn't
+
+[My/His/Her/<(fe)male-name;;possessive>] hair is (not) [long/short]er than ____.
+yours,your's,your
+
+[You/He/She/They/<(fe)male-name>] can use my car _____ tomorrow.
+until,since,in
+
+[He/She/<(fe)male-name>] [always/never] _______ at [five/six/seven/eight].
+gets up,get up,getting up,wake up
+
+My <family> _______ for me at home.
+Your <family> _______ for you at home.
+is waiting,are waiting,waiting,wait
+
+We get good grades ______ we study.
+They get good grades ______ they study.
+You get good grades ______ you study.
+because,by,cause,with
+
+<(fe)male-name>'s been working [here/there] ____ ([only/just]) {1-4} [months/years/weeks].
+for,during,by,in
+
+[Hello/Hi], ____ are you? I'm (doing) [fine/great/good]. Thank[s/ you].
+how,who,which,what
+
+____ you eat the <food>? [Yes, I did/No, I didn't].
+Did,Do,Were,Are
+
+I[ will/'m going to] [speak/talk] ___ <female-name> when I see her.
+I[ will/'m going to] [speak/talk] ___ <male-name> when I see him.
+to,at,in
+
+_____ <mood>? [Yes, I am/No, I'm not.]
+Are you,Was you,Is you,Did you
+
+[He/She/<(fe)male-name>] ____ [making/cooking] dinner.
+[He/She/<(fe)male-name>] ____ watching TV.
+[He/She/<(fe)male-name>] ____ talking to <(fe)male-name> on the phone.
+[He/She/<(fe)male-name>] ____ studying.
+is,are,do
+
+______ any [nice/good/cheap/expensive] restaurants around [here/this place]?
+Are there,Is there,It is there
+
+What _____ <possessive-adjective;!nonhuman> <family;!young> do?
+does,do,is,doing
+
+What ____ [we/I/you/they] done?
+have,has,do,are
+
+What ____ [he/she/it] done?
+has,have,do,is
+
+_____ is <possessive-adjective;!plural> name?
+_____ are <possessive-adjective;plural> names?
+What,Who,How
+
+________ is th[at/e] building?
+How tall,How's tall,How talls
