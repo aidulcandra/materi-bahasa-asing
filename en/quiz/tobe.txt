@@ -7,31 +7,25 @@ am,is,are
 [She/<possessive-adjective;!nonhuman> <family;female>] ... (not) <profession;female;a>.
 [The <profession>/The <person>/<possessive-adjective;!nonhuman> <family>] ... (not) [here/there/at home/in the garden/in the park/in the building].
 <possessive-adjective;!nonhuman> <family> ... (not) at home.
+My name ... (not) <(fe)male-name>.
 His name ... (not) <male-name>.
 Her name ... (not) <female-name>.
 [This/That] ... (not) <possessive-adjective;!nonhuman> <belonging;!plural-only>.
 Today ... (not) <dayoftheweek>.
 [He/She] ... (not) {2-100} years old.
 [He/She] ... (not) [my/your/our/their] teacher.
-He ... (not) [my/your/our/their] <family;male>
-She ... (not) [my/your/our/their] <family;female>
+[The/<possessive-adjective;!nonhuman>] <belonging;!plural-only> ... (not) on th[at/e] [table/sofa/desk/chair].
+He ... (not) [my/your/our/their] <family;male>.
+She ... (not) [my/your/our/their] <family;female>.
+[He/She/<(fe)male-name>] ... (not) in the [bathroom/office/kitchen/living room].
 How old ... [<(fe)male-name>/the <profession>/the <person>/<possessive-adjective;!nonhuman> <family>]?
 ... he <profession;male;a>?
 ... she <profession;female;a>?
 ... [your/his] name <male-name>?
 ... [your/her] name <female-name>?
-... the <profession> [here/there]?
-... the <person> [here/there]?
-... <possessive-adjective;!nonhuman> <family> [here/there]?
-... <possessive-adjective;!nonhuman> <family> at home?
-... [this/that] <possessive-adjective;!nonhuman> <belonging;!plural-only>?
+... the [<person>/<profession>/<possessive-adjective;!nonhuman> <family>] [here/there/at home]?
+... [this/that] [<possessive-adjective;!nonhuman>/<(fe)male-name;;possessive>] <belonging;!plural-only>?
 ... it <dayoftheweek> today?
-<possessive-adjective;!nonhuman> <family;male> ... (not) <profession;male;a>.
-<possessive-adjective;!nonhuman> <family;female> ... (not) <profession;female;a>.
-The <belonging;!plural-only> ... (not) on the [table/sofa/desk/chair].
-<possessive-adjective;!nonhuman> <belonging;!plural-only> ... (not) on the [table/sofa/desk/chair].
-<male-name> ... (not) in the [bathroom/office/kitchen/living room].
-<female-name> ... (not) in the [bathroom/office/kitchen/living room].
 is,are,am
 
 [They/We/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] ... (not) <profession;;plural>.
