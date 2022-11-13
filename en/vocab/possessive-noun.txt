@@ -1,0 +1,7 @@
+mine=milikku
+yours=milikmu
+his;male=miliknya
+hers;female=miliknya
+its;nonhuman=miliknya
+ours;plural=milik kami
+theirs;plural=milik mereka
