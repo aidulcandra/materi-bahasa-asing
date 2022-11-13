@@ -1,0 +1,11 @@
+[I'm/We're] (so) sorry we are so late; our car ______ down on the highway.
+broke,broken,breaks,break
+
+There are ____ [fish in the sea/animals in the zoo/stars in the sky/people in town].
+many,much,lot
+
+[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] they _____ to the football game.
+went,go,gone,going
+
+_____ is your house? It's the [small/big] <color> one.
+Which,What,How,Where
