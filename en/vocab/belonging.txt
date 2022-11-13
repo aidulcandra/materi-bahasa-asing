@@ -7,3 +7,4 @@ hat=topi
 jacket=jaket
 wallet=dompet
 watch=jam tangan
+key=kunci
