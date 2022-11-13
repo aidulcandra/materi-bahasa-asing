@@ -1,0 +1,12 @@
+football;UK=sepak bola
+soccer;US=sepak bola
+basketball=bola basket
+baseball=bola bisbol
+badminton=bulu tangkis
+volleyball=bola voli
+karate
+taekwondo
+swimming=renang
+rock-climbing=memanjat tebing
+skateboarding=skateboard
+hockey
