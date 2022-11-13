@@ -1,0 +1,6 @@
+happy=senang/bahagia
+sad=sedih
+tired=lelah
+bored=bosan
+busy=sibuk
+confused=bingung
