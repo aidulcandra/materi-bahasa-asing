@@ -1,0 +1,12 @@
+red=merah
+blue=biru
+green=hijau
+yellow=kuning
+white=putih
+black=hitam
+brown=coklat
+gray;US=abu-abu
+grey;UK=abu-abu
+purple=ungu
+pink=merah muda
+orange=oranye
