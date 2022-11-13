@@ -2,6 +2,6 @@ my=ku
 your=mu/(milik) kalian
 his=nya (lk2)
 her=nya (pr)
-its=nya (hewan/benda)
+its;nonhuman=nya (hewan/benda)
 our=(milik) kami
 their=(milik) mereka
