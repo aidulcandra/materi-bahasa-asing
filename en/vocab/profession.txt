@@ -1,12 +1,12 @@
 surgeon=dokter bedah
 nurse;female=suster
 doctor=dokter
-businessman;male,plural:businessmen=pebisnis
-businesswoman;female,plural:businesswomen=pebisnis
+businessman;male;plural:businessmen=pebisnis
+businesswoman;female;plural:businesswomen=pebisnis
 secretary=sekertaris
 painter=pelukis
 detective=detektif
-chef;plural=chefs=juru masak
+chef;plural:chefs=juru masak
 waiter;male=pelayan
 waitress;female=pelayan
 bartender=bartender
@@ -15,9 +15,9 @@ flight attendant=pramugari/pramugara
 teacher=guru
 astronaut=astronot
 architect=arsitek
-handyman;male,plural:handymen=tukang
+handyman;male;plural:handymen=tukang
 construction worker=pekerja konstruksi
 bellhop=pelayan hotel
 police officer=polisi
 boxer=petinju
-mailman;male,plural:mailmen=pengantar surat
+mailman;male;plural:mailmen=pengantar surat
