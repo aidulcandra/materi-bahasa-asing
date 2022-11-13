@@ -1,0 +1,9 @@
+cat=kucing
+dog=anjing
+chicken=ayam
+rooster=ayam jantan
+rabbit=kelinci
+cow=sapi
+sheep;plural:sheep=domba
+goat=kambing
+horse=kuda
