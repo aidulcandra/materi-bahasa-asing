@@ -34,7 +34,7 @@ is,are,am
 ... [they/we/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] [<profession;;plural>/from <country>/here/there/at home/at school/at work]?
 Who ... [you/they/we/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>]?
 Where ... [the <profession;;plural>/<possessive-adjective;!nonhuman> friends/they/you/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] (from)?
-... you [<profession;;a>/]?
+... you <profession;;a>?
 ... the <profession;;plural> [here/there/from <country>]?
 ... they at [home/school/work]?
 ... the <person;;plural> at home?
