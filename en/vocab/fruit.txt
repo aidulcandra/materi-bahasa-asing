@@ -1,0 +1,13 @@
+apple=apel
+orange=jeruk
+banana=pisang
+mango=mangga
+pineapple=nanas
+strawberry=stroberi
+coconut=kelapa
+durian
+watermelon=semangka
+grape=anggur
+cherry=ceri
+starfruit=belimbing
+pear=buah pir
