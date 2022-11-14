@@ -6,4 +6,4 @@ kid=anak
 boy;male=anak laki-laki
 girl;female=anak perempuan
 guy;male=orang, pria
-baby=bayi
+baby;young=bayi
