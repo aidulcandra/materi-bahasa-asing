@@ -4,7 +4,7 @@ broke,broken,breaks,break
 There are ____ [fish in the sea/animals in the zoo/stars in the sky/people in town].
 many,much,lot,a lot
 
-[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] [I/he/she/they/we/<(fe)male-name>] _____ to the [soccer/football] game.
+[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] [I/he/she/they/we/<(fe)male-name>/<possessive-adjective;!nonhuman> <family>/the <person;!young>] _____ to the [soccer/football] game.
 went,go,gone,going
 
 _____ is [the/your] house? It's the [small/big] <color> one.
@@ -68,7 +68,7 @@ is,are,do
 ______ any [nice/good/cheap/expensive] restaurants around [here/this place]?
 Are there,Is there,It is there
 
-What _____ <possessive-adjective;!nonhuman> <family;!young> do?
+What _____ <possessive-adjective;!nonhuman> <family> do?
 does,do,is,doing
 
 What ____ [we/I/you/they] done?
