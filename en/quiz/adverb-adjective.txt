@@ -1,0 +1,113 @@
+[He/She/<(fe)male-name>/The <person;!young>] [played/writes/sings/sang/danced] _____.
+You [played/write/sing/sang/danced] _____.
+It [worked/went] _____.
+beautifully,beautifuly,beautiful
+
+It [is/was] a _______ [day/performance/start].
+This [church/spot/area] is a very famous and ______ place.
+There [is/was] a ______ chandelier hanging from the ceiling.
+beautiful,beautifuly,beautifully
+
+The [TV/music/radio]'s (far) too _____.
+[I/We] always hear some ____ music coming from [his/her/<(fe)male-name;;possessive>/my <family;!young;possessive>] room.
+[He/she] always hears some ____ music coming from [<(fe)male-name;;possessive>] room.
+[He/<male-name>] was too ____ and every[body/one] was staring at him.
+[She/<female-name>] was too ____ and every[body/one] was staring at her.
+loud,loudly
+
+[He/She/<(fe)male-name>/The <person>] [speaks/spoke] very _____.
+[You/We/They] need to press the accelerator to go more _____.
+[He/She] needs to press the accelerator to go more _____.
+[He/She/<(fe)male-name>] knows how to learn a language _____.
+[I/We/They/He/She] adapted _____.
+The (TV) commercial for herbal supplements ended with a _____ spoken disclaimer.
+quickly,quick
+
+The (TV) commercial for herbal supplements ended with a _____ disclaimer.
+[He/She/<(fe)male-name>/The <person>]'s a _____ learner.
+[I/We/They] need to be _____.
+[He/She/<(fe)male-name>] needs to be _____.
+______ judgements are [not good/dangerous/bad].
+quick,quickly
+
+[I/We] know [them/him/her] quite _____.
+[He/She] knows [me/us/you] quite _____.
+([I/We] know that) [he/she/<(fe)male-name>/the <person;!young>] can(['t/not]) play the <musical-instrument> very ____.
+[You/They/We/<(fe)male-name> and <(fe)male-name>] both did ____.
+well,good,goodly
+
+The [vegetables/animals/packages] are ______ selected.
+Check your (home)work ______.
+[Pay attention to/Look at] the map on the wall (very) _____.
+(Please) read all the instructions (in the [manual/book]) ______.
+(Al)though [he/<male-name>/the <person;male;!young>] was writing _____, he had many mistakes in his writing task.
+(Al)though [she/<female-name>/the <person;female;!young>] was writing _____, she had many mistakes in her writing task.
+carefully,carefuly,careful
+
+[I've/He's/She's] been having a lot of headaches _____.
+[I have/He has/She has]n't slept well ____.
+Have you [read/found] anything interesting _____?
+There hasn't been too much to [find/eat] _____.
+lately,late,later
+
+[I'm/You're/He's] a ______ [<family;male>/actor/<person;male;!young>].
+[I'm/You're/She's] a ______ [<family;female>/actress/<person;female;!young>].
+[He/She/<(fe)male-name>][ has/'s] made (some) ____ decisions recently.
+[Today/Yesterday/It/That] was a _____ day.
+terrible,terribly
+
+[He/She/You/<(fe)male-name>] should ([have been/be] able to) pass the [exam/test] _____.
+[He/She/You/<(fe)male-name>] should ([have been/be] able to) do [that/it] _____.
+A bad habit is (very) _____ acquired.
+This <fruit> bruised ______.
+[He/She/<(fe)male-name>] _____ won the [game/election/lottery/match].
+easily,easy
+
+[He/She/<(fe)male-name>]'s really lazy and _____ tries.
+[I/We] _____ ever [come here/go there] anymore.
+[He/She/<(fe)male-name>] _____ ever [comes here/goes there] anymore.
+[He/She/<(fe)male-name>/The <person>/The <animal>] _____ ate anything.
+hardly,hard
+
+The newspapers were [very/so] _______ of the [scheme/situation].
+[His/Her/<(fe)male-name;;possessive>] condition is very _____.
+[He/She/<(fe)male-name>] [is/was] (being) (very) _____ of my [work/accent/drawing(s)/opinion].
+[Their/Our] situation has become ([very/so]) _____.
+critical,critically
+
+[He/She/<(fe)male-name>/The <person>/One person][ was/'s] ______ [ill/sick/injured].
+[His/Her/<(fe)male-name;;possessive> <family>][ was/'s] ______ [ill/sick/injured].
+Th[e/is] [animal/species/plant] is ______ endangered.
+[I/We/He/She/They/<(fe)male-name>] taught <(fe)male-name> to ______ think.
+critically,critical
+
+[I/We/They] (don't) _____ agree (with [him/you/her]).
+[He/She/<(fe)male-name>] [doesn't _____ agree/____ agrees] (with [me/you/us]).
+[They/We/The <profession;;plural>] were ____ satisfied with the result.
+[I'm/He's/She's/We're/They're] _____ qualified.
+fully,full
+
+The [ship was sailing/car was racing] at ____ speed.
+[I/He/She/<(fe)male-name>] had a basket ____ of apples.
+When [I/he/she/they/we/<(fe)male-name>] left there were [two/three] ____ [glasses/bottles] of water
+full,fully
+
+[I/He/She/The <person>/<(fe)male-name>] was ______ [shocked/surprised].
+[They/The <person;;plural>] were ______ [shocked/surprised].
+[They/He/She/<(fe)male-name>] messed things up _____.
+[That/It]'s ______ [okay/fine].
+[He/She/<(fe)male-name>] was (not) being _____ honest.
+completely,complete
+
+[It/That] was a ______ mess.
+[His/Her/<(fe)male-name;;possessive>] parents are ______ opposites.
+I have ____ faith in my [doctor/barber/lawyer/client].
+Talking [back at/to] th[o/e]se <person;!young;plural> is a _____ waste of ([his/her/my/their/our]) time
+complete,completely
+
+[It/That] was a ____ day for [us all/me/him/her].
+[Today/Yesterday/Last week], [I/we] got some ____ news.
+[He/<male-name>] is a ___ boy.
+[She/<female-name>] is a ___ girl.
+[I'm/He's/She's] really ____.
+sad,sadly
