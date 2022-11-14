@@ -50,8 +50,8 @@ Have you [read/found] anything interesting _____?
 There hasn't been too much to [find/eat] _____.
 lately,late,later
 
-[I'm/You're/He's] a ______ [<family;male>/actor/<person;male;!young>].
-[I'm/You're/She's] a ______ [<family;female>/actress/<person;female;!young>].
+[I'm/You're/He's] a ______ [<family;male>/actor/<person;male,!young>].
+[I'm/You're/She's] a ______ [<family;female>/actress/<person;female,!young>].
 [He/She/<(fe)male-name>][ has/'s] made (some) ____ decisions recently.
 [Today/Yesterday/It/That] was a _____ day.
 terrible,terribly
