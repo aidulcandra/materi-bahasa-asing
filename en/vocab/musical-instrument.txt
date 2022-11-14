@@ -1,0 +1,13 @@
+piano
+trumpet=terompet
+guitar=gitar
+violin=biola
+ukulele;a:a ukulele
+drum
+bass
+flute=seruling
+recorder
+accordion
+harmonica=harmonika
+melodica=pianika
+kalimba
