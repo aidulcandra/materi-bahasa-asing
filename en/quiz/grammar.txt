@@ -1,13 +1,13 @@
-[I'm/We're] (so) sorry we are so late; our car ______ down on the highway.
+[I'm/We're] (so) sorry we are so late; [our/my] car ______ down on the highway.
 broke,broken,breaks,break
 
 There are ____ [fish in the sea/animals in the zoo/stars in the sky/people in town].
 many,much,lot,a lot
 
-[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] [I/he/she/they/we/<(fe)male-name>] _____ to the football game.
+[Yesterday/Last <dayoftheweek>/{2-4} days ago/Last week/Last month] [I/he/she/they/we/<(fe)male-name>] _____ to the [soccer/football] game.
 went,go,gone,going
 
-_____ is your house? It's the [small/big] <color> one.
+_____ is [the/your] house? It's the [small/big] <color> one.
 Which,What,How,Where
 
 _____ [<belonging;!plural-only;plural>/<belonging;plural-only>] are <possessive-noun;!nonhuman>
@@ -16,17 +16,20 @@ These,This,That,Whose
 ________? I like <sport>.
 What is your favorite sport?,What are your favorite sport?,What your favorite sport?
 
-Are this <animal> [bigg/small]er than that <animal>?
+Is this <animal> [bigg/small]er than that <animal>?
 Yes, it is|No, it is|Yes, it does|No, it doesn't
 
 [My/His/Her/<(fe)male-name;;possessive>] hair is (not) [long/short]er than ____.
 yours,your's,your
 
-[You/He/She/They/<(fe)male-name>] can use my car _____ tomorrow.
+[You/He/She/They/<(fe)male-name>] can use my car _____ [next week/tomorrow].
 until,since,in
 
 [He/She/<(fe)male-name>] [always/never] _______ at [five/six/seven/eight].
 gets up,get up,getting up,wake up
+
+[He/She/<(fe)male-name>] [always/never] _______ at [five/six/seven/eight].
+wakes up,get up,getting up,wake up
 
 My <family> _______ for me at home.
 Your <family> _______ for you at home.
@@ -53,6 +56,9 @@ to,at,in
 _____ <mood>? [Yes, I am/No, I'm not.]
 Are you,Was you,Is you,Did you
 
+_____ <mood>? [Yes, I was/No, I wasn't.]
+Were you,Was you,Are you,Did you
+
 [He/She/<(fe)male-name>] ____ [making/cooking] dinner.
 [He/She/<(fe)male-name>] ____ watching TV.
 [He/She/<(fe)male-name>] ____ talking to <(fe)male-name> on the phone.
@@ -69,7 +75,7 @@ What ____ [we/I/you/they] done?
 have,has,do,are
 
 What ____ [he/she/it] done?
-has,have,do,is
+has,have,does,is
 
 _____ is <possessive-adjective;!plural> name?
 _____ are <possessive-adjective;plural> names?
@@ -77,3 +83,57 @@ What,Who,How
 
 ________ is th[at/e] building?
 How tall,How's tall,How talls
+
+In the [United States/US] ____ [about/approximately] four million miles of roads, streets, and highways.
+there are,is,there,there is
+
+____ twelve million immigrants entered the [US/United State] via Ellis Island.
+More than,There were more than,Of more than,There more than
+
+The television, _____ so long been a part of our culture, has an enormous influence.
+[<(fe)male-name>/He/She] drove too fast, _____ reckless.
+[<male-name>/He] said he was [ill/sick], _____ a lie.
+[<female-name>/She] said she was [ill/sick], _____ a lie.
+which has,has,it has,which
+
+Psychologists have traditionally maintained that infants cannot formulate long-term memories until ____ the age of eight or nine months.
+Psychologists have traditionally maintained that until ____ the age of eight or nine months infants cannot formulate long-term memories.
+The waves usually breaks when ______ the shore.
+Meteors explode when _______ the Earth's atmosphere.
+How long do you think the jury will take before ______ a verdict?
+In the [U.S./United States], most people can vote when _______ eighteen years of age.
+Wetlands also absorb excess nutrients, sediments, and other pollutants before ______ rivers, lakes, and other waterbodies.
+In a relay race, a baton or something similar is passed from one teammate to another as ______ each checkpoint.
+If you see ten troubles coming down the road, you can be sure that nine will run into the ditch before _______ you.
+The brilliant colors possessed by the full-blown flowers are due to the dyes placed in the soil by the Ryls, which are drawn through the little veins in the roots and the body of the plants, as _________ maturity.
+Every year, the report said, 15 million adults die before ________ old age.
+they reach,reach,their reach,to reach
+
+_____ a cheese shop has since grown into a small conglomerate consisting of a catering business and two retail stores.
+_____ an ambitious project has since become a laughing stock.
+What began as,It began as,In the beginning of,Its beginning was
+
+Primarily a government contractor, _____ preferential treatment from government agencies as both a minority group member and a woman.
+Aside from his salary, ________ money from investments.
+A politician must always be able to account for money ________.
+He does not have a phone number to call and _______ no calls.
+he receives,receives he,he who receives,what he receives
+
+Because the project depends on _____ at the federal level, the city and country may have to wait until the budget cutting ends.
+The city and country may have to wait until the budget cutting ends because the project depends on _____ at the federal level.
+We'll be paying close attention to _______.
+Experience is not ____ to you; it's what you do with _____ to you.
+My mother always said, “It’s not _______ to you in life that matters, it’s how you deal with it.”
+what happens,that happens,it happens,which happening
+
+____ definitive study of a western hard-rock mining community cemetery appears to have been done is in Silver City, Nevada.
+____ dangerous inmate (just) escaped.
+____ expensive thing is land.
+____ effective defense is offense.
+____ dangerous demon is money.
+____ terrible virus is capitalism.
+____ wonderful thing about baseball is teamwork.
+The most,Where the most,Most,Where most
+
+One of the areas of multimedia that is growing quickly ____ is sound.
+yet is easily overlooked,it is easily overlooked,is easily overlooked,what is easily overlooked
