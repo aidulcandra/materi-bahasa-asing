@@ -77,8 +77,8 @@ have,has,do,are
 What ____ [he/she/it] done?
 has,have,does,is
 
-_____ is <possessive-adjective;!plural> name?
-_____ are <possessive-adjective;plural> names?
+_____ is [my/your/his/her] name?
+_____ are [our/their/your] names?
 What,Who,How
 
 ________ is th[at/e] building?
