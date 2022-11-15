@@ -91,9 +91,13 @@ ____ twelve million immigrants entered the [US/United State] via Ellis Island.
 More than,There were more than,Of more than,There more than
 
 The television, _____ so long been a part of our culture, has an enormous influence.
-[<(fe)male-name>/He/She] drove too fast, _____ reckless.
-[<male-name>/He] said he was [ill/sick], _____ a lie.
-[<female-name>/She] said she was [ill/sick], _____ a lie.
+The lack of housing supply means millennials are having a harder time buying a single-family home, _____ been the traditional trajectory in the past.
+Gen Z had the highest score on the UCLA Loneliness Scale, ______ been the standard measurement for studying loneliness since 1978.
+The artemisia plant also known as Sweet Wormwood contains artemisinin _______ been used in Chinese traditional medicine for centuries in treating fevers.
+The recovery of Japan's economy, ______ been in a recession for some time, is finally under way.
+We have two spare rooms upstairs, neither of ______ been used for years.
+The fire, _______ been raging for over a week in eastern California, continues to expand.
+Observers say the airport's reopening is a major step forward in a fragile peace process in the conflict _______ been grinding on for the past seven years.
 which has,has,it has,which
 
 Psychologists have traditionally maintained that infants cannot formulate long-term memories until ____ the age of eight or nine months.
