@@ -3,3 +3,21 @@ apple=apel
 banana=pisang
 meat;noncount=daging
 fish;noncount=ikan
+rice;noncount=nasi
+hamburger;noncount
+pizza;noncount
+sandwich;noncount
+soup;noncount=sup
+porridge;noncount=bubur
+salad;noncount
+pasta;noncount
+fried egg;noncount=telur goreng
+fried rice;noncount=nasi goreng
+chicken;noncount=ayam
+sausage=sosis
+orange=jeruk
+spaghetti;noncount
+french fry=kentang goreng
+cookie=kue (kering)
+cake=kue (basah)
+ice cream;noncount=es krim
