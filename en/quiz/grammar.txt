@@ -10,7 +10,7 @@ went,go,gone,going
 _____ is [the/your] house? It's the [small/big] <color> one.
 Which,What,How,Where
 
-_____ [<belonging;!plural-only;plural>/<belonging;plural-only>] are <possessive-noun;!nonhuman>
+_____ [<belonging;!plural-only,!noncount;plural>/<belonging;plural-only>] are <possessive-noun;!nonhuman>
 These,This,That,Whose
 
 ________? I like <sport>.
