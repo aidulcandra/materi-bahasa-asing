@@ -23,7 +23,8 @@ How old ... [<(fe)male-name>/the <profession>/the <person>/<possessive-adjective
 ... she <profession;female;a>?
 ... [your/his] name <male-name>?
 ... [your/her] name <female-name>?
-... the [<person>/<profession>/<possessive-adjective;!nonhuman> <family>] [here/there/at home]?
+... the [<person>/<profession>] [here/there/at home]?
+... [<possessive-adjective;!nonhuman> <family>] [here/there/at home]?
 ... [this/that] [<possessive-adjective;!nonhuman>/<(fe)male-name;;possessive>] <belonging;!plural-only>?
 ... it <dayoftheweek> today?
 is,are,am
