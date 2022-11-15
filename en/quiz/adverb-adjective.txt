@@ -40,8 +40,8 @@ The [vegetables/animals/packages] are ______ selected.
 Check your (home)work ______.
 [Pay attention to/Look at] the map on the wall (very) _____.
 (Please) read all the instructions (in the [manual/book]) ______.
-(Al)though [he/<male-name>/the <person;male;!young>] was writing _____, he had many mistakes in his writing task.
-(Al)though [she/<female-name>/the <person;female;!young>] was writing _____, she had many mistakes in her writing task.
+(Al)though [he/<male-name>/the <person;male,!young>] was writing _____, he had many mistakes in his writing task.
+(Al)though [she/<female-name>/the <person;female,!young>] was writing _____, she had many mistakes in her writing task.
 carefully,carefuly,careful
 
 [I've/He's/She's] been having a lot of headaches _____.
