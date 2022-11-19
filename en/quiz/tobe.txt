@@ -1,6 +1,11 @@
 I ... (not) <profession;;a>.
 I ... (not) at [home/school/work].
+I ... right here.
 I ... (not) in the [bathroom/living room/office/kitchen].
+I ... (not) <mood>.
+I ... (not) one of them.
+[You/They] know who I ....
+[He/She] knows who I ....
 am,is,are
 
 [He/<possessive-adjective;!nonhuman> <family;male>] ... (not) <profession;male;a>.
@@ -19,6 +24,12 @@ He ... (not) [my/your/our/their] <family;male>.
 She ... (not) [my/your/our/their] <family;female>.
 [He/She/<(fe)male-name>] ... (not) in the [bathroom/office/kitchen/living room].
 How old ... [<(fe)male-name>/the <profession>/the <person>/<possessive-adjective;!nonhuman> <family>]?
+[He/<male-name>/The <person;male>/The <profession;male>] ... (not) <mood>.
+[He/She] ... (not) one of [them/us].
+[He/She] ... right [here/there].
+What ... wrong (with [that/it/him/her/you])?
+<country> ... a [nice/good] [country/place].
+[I/We/They] know who [he/she] ....
 ... he <profession;male;a>?
 ... she <profession;female;a>?
 ... [your/his] name <male-name>?
@@ -27,6 +38,10 @@ How old ... [<(fe)male-name>/the <profession>/the <person>/<possessive-adjective
 ... [<possessive-adjective;!nonhuman> <family>] [here/there/at home]?
 ... [this/that] [<possessive-adjective;!nonhuman>/<(fe)male-name;;possessive>] <belonging;!plural-only>?
 ... it <dayoftheweek> today?
+How ... [he/she] (doing)?
+Who ... [he/she/<(fe)male-name>]?
+Th[is/at/e] <animal> ... so cute.
+<food;noncount> ... delicious.
 is,are,am
 
 [They/We/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] ... (not) <profession;;plural>.
@@ -35,6 +50,10 @@ is,are,am
 ... [they/we/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] [<profession;;plural>/from <country>/here/there/at home/at school/at work]?
 Who ... [you/they/we/<possessive-adjective;!nonhuman> friends/The <person;;plural>/<(fe)male-name> and <(fe)male-name>]?
 Where ... [the <profession;;plural>/<possessive-adjective;!nonhuman> friends/they/you/The <person;;plural>/<(fe)male-name> and <(fe)male-name>] (from)?
+[I/We/They] know who you ...
+[He/She] knows who you ...
+<food;!noncount;plural> ... delicious.
+How ... [you/they] (doing)?
 ... you <profession;;a>?
 ... the <profession;;plural> [here/there/from <country>]?
 ... they at [home/school/work]?
