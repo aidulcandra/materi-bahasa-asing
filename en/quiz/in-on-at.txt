@@ -1,0 +1,43 @@
+[I/He/She] was born __ [{1950-2015}/the {19-20}th century/<month>].
+[He/She/<(fe)male-name>/<person>] gets up (early) ___ the morning.
+School [is over/ends] ___ the summer.
+[I/We/They/He/She/<(fe)male-name>] will come back ___ the evening.
+[He/She/<(fe)male-name>] often goes out ___ the [afternoon/evening].
+It happened __ [{1950-2015}/the {18-20}th century/<month>].
+It rains a lot ___ [spring/summer/fall].
+The [classes/lessons] are ___ the [morning/afternoon].
+It was popular ___ the {1970-2000}s.
+I['m/ am] ___ my [room/office].
+He['s/ is] ___ his [room/office].
+She['s/ is] ___ her [room/office].
+[I'm/He's/She's/<(fe)male-name>'s] ___ the city.
+in;on;at
+
+[I/He/She] was born __ the <ordinal-number> of <month>.
+[I/We/They] like going to the cinema ___ <dayoftheweek;;plural>.
+[He/She/<(fe)male-name>] likes going to the cinema ___ <dayoftheweek;;plural>.
+[They/He/She/<(fe)male-nam>/My <family>] visited me ___ <dayoftheweek>.
+School [begins/starts] ___ the first of <month>.
+School [ends/is over] ___ the <ordinal-number> of <month>.
+<possessive-adjective;!nonhuman> [soccer/football/baseball/hockey/basketball] game is ___ <dayoftheweek>.
+[I got many presents ___ my/He got many presents ___ his/She got many presents ___ her] birthday.
+[I/We] saw [him/her/<(fe)male-name>] ___ [Christmas/Halloween].
+[He/She/<(fe)male-name>] started work ___ [Monday/Tuesday/Wednesday].
+[He/She/<(fe)male-name>] often goes out ___ <dayoftheweek> night.
+The class is ___ <dayoftheweek;;plural>.
+What floor do [you/they] live ___?
+What floor does [he/she/<(fe)male-name>] lives ___?
+[I sit/He sits/She sits] ___ the [chair/bed/table/floor].
+Put the <belonging> ___ the [table/couch/floor/counter/desk].
+on;at;in
+
+[I/He/She/They/We/<(fe)male-name>] started working ___ [7/8/9] o'clock.
+[We/They/I] get on the bus every morning ____ [seven/7] (o'clock).
+[He/She/<(fe)male-name>] gets on the bus every morning ____ [seven/7] (o'clock).
+[I/We/They/He/She/<(fe)male-name>/My <family;!young>] came [back/home/back home] (late) ___ night.
+[I meet my/He meets his] girlfriend ___ [six/seven/eight/nine] (o'clock).
+[I meet my/She meets her] boyfriend ___ [six/seven/eight/nine] (o'clock).
+[He/She/<(fe)male-name>] often goes out ___ night.
+I [get/wake] up ___ [7/seven/6/six/5/five](am).
+[Let's meet/Meet me] ___ the bus stop [later/tomorrow/tonight].
+at;on;in
