@@ -1,0 +1,30 @@
+1st=pertama=first
+2nd=kedua=second
+3rd=ketiga=third
+4th=keempat=fourth
+5th=kelima=fifth
+6th=keenam=sixth
+7th=ketujuh=seventh
+8th=kedelapan=eighth
+9th=kesembilan=ninth
+10th=kesepuluh=tenth
+11th=kesebelas=eleventh
+12th=keduabelas=twelfth
+13th=ketigabelas=thirteenth
+14th=keempatbelas=fourteenth
+15th=kelimabelas=fifteenth
+16th=keenambelas=sixteenth
+17th=ketujuhbelas=seventeenth
+18th=kedelapanbelas=eighteenth
+19th=kesembilanbelas=nineteenth
+20th=keduapuluh=twentieth
+21st=keduapuluhsatu=twenty first
+22nd=keduapuluhdua=twenty second
+23rd=keduapuluhtiga=twenty third
+24th=keduapuluhempat=twenty fourth
+25th=keduapuluhlima=twenty fifth
+26th=keduapuluhenam=twenty sixth
+27th=keduapuluhtujuh=twenty seventh
+28th=keduapuluhdelapan=twenty eighth
+29th=keduapuluhsembilan=twenty ninth
+30th=ketigapuluh=thirtieth
