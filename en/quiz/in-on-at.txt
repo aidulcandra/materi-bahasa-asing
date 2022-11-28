@@ -11,7 +11,7 @@ I['m/ am] ___ my [room/office].
 He['s/ is] ___ his [room/office].
 She['s/ is] ___ her [room/office].
 [I'm/He's/She's/<(fe)male-name>'s] ___ the city.
-in;on;at
+in,on,at
 
 [I/He/She] was born __ the <ordinal-number> of <month>.
 [I/We/They] like going to the cinema ___ <dayoftheweek;;plural>.
@@ -29,7 +29,7 @@ What floor do [you/they] live ___?
 What floor does [he/she/<(fe)male-name>] lives ___?
 [I sit/He sits/She sits] ___ the [chair/bed/table/floor].
 Put the <belonging> ___ the [table/couch/floor/counter/desk].
-on;at;in
+on,at,in
 
 [I/He/She/They/We/<(fe)male-name>] started working ___ [7/8/9] o'clock.
 [We/They/I] get on the bus every morning ____ [seven/7] (o'clock).
@@ -40,4 +40,4 @@ on;at;in
 [He/She/<(fe)male-name>] often goes out ___ night.
 I [get/wake] up ___ [7/seven/6/six/5/five](am).
 [Let's meet/Meet me] ___ the bus stop [later/tomorrow/tonight].
-at;on;in
+at,on,in
