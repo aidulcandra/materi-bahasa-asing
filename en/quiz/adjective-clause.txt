@@ -1,6 +1,6 @@
 [I/We] [saw/talked to/met] the <person;!young> ... [reads/writes] the book.
 [<female-name>/She] [saw/talked to/met] the boy ... is ([so/very]) [cute/handsome].
-[<male-name>/He] [saw/met/talked to] the girl ... is ([so/very]) [cute/beautiful].\
+[<male-name>/He] [saw/met/talked to] the girl ... is ([so/very]) [cute/beautiful].
 [He/She/<(fe)male-name>] is the student ... founded the <sport> club.
 <possessive-adjective;!nonhuman> friend ... lives [(t)here/in the city] is a <profession>.
 who,whose,whom
