@@ -1,0 +1,9 @@
+car=mobil
+bike=sepeda
+bicycle=sepeda
+truck=truk
+motorcycle=sepeda motor
+airplane=pesawat
+helicopter=helikopter
+ship=kapal
+boat=perahu
