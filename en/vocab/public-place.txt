@@ -1,0 +1,14 @@
+hospital=rumah sakit
+police station=kantor polisi
+masjid
+church=gereja
+school=sekolah
+office=kantor
+cinema=bioskop
+movies=bioskop
+park=taman
+garden=taman/kebun
+restaurant=restoran
+supermarket
+market=pasar
+library=perpustakaan
