@@ -1,0 +1,7 @@
+mathematics=matematika
+physics=fisika
+biology=biologi
+chemistry=kimia
+English=Bahasa Inggris
+art=kesenian
+history=sejarah
