@@ -22,7 +22,7 @@ when,where,which,who
 
 The <person;!young> ... <belonging;!plural-only> you borrowed needs it now.
 The main character is a <person;!young> ... name we do[ not/n't] know.
-<He/She/<(fe)male-name> has [<family;male;a> ... name is </<family;female;a> ... name is <fe]male-name>.
+[He/She/<(fe)male-name>] has [<family;male;a> ... name is </<family;female;a> ... name is <fe]male-name>.
 Th[is is/at's] the [writer/author] ... [novel/work/book] [I/we/you/they/he/she] praised [yesterday/last night/last week].
 Th[is/at] is the <person> ... [<family;male> is <profession;/<family;female> is <profession;fe]male;a>.
 [He/She/<(fe)male-name>] has a (good) friend ... [<family;male> is <profession;/<family;female> is <profession;fe]male;a>.
