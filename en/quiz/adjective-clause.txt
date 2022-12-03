@@ -1,0 +1,45 @@
+[I/We] [saw/talked to/met] the <person;!young> ... [reads/writes] the book.
+[<female-name>/She] [saw/talked to/met] the boy ... is ([so/very]) [cute/handsome].
+[<male-name>/He] [saw/met/talked to] the girl ... is ([so/very]) [cute/beautiful].\
+[He/She/<(fe)male-name>] is the student ... founded the <sport> club.
+<possessive-adjective;!nonhuman> friend ... lives [(t)here/in the city] is a <profession>.
+who,whose,whom
+
+[He/She/<(fe)male-name>/The <person;!young>] makes a [cake/cookie] ... tastes [good/delicious/bad/awful].
+[He/<male-name>] studied <school-subject>, ... is [hard/easy] for him.
+[She/<female-name>] studied <school-subject>, ... is [hard/easy] for her.
+[He/She/<(fe)male-name>/The <person;!young>] [purchases/buys] a car ... has <color> color.
+The [exam/test] ... [I/we] did[n't/ not] [be prepared/study] for was (not) [very/really/so] [difficult/hard/easy].
+[I/We] can see the <vehicle> ... is <color> in color.
+Th[at/is] is the same <belonging;!plural-only> ... my <family> owns.
+[that/which],who,whom,whose
+
+[I/We] visited my [grandfather/grandmother/uncle/aunt] [yesterday/last week] ... it was a holiday.
+There are [days/times] ... [I/we] miss [you/him/her/them], too.
+[We're good friends now, but there was a time ... we/They're good friends now, but there was a time ... they] didn't like each other.
+[I/We]'ll never forget th[e/at] day ... we (first) met.
+when,where,which,who
+
+The <person;!young> ... <belonging;!plural-only> you borrowed needs it now.
+The main character is a <person;!young> ... name we do[ not/n't] know.
+<He/She/<(fe)male-name> has [<family;male;a> ... name is </<family;female;a> ... name is <fe]male-name>.
+Th[is is/at's] the [writer/author] ... [novel/work/book] [I/we/you/they/he/she] praised [yesterday/last night/last week].
+Th[is/at] is the <person> ... [<family;male> is <profession;/<family;female> is <profession;fe]male;a>.
+[He/She/<(fe)male-name>] has a (good) friend ... [<family;male> is <profession;/<family;female> is <profession;fe]male;a>.
+whose,who,whom,[which/that]
+
+[I'm/We're/I'll be/We'll be] staying (t)here with [our/my] [eld/young]est [brother/sister], ... you [talked to/saw/met] [yesterdat/last night/last week].
+[He/<male-name>] is the <profession> for ... [you are/I am/She is/We are/They are] looking.
+[I/We/They] don't know ... to [believe/trust] anymore.
+It's not [you/them/him/her] ... [I/we] want to [go with/talk to/see].
+[He/She/<(fe)male-name>] has two [brothers/sisters], both of ... live in <country>.
+(Go) [ask/see/find] the <profession>, ... I'm sure knows (about it).
+The <person;!young> to ... [we/I] spoke was <nationality;;a>.
+whom,whose,who
+
+The [place/building] ... <(fe)male-name> [works/is working] is in [(t)here/that town/this town/this city/that city].
+<male-name> said his [apartment/house] was ([just/only]) [around/about] [two/three] [kilometers/miles] from the <public-place> ... he worked.
+<female-name> said her [apartment/house] was ([just/only]) [around/about] [two/three] [kilometers/miles] from the <public-place> ... she worked.
+<male-name> and <female-name> live in the [apartment/house] ... they were born.
+<female-name> was banned from the store ... <male-name> was working.
+where,when,which,who
