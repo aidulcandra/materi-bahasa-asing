@@ -82,7 +82,7 @@ _____ are [our/their/your] names?
 What,Who,How
 
 ________ is th[at/e] building?
-How tall,How's tall,How talls
+How tall,How's tall,How tall's
 
 In the [United States/US] ____ [about/approximately] four million miles of roads, streets, and highways.
 there are,is,there,there is
