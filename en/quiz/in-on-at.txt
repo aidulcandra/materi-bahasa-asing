@@ -16,7 +16,7 @@ in,on,at
 [I/He/She] was born __ the <ordinal-number> of <month>.
 [I/We/They] like going to the cinema ___ <dayoftheweek;;plural>.
 [He/She/<(fe)male-name>] likes going to the cinema ___ <dayoftheweek;;plural>.
-[They/He/She/<(fe)male-nam>/My <family>] visited me ___ <dayoftheweek>.
+[They/He/She/<(fe)male-name>/My <family>] visited me ___ <dayoftheweek>.
 School [begins/starts] ___ the first of <month>.
 School [ends/is over] ___ the <ordinal-number> of <month>.
 <possessive-adjective;!nonhuman> [soccer/football/baseball/hockey/basketball] game is ___ <dayoftheweek>.
