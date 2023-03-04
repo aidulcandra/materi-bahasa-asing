@@ -21,6 +21,7 @@ loud,loudly
 [He/She/<(fe)male-name>] knows how to learn a language _____.
 [I/We/They/He/She] adapted _____.
 The (TV) commercial for herbal supplements ended with a _____ spoken disclaimer.
+[I/He/She/<(fe)male-name>/The <person;!young>] _____ ran to the [building/store/house].
 quickly,quick
 
 The (TV) commercial for herbal supplements ended with a _____ disclaimer.
@@ -42,7 +43,12 @@ Check your (home)work ______.
 (Please) read all the instructions (in the [manual/book]) ______.
 (Al)though [he/<male-name>/the <person;male,!young>] was writing _____, he had many mistakes in his writing task.
 (Al)though [she/<female-name>/the <person;female,!young>] was writing _____, she had many mistakes in her writing task.
+[We _____ planned our/They _____ planned their] vacation.
+[I/He/She/<(fe)male-name>] drove _______ in the snow.
 carefully,carefuly,careful
+
+Please be ______.
+careful,carefuly,carefully
 
 [I've/He's/She's] been having a lot of headaches _____.
 [I have/He has/She has]n't slept well ____.
@@ -111,3 +117,29 @@ complete,completely
 [She/<female-name>] is a ___ girl.
 [I'm/He's/She's] really ____.
 sad,sadly
+
+[I/He/She/<(fe)male-name>] _____ accepted the job offer.
+happily, happy
+
+[I/He/She/<(fe)male-name>] was _____ to accept the job offer.
+happy, happily
+
+[I/He/She/<(fe)male-name>] answered the question ______.
+correctly, correct
+
+[My/His/Her/<(fe)male-name>'s] answer to the question was ______.
+correct, correctly
+
+[They/He/She] worked _____ on the project.
+diligently, diligent
+
+[He is/She is] a ______ worker.
+diligent, diligently
+
+[He/<male-name>] ______ considered his options.
+[She/<female-name>] ______ considered her options.
+thoughtfully, thoughtful
+
+[He/<male-name>] was ______ when considering his options.
+[She/<female-name>] was ______ when considering her options.
+thoughtful, thoughtfully
