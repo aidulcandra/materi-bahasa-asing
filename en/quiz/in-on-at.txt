@@ -11,6 +11,11 @@ I['m/ am] ___ my [room/office].
 He['s/ is] ___ his [room/office].
 She['s/ is] ___ her [room/office].
 [I'm/He's/She's/<(fe)male-name>'s] ___ the city.
+[I/We/He/She/They/<(fe)male-name>] saw a [bird/plane/helicopter/rainbow] ___ the sky [this morning/this afternoon/yesterday].
+[I/We/He/She/They/<(fe)male-name>] planted some flowers ___ the garden [this morning/yesterday/last week].
+[I/We/He/She/They/<(fe)male-name>] went swimming ___ the ocean and saw some [dolphins/jellyfishes].
+[I/We/He/She/They/<(fe)male-name>] went fishing ___ the lake and caught some fish.
+[I/He/She/<(fe)male-name>] played catch ___ the yard with the dog.
 in,on,at
 
 [I/He/She] was born __ the <ordinal-number> of <month>.
@@ -29,6 +34,11 @@ What floor do [you/they] live ___?
 What floor does [he/she/<(fe)male-name>] lives ___?
 [I sit/He sits/She sits] ___ the [chair/bed/table/floor].
 Put the <belonging> ___ the [table/couch/floor/counter/desk].
+[I/You/He/She/<(fe)male-name>] the <belonging> ___ the [table/couch/floor/counter/desk] before [leaving for/going to] [work/school].
+There [is/was/should be/has to be] a painting hanging ___ the wall.
+[I dropped my/He dropped his/She dropped her/<male-name> dropped his/<female-name> dropped her] <belonging> ___ the [floor/ground].
+[I/He/She/<(fe)male-name>] sat down ___ the [sofa/chair] to [watch some TV/read some books/read some magazines].
+[I/He/She/<(fe)male-name>] laid down ___ the bed to [take a nap/sleep].
 on,at,in
 
 [I/He/She/They/We/<(fe)male-name>] started working ___ [7/8/9] o'clock.
@@ -40,4 +50,7 @@ on,at,in
 [He/She/<(fe)male-name>] often goes out ___ night.
 I [get/wake] up ___ [7/seven/6/six/5/five](am).
 [Let's meet/Meet me] ___ the bus stop [later/tomorrow/tonight].
+[We/They] spent the day ___ the beach [playing in the sand/swimming/surfing/tanning/building sand castles].
+[We/They/<(fe)male-name> and <(fe)male-name>] went out to eat ___ the restaurant for dinner.
+[We/They/<(fe)male-name> and <(fe)male-name>] went shopping ___ the mall and bought some clothes.
 at,on,in
