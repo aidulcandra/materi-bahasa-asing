@@ -3,6 +3,7 @@
 [<male-name>/He] [saw/met/talked to] the girl ... is ([so/very]) [cute/beautiful].
 [He/She/<(fe)male-name>] is the student ... founded the <sport> club.
 <possessive-adjective;!nonhuman> friend ... lives [(t)here/in the city] is a <profession>.
+(Go )[ask/see/find] the <profession>, ... I'm sure knows( about it).
 who,whose,whom
 
 [He/She/<(fe)male-name>/The <person;!young>] makes a [cake/cookie] ... tastes [good/delicious/bad/awful].
@@ -33,7 +34,6 @@ whose,who,whom,[which/that]
 [I/We/They] don't know ... to [believe/trust] anymore.
 It's not [you/them/him/her] ... [I/we] want to [go with/talk to/see].
 [He/She/<(fe)male-name>] has two [brothers/sisters], both of ... live in <country>.
-(Go )[ask/see/find] the <profession>, ... I'm sure knows( about it).
 The <person;!young> to ... [we/I] spoke was <nationality;;a>.
 whom,whose,who
 
