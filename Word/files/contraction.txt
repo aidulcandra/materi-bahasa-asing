@@ -1,0 +1,27 @@
+AM/IS/ARE
+WORD      CONTRACTION
+are not =         aren't 
+cannot =          can't
+could not =      could't
+did not =           didn't
+do not =           don't
+does not =       doesn't
+had not =         hadn't
+have not =       haven't
+he is =              he's
+he has =          he's
+he will =          he'll
+he would =     he'd
+here is =         here's 
+i am  =             i' m 
+i have =          i've
+i will =             l'll
+i would =        i'd
+i had =           i'd
+is not =         isn't
+it is =            it's
+it has =         it's
+must not =   musn't
+she is =        she's
+she has =     she's
+she will =     she'll
