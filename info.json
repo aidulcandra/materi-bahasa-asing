@@ -1,0 +1,8 @@
+{
+  "languages": [
+    {"code":"en", "name_en":"English", "name_id":"Bahasa Inggris", "name_native":"English", "name_native_latin":"English"},
+    {"code":"ja", "name_en":"Japanese", "name_id":"Bahasa Jepang", "name_native":"日本語", "name_native_latin":"Nihongo"},
+    {"code":"de", "name_en":"German", "name_id":"Bahasa Jerman", "name_native":"Deutsch", "name_native_latin":"Deutsch"},
+    {"code":"es", "name_en":"Spanish", "name_id":"Bahasa Spanyol", "name_native":"Español", "name_native_latin":"Español"}
+  ]
+}
