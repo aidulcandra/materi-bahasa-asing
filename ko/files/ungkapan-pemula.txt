@@ -1,6 +1,5 @@
 ⭐ *Ungkapan Pemula* 🇰🇷
 
-```
 ✅ *네 (ne)*  
 _Iya_  
 
@@ -38,5 +37,4 @@ _Tentu saja_
 _Aku lapar_  
 
 ✔️ *이해해요 (ihaehaeyo)*  
-_Aku mengerti_  
-```
+_Aku mengerti_
