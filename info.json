@@ -4,6 +4,12 @@
     {"code":"ja", "name_en":"Japanese", "name_id":"Bahasa Jepang", "name_native":"日本語", "name_native_latin":"Nihongo"},
     {"code":"de", "name_en":"German", "name_id":"Bahasa Jerman", "name_native":"Deutsch", "name_native_latin":"Deutsch"},
     {"code":"es", "name_en":"Spanish", "name_id":"Bahasa Spanyol", "name_native":"Español", "name_native_latin":"Español"},
-    {"code":"ar", "name_en":"Arabic", "name_id":"Bahasa Arab", "name_native":"العربية", "name_native_latin":"Al-Arabiyyah"}
+    {"code":"ar", "name_en":"Arabic", "name_id":"Bahasa Arab", "name_native":"العربية", "name_native_latin":"Al-Arabiyyah"},
+    {"code":"ch", "name_en":"Chinese", "name_id":"Bahasa Cina", "name_native":"汉语", "name_native_latin":"Hànyǔ"},
+    {"code":"ko", "name_en":"Korean", "name_id":"Bahasa Korea", "name_native":"한국어", "name_native_latin":"Hangugeo"},
+    {"code":"ru", "name_en":"Russian", "name_id":"Bahasa Rusia", "name_native":"Русский", "name_native_latin":"Russkii"},
+    {"code":"fr", "name_en":"French", "name_id":"Bahasa Prancis", "name_native":"Français", "name_native_latin":"Français"},
+    {"code":"it", "name_en":"Italian", "name_id":"Bahasa Italia", "name_native":"Italiano", "name_native_latin":"Italiano"},
+    {"code":"pt", "name_en":"Portuguese", "name_id":"Bahasa Portugis", "name_native":"Português", "name_native_latin":"Português"}
   ]
 }
